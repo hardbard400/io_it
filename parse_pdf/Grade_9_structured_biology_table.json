@@ -1,0 +1,68 @@
+[
+    {
+        "table_name": "Table 2.1 Application of commonly used stains",
+        "chunk_text": "This table outlines the application of commonly used stains in microscopy, detailing the type of cells they are used on and the main organelles or substances they stain. Haematoxylin is applied to both animal and plant cells, staining their nuclei blue/purple or brown. Methylene blue is used for animal cells to stain nuclei blue. Acetocarmine stains the chromosomes in dividing nuclei of both animal and plant cells. Lastly, Iodine is used on plant cells to stain any material containing starch.",
+        "page_number": 15,
+        "_id": "rec_1"
+    },
+    {
+        "table_name": "Table 3.1 Sources of disaccharides",
+        "chunk_text": "This table lists common disaccharides and their sources. Sucrose is a disaccharide stored in plants like sugar beet and sugar cane. Lactose, also known as milk sugar, is the main carbohydrate found in milk. Maltose, or malt sugar, is found in germinating seeds such as barley.",
+        "page_number": 53,
+        "_id": "rec_4"
+    },
+    {
+        "table_name": "Table 3.2 Several of the main minerals needed in the diet and the deficiency diseases associated with them",
+        "chunk_text": "This table outlines several main minerals essential for the diet, detailing their approximate mass in an adult body, their role or location, food sources, and the effects of their deficiency. Calcium, present at about 1000g, is crucial for making bones and teeth and is found in dairy products, fish, bread, and vegetables; its deficiency causes rickets. Phosphorus, about 650g, helps form teeth and bones and is part of many chemicals like DNA, found in most foods; its lack leads to improper formation of teeth and bones and metabolic failure. Sodium and Chlorine, both around 100g, are found in body fluids like blood, sourced from common salt and most foods; their deficiency results in muscular cramps. Magnesium, approximately 30g, is important for making bones and is found inside cells, with green vegetables being a good source; its deficiency can cause skeletal problems, affect cell chemistry, and lead to metabolic defects. Iron, present in the smallest amount at about 3g, is a key component of haemoglobin in red blood cells, helping to carry oxygen; it's abundant in red meat, liver, eggs, and green leafy vegetables like spinach, and its deficiency causes anaemia.",
+        "page_number": 61,
+        "_id": "rec_5"
+    },
+    {
+        "table_name": "Table 3.3 Several of the main vitamins needed in the diet and the deficiency diseases associated with them",
+        "chunk_text": "This table presents several main vitamins required in the diet, their recommended daily amounts, uses in the body, good food sources, and the effects of their deficiency. Vitamin A, recommended at 0.8 mg daily, is used for making a chemical in the retina and protecting the eye's surface, found in fish liver oils, liver, butter, margarine, and carrots; its deficiency causes night blindness and damaged cornea. Vitamin B1, with a recommended daily amount of 1.4 mg, assists with cell respiration and is sourced from yeast extract and cereals; its lack leads to beri-beri. Vitamin C, needed at 60 mg daily, helps stick together cells lining surfaces like the mouth and is found in fresh fruits and vegetables; its deficiency results in scurvy. Vitamin D, with a recommended daily amount of 5 g, helps bones absorb calcium and phosphorus, and can also be made in the skin via sunlight, with fish liver oils being a source; its deficiency causes rickets and poor teeth.",
+        "page_number": 62,
+        "_id": "rec_6"
+    },
+    {
+        "table_name": "Table 3.4 Daily energy needs",
+        "chunk_text": "This table presents the approximate daily energy needs in kilojoules (kj) for various age groups, sexes, and occupations. A newborn baby requires 2000 kj, increasing to 5000 kj for a 2-year-old child and 7500 kj for a 6-year-old. Adolescent needs vary by sex: girls aged 12-14 need 9000 kj, while boys of the same age need 11,000 kj. For ages 15-17, girls still need 9000 kj, but boys require 12,000 kj. Adult energy needs differ by activity and status: a female office worker needs 9500 kj, a male office worker 10,500 kj, and a heavy manual worker 15,000 kj. Pregnant women require 10,000 kj, and breastfeeding women need 11,300 kj. Finally, energy needs in later life are 7610 kj for women aged 75 and over, and 8770 kj for men aged 75 and over.",
+        "page_number": 65,
+        "_id": "rec_7"
+    },
+    {
+        "table_name": "Table 3.5 Enzymes of the human digestive system",
+        "chunk_text": "This table, titled 'Enzymes of the human digestive system,' summarizes three types of enzymes found in the human gut. Carbohydrases, exemplified by amylase and maltase, are located in the salivary glands, pancreas, and small intestine, where they act on starch and maltose to produce glucose. Proteases, such as pepsin and trypsin, are found in the stomach, pancreas, and small intestine, breaking down protein into amino acids. Lastly, lipase is present in the pancreas and small intestine, acting on lipids (fats and oils) to yield fatty acids and glycerol.",
+        "page_number": 76,
+        "_id": "rec_8"
+    },
+    {
+        "table_name": "Table 3.6 An analysis of the air taken into and breathed out of the lungs shows how the chemical make-up is changed by the diffusion that takes place in the lungs.",
+        "chunk_text": "This table, titled 'An analysis of the air taken into and breathed out of the lungs shows how the chemical make-up is changed by the diffusion that takes place in the lungs', compares the composition of atmospheric gases in inhaled and exhaled air. For nitrogen, both inhaled and exhaled air contain about 80%. Oxygen content decreases from 21% in inhaled air to 16% in exhaled air. Conversely, carbon dioxide significantly increases from 0.04% in inhaled air to 4% in exhaled air.",
+        "page_number": 88,
+        "_id": "rec_9"
+    },
+    {
+        "table_name": "Table 3.7 Antigens and antibodies of different blood groups",
+        "chunk_text": "This table details the antigens found on red blood cells and the antibodies present in the plasma for the four ABO blood groups. Blood group A has A antigens and b antibodies. Blood group B has B antigens and a antibodies. Blood group AB has both A and B antigens but no antibodies. Blood group O has no antigens but possesses both a and b antibodies.",
+        "page_number": 114,
+        "_id": "rec_10"
+    },
+    {
+        "table_name": "Table 4.1 Prevalence of HIV and chancroid in some African countries",
+        "chunk_text": "This table details the prevalence of adult HIV and chancroid in selected African countries. In Botswana, adult HIV prevalence is 36% and chancroid prevalence is 26%. Zimbabwe reports an adult HIV prevalence of 25% and a chancroid prevalence of 46%. South Africa has an adult HIV prevalence of 20% and the highest chancroid prevalence at 70%. Kenya's adult HIV prevalence stands at 14% with a chancroid prevalence of 62%. Ethiopia shows an adult HIV prevalence of 11% and a chancroid prevalence of 19%. Finally, Uganda has the lowest figures among these, with 8% adult HIV prevalence and 8.5% chancroid prevalence.",
+        "page_number": 152,
+        "_id": "rec_11"
+    },
+    {
+        "table_name": "Table 5.1 Examples of scientific names of some common organisms",
+        "chunk_text": "This table provides the common names and corresponding scientific names for several organisms. Human beings are scientifically named Homo sapiens, a dog is Canis familiaris, and a housefly is Musca domestica. A domestic cat is known as Felis domesticus, maize as Zea mays, and bean as Phaseolus vulgaris. Lastly, a lion is identified by its scientific name, Panthera leo.",
+        "page_number": 174,
+        "_id": "rec_12"
+    },
+    {
+        "table_name": "Table 5.2 Hierarchy of groups",
+        "chunk_text": "This table outlines the hierarchical classification of four different organisms: Human, Honeybee, Teff, and Mushroom, across seven taxonomic levels. Humans are classified under Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Primates, Family Hominidae, Genus Homo, and Species sapiens. The Honeybee belongs to Kingdom Animalia, Phylum Arthropoda, Class Insecta, Order Hymenoptera, Family Apidae, Genus Apis, and Species mellifera. Teff is categorized under Kingdom Plantae, Phylum Angiospermophyta, Class Liliopsida, Order Cyperales, Family Poaceae, Genus Eragrostis, and Species teff. Finally, the Mushroom is classified under Kingdom Fungi, Phylum Basidiomycot, Class Basidiomycetes, Order Agaricales, Family Agaricaceae, Genus Agaris, and Species campestris.",
+        "page_number": 175,
+        "_id": "rec_13"
+    }
+]

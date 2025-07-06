@@ -1,0 +1,992 @@
+[
+    {
+        "_id": "rec0",
+        "chunk_text": "scientific method is the process by which scientists approach their work",
+        "topic": "What is science?",
+        "page_number": 3
+    },
+    {
+        "_id": "rec1",
+        "chunk_text": "experimental science is the use of experiments to obtain information",
+        "topic": "What is science?",
+        "page_number": 3
+    },
+    {
+        "_id": "rec2",
+        "chunk_text": "applied science is the use of scientific research to meet certain human needs",
+        "topic": "What is science?",
+        "page_number": 3
+    },
+    {
+        "_id": "rec3",
+        "chunk_text": "spontaneous generation is the appearance of living organisms from non-living matter",
+        "topic": "What are the main steps of the scientific method?",
+        "page_number": 5
+    },
+    {
+        "_id": "rec4",
+        "chunk_text": "hypothesis is an educated guess about what a biologist thinks the explanation of an observation will be. But it has to be stated in such a way that it can be tested by an experiment",
+        "topic": "What are the main steps of the scientific method?",
+        "page_number": 5
+    },
+    {
+        "_id": "rec5",
+        "chunk_text": "prediction is an educated guess as to how the biologist thinks his/her experiment will turn out",
+        "topic": "What are the main steps of the scientific method?",
+        "page_number": 5
+    },
+    {
+        "_id": "rec6",
+        "chunk_text": "control group is the standard group in an experiment in which the experimental groups are compared with",
+        "topic": "Control group and experimental group",
+        "page_number": 6
+    },
+    {
+        "_id": "rec7",
+        "chunk_text": "experimental group is the group in an experiment which is being experimented on in order to compare with the control group",
+        "topic": "Control group and experimental group",
+        "page_number": 6
+    },
+    {
+        "_id": "rec8",
+        "chunk_text": "independent variable is the variable that the experimenter changes to see if this affects the performance of the dependent variable. Does the presence or absence of a drug in a tablet (independent variable) affect the recovery of the patient?",
+        "topic": "What do we mean by cause and effect?",
+        "page_number": 8
+    },
+    {
+        "_id": "rec9",
+        "chunk_text": "dependent variable is the factor in an experiment that the scientist measures to see if it changes when the independent variable is changed",
+        "topic": "What do we mean by cause and effect?",
+        "page_number": 8
+    },
+    {
+        "_id": "rec10",
+        "chunk_text": "fair test is an experiment in which the only difference between different repeats of the experiment is the different values of the independent variable, all other factors that could affect the outcome have been kept constant (they have been controlled)",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 9
+    },
+    {
+        "_id": "rec11",
+        "chunk_text": "controlled variables are factors other than the independent variable that are kept constant in order to avoid influencing results",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 9
+    },
+    {
+        "_id": "rec12",
+        "chunk_text": "confounding variable is a factor that can’t be controlled which may influence the result of the experiment",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 9
+    },
+    {
+        "_id": "rec13",
+        "chunk_text": "accuracy is how precisely something has been measured or counted",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 9
+    },
+    {
+        "_id": "rec14",
+        "chunk_text": "reliability is a measure of how dependable and consistent the results of an experiment are",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 10
+    },
+    {
+        "_id": "rec15",
+        "chunk_text": "anomalous results are really odd results that do not fit the general pattern",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 10
+    },
+    {
+        "_id": "rec16",
+        "chunk_text": "colorimeter measures how much light passes through a liquid",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "page_number": 10
+    },
+    {
+        "_id": "rec17",
+        "chunk_text": "balances are apparatus used for measuring mass",
+        "topic": "What apparatus do biologists use?",
+        "page_number": 12
+    },
+    {
+        "_id": "rec18",
+        "chunk_text": "dissect means to cut apart or separate tissue for anatomical study",
+        "topic": "What apparatus do biologists use?",
+        "page_number": 12
+    },
+    {
+        "_id": "rec19",
+        "chunk_text": "agar is a jelly-like substance obtained from seaweed, used for culturing micro-organisms in a Petri dish",
+        "topic": "What do biologists use in the laboratory?",
+        "page_number": 14
+    },
+    {
+        "_id": "rec20",
+        "chunk_text": "to culture organisms means to grow them under special conditions that are likely to help their growth",
+        "topic": "What do biologists use in the laboratory?",
+        "page_number": 14
+    },
+    {
+        "_id": "rec21",
+        "chunk_text": "optical microscope uses beams of light to produce magnified images",
+        "topic": "What do biologists use in the laboratory?",
+        "page_number": 15
+    },
+    {
+        "_id": "rec22",
+        "chunk_text": "electron microscope uses beams of electrons to produce magnified images",
+        "topic": "What do biologists use in the laboratory?",
+        "page_number": 15
+    },
+    {
+        "_id": "rec23",
+        "chunk_text": "centrifuge is a machine that spins to separate solids from liquids",
+        "topic": "What do biologists use in the laboratory?",
+        "page_number": 16
+    },
+    {
+        "_id": "rec24",
+        "chunk_text": "quadrat is a small frame used for ecological or population studies",
+        "topic": "What do biologists use in the field?",
+        "page_number": 16
+    },
+    {
+        "_id": "rec25",
+        "chunk_text": "transect line is a straight line through an area",
+        "topic": "What do biologists use in the field?",
+        "page_number": 21
+    },
+    {
+        "_id": "rec26",
+        "chunk_text": "random means having no specific pattern, purpose or objective",
+        "topic": "What do biologists use in the field?",
+        "page_number": 21
+    },
+    {
+        "_id": "rec27",
+        "chunk_text": "bias means tending towards a specific result",
+        "topic": "What do biologists use in the field?",
+        "page_number": 21
+    },
+    {
+        "_id": "rec28",
+        "chunk_text": "biotechnology is the use of micro-organisms and enzymes that will benefit mankind",
+        "topic": "Biotechnology",
+        "page_number": 28
+    },
+    {
+        "_id": "rec29",
+        "chunk_text": "AIDS is a disease that severely reduces the body’s immune functioning",
+        "topic": "1.4 Biology and HIV/AIDS",
+        "page_number": 30
+    },
+    {
+        "_id": "rec30",
+        "chunk_text": "HIV is the virus that causes AIDS",
+        "topic": "1.4 Biology and HIV/AIDS",
+        "page_number": 30
+    },
+    {
+        "_id": "rec31",
+        "chunk_text": "retrovirus is a virus that inserts its RNA into the host cell where it is ‘reverse transcribed’ to DNA",
+        "topic": "How can biology help in the fight against AIDS?",
+        "page_number": 32
+    },
+    {
+        "_id": "rec32",
+        "chunk_text": "anti-retroviral drugs are drugs that target retroviruses and prevent them replicating",
+        "topic": "How can biology help in the fight against AIDS?",
+        "page_number": 32
+    },
+    {
+        "_id": "rec33",
+        "chunk_text": "highly active anti-retroviral therapy (HAART) is treatment using a combination of anti-retroviral drugs",
+        "topic": "How can biology help in the fight against AIDS?",
+        "page_number": 32
+    },
+    {
+        "_id": "rec34",
+        "chunk_text": "element is a substance that is made of only one kind of atom",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 39
+    },
+    {
+        "_id": "rec35",
+        "chunk_text": "atoms are the smallest particles of a chemical element",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 40
+    },
+    {
+        "_id": "rec36",
+        "chunk_text": "bond is the energy that joins atoms together to form a molecule",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 40
+    },
+    {
+        "_id": "rec37",
+        "chunk_text": "molecule is a number of atoms bonded together",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 40
+    },
+    {
+        "_id": "rec38",
+        "chunk_text": "compound is a substance made from molecules containing more than one kind of atom in a fixed ratio",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 40
+    },
+    {
+        "_id": "rec39",
+        "chunk_text": "valency is the number of bonds an atom can make with other atoms",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "page_number": 40
+    },
+    {
+        "_id": "rec40",
+        "chunk_text": "hydrogen bonds are bonds that join the oxygen in one water molecule to the hydrogen in another",
+        "topic": "Why is water so important to living things?",
+        "page_number": 41
+    },
+    {
+        "_id": "rec41",
+        "chunk_text": "specific heat capacity is the amount of energy needed to raise the temperature of 1 g of a substance by 1 oC",
+        "topic": "Why is water so important to living things?",
+        "page_number": 43
+    },
+    {
+        "_id": "rec42",
+        "chunk_text": "density is the mass in kg of 1 dm3 of a substance (or the mass in g of 1 cm3 of a substance)",
+        "topic": "Why is water so important to living things?",
+        "page_number": 43
+    },
+    {
+        "_id": "rec43",
+        "chunk_text": "latent heat of vaporisation is the energy used in converting a liquid to a gas at the same temperature",
+        "topic": "Why is water so important to living things?",
+        "page_number": 43
+    },
+    {
+        "_id": "rec44",
+        "chunk_text": "surface tension is the tension at the surface of a liquid resulting from unbalanced forces acting on the molecules at the surface",
+        "topic": "Why is water so important to living things?",
+        "page_number": 44
+    },
+    {
+        "_id": "rec45",
+        "chunk_text": "reactant is a substance that takes part in a chemical reaction",
+        "topic": "Water as a reactant.",
+        "page_number": 45
+    },
+    {
+        "_id": "rec46",
+        "chunk_text": "hydrolysis means using water to split large molecules",
+        "topic": "Water as a reactant.",
+        "page_number": 45
+    },
+    {
+        "_id": "rec47",
+        "chunk_text": "carbohydrate is a molecule that contains the elements carbon, hydrogen and oxygen",
+        "topic": "What are carbohydrates and why do we need them?",
+        "page_number": 48
+    },
+    {
+        "_id": "rec48",
+        "chunk_text": "starch is a complex carbohydrate that stores chemical energy in plants",
+        "topic": "What are carbohydrates and why do we need them?",
+        "page_number": 48
+    },
+    {
+        "_id": "rec49",
+        "chunk_text": "glycogen is a complex carbohydrate that stores chemical energy in animals",
+        "topic": "What are carbohydrates and why do we need them?",
+        "page_number": 48
+    },
+    {
+        "_id": "rec50",
+        "chunk_text": "monosaccharide is a single sugar",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 53
+    },
+    {
+        "_id": "rec51",
+        "chunk_text": "isomers are molecules with the same chemical composition, but a different arrangement of atoms",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 53
+    },
+    {
+        "_id": "rec52",
+        "chunk_text": "functional group is a group of atoms within a molecule that behaves in a particular way",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 53
+    },
+    {
+        "_id": "rec53",
+        "chunk_text": "aldoses are monosaccharides with an aldehyde group in the molecule",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 53
+    },
+    {
+        "_id": "rec54",
+        "chunk_text": "ketoses are monosaccharides with a ketone group in the molecule",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 53
+    },
+    {
+        "_id": "rec55",
+        "chunk_text": "disaccharide is a sugar formed when two monosaccharides join together",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 54
+    },
+    {
+        "_id": "rec56",
+        "chunk_text": "maltose is a disaccharide derived from two α-glucose molecules",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 54
+    },
+    {
+        "_id": "rec57",
+        "chunk_text": "sucrose is a disaccharide derived from an α-glucose molecule and a fructose molecule",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 54
+    },
+    {
+        "_id": "rec58",
+        "chunk_text": "condensation is the process in which two molecules combine to form a larger molecule, producing a smaller molecule (often water) as a by-product",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 55
+    },
+    {
+        "_id": "rec59",
+        "chunk_text": "glycosidic bond is the bond that holds two monosaccharide units together",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 55
+    },
+    {
+        "_id": "rec60",
+        "chunk_text": "polysaccharide is a carbohydrate whose molecules consist of a number of monosaccharide molecules bonded together",
+        "topic": "What different types of carbohydrates are there?",
+        "page_number": 55
+    },
+    {
+        "_id": "rec61",
+        "chunk_text": "amylose is a long unbranched chain of α-glucose molecules",
+        "topic": "Starch",
+        "page_number": 56
+    },
+    {
+        "_id": "rec62",
+        "chunk_text": "amylopectin is a chain of α-glucose molecules with many branches",
+        "topic": "Starch",
+        "page_number": 56
+    },
+    {
+        "_id": "rec63",
+        "chunk_text": "covalently bonded hydrocarbon chain means a chain of carbon atoms, covalently bonded to each other and to one, or more, hydrogen atoms",
+        "topic": "Triglycerides",
+        "page_number": 59
+    },
+    {
+        "_id": "rec64",
+        "chunk_text": "carboxyl group is acid radical -COOH. It releases H+ into aqueous solution to make the solution acidic",
+        "topic": "Triglycerides",
+        "page_number": 59
+    },
+    {
+        "_id": "rec65",
+        "chunk_text": "saturated fatty acid means all the carbon–carbon bonds in the hydrocarbon chain are single bonds",
+        "topic": "Triglycerides",
+        "page_number": 60
+    },
+    {
+        "_id": "rec66",
+        "chunk_text": "monounsaturated fatty acid means one of the carbon–carbon bonds is a double bond",
+        "topic": "Triglycerides",
+        "page_number": 60
+    },
+    {
+        "_id": "rec67",
+        "chunk_text": "polyunsaturated fatty acid means more than one carbon–carbon bond is a double bond",
+        "topic": "Triglycerides",
+        "page_number": 60
+    },
+    {
+        "_id": "rec68",
+        "chunk_text": "ester bond is the bond that forms between a carboxyl group and a hydroxyl group",
+        "topic": "Triglycerides",
+        "page_number": 60
+    },
+    {
+        "_id": "rec69",
+        "chunk_text": "hydrophilic means water-loving",
+        "topic": "Phospholipids",
+        "page_number": 61
+    },
+    {
+        "_id": "rec70",
+        "chunk_text": "hydrophobic means water-hating",
+        "topic": "Phospholipids",
+        "page_number": 61
+    },
+    {
+        "_id": "rec71",
+        "chunk_text": "bilayer means two layers sandwiched together",
+        "topic": "Phospholipids",
+        "page_number": 61
+    },
+    {
+        "_id": "rec72",
+        "chunk_text": "amino acids are the building blocks of proteins and have two functional groups – the amino group and the carboxyl group. This allows them to behave both as a base and as an acid",
+        "topic": "Why do we need proteins?",
+        "page_number": 62
+    },
+    {
+        "_id": "rec73",
+        "chunk_text": "peptide bond is the bond that links two amino acids",
+        "topic": "Why do we need proteins?",
+        "page_number": 62
+    },
+    {
+        "_id": "rec74",
+        "chunk_text": "polypeptide is a linear polymer consisting of amino acid residues bonded together in a chain forming a part or all of a protein molecule",
+        "topic": "Why do we need proteins?",
+        "page_number": 62
+    },
+    {
+        "_id": "rec75",
+        "chunk_text": "primary structure is the sequence formed by amino acids",
+        "topic": "Why do we need proteins?",
+        "page_number": 62
+    },
+    {
+        "_id": "rec76",
+        "chunk_text": "secondary structure is formed when a polypeptide chain folds itself into another structure",
+        "topic": "Why do we need proteins?",
+        "page_number": 63
+    },
+    {
+        "_id": "rec77",
+        "chunk_text": "α-helix is a coiled secondary structure of a polypeptide",
+        "topic": "Why do we need proteins?",
+        "page_number": 63
+    },
+    {
+        "_id": "rec78",
+        "chunk_text": "β-pleated sheet is a folded pleated sheet secondary structure of a polypeptide",
+        "topic": "Why do we need proteins?",
+        "page_number": 63
+    },
+    {
+        "_id": "rec79",
+        "chunk_text": "tertiary structure is folding of the secondary structure of a polypeptide by the formation of new bonds to hold it in place",
+        "topic": "Why do we need proteins?",
+        "page_number": 63
+    },
+    {
+        "_id": "rec80",
+        "chunk_text": "quaternary structure is structures formed when two or more polypeptide chains (folded into a tertiary structure) become associated in the final structure of the protein",
+        "topic": "Why do we need proteins?",
+        "page_number": 63
+    },
+    {
+        "_id": "rec81",
+        "chunk_text": "haemoglobin is the oxygen-carrying molecule in the blood",
+        "topic": "Why do we need proteins?",
+        "page_number": 64
+    },
+    {
+        "_id": "rec82",
+        "chunk_text": "collagen is fibrous protein found in many tissues in mammals",
+        "topic": "Why do we need proteins?",
+        "page_number": 64
+    },
+    {
+        "_id": "rec83",
+        "chunk_text": "DNA is a huge molecule made up of two strands of nucleotides wound into a double helix",
+        "topic": "What are nucleic acids?",
+        "page_number": 64
+    },
+    {
+        "_id": "rec84",
+        "chunk_text": "RNA is a molecule made up of one strand of nucleotides",
+        "topic": "What are nucleic acids?",
+        "page_number": 64
+    },
+    {
+        "_id": "rec85",
+        "chunk_text": "active site is the part of an enzyme molecule that binds with its substrate so that the enzyme can catalyse the chemical reaction",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 80
+    },
+    {
+        "_id": "rec86",
+        "chunk_text": "substrate is a substance upon which an enzyme acts in a biochemical reaction",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 80
+    },
+    {
+        "_id": "rec87",
+        "chunk_text": "enzyme–substrate complex is the intermediate formed, temporarily, when an enzyme binds to its substrate",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 80
+    },
+    {
+        "_id": "rec88",
+        "chunk_text": "catalyst is a substance that speeds up a chemical reaction and remains unchanged at the end of the reaction",
+        "topic": "What are catalysts?",
+        "page_number": 81
+    },
+    {
+        "_id": "rec89",
+        "chunk_text": "Enzyme Commission is a body set up to produce a systematic way of naming enzymes",
+        "topic": "How do we name and classify enzymes?",
+        "page_number": 82
+    },
+    {
+        "_id": "rec90",
+        "chunk_text": "activation energy is the energy required to start off a chemical reaction",
+        "topic": "How do enzymes act as catalysts?",
+        "page_number": 88
+    },
+    {
+        "_id": "rec91",
+        "chunk_text": "lock-and-key model proposes that the shapes of the substrate molecules are complementary to that of the active site",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 88
+    },
+    {
+        "_id": "rec92",
+        "chunk_text": "induced-fit model means the active site and substrate do not complement each other but the binding of substrate molecules produces a change in shape in the active site, allowing the substrate to fit the active site",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 88
+    },
+    {
+        "_id": "rec93",
+        "chunk_text": "turnover rate is the number of molecules of reactants that form enzyme–substrate complexes with each molecule of an enzyme, per second",
+        "topic": "The induced-fit model",
+        "page_number": 89
+    },
+    {
+        "_id": "rec94",
+        "chunk_text": "denature means the alteration of the tertiary structure of a protein; in living cells this is reversible",
+        "topic": "How hot must it be?",
+        "page_number": 93
+    },
+    {
+        "_id": "rec95",
+        "chunk_text": "optimum temperature is the temperature at which an enzyme works most efficiently",
+        "topic": "How hot must it be?",
+        "page_number": 95
+    },
+    {
+        "_id": "rec96",
+        "chunk_text": "pH scale is a measure of the hydrogen ion concentration of a solution",
+        "topic": "How acidic must it be?",
+        "page_number": 95
+    },
+    {
+        "_id": "rec97",
+        "chunk_text": "competitive inhibitor is a molecule that inhibits enzyme activity by competing with the substrate for the active site",
+        "topic": "Competitive inhibitors",
+        "page_number": 100
+    },
+    {
+        "_id": "rec98",
+        "chunk_text": "non-competitive inhibitor is a molecule that alters the conformation of the active site by binding with the allosteric site of the enzyme; it prevents the substrate from binding and inhibits enzyme activity",
+        "topic": "Non-competitive inhibitors",
+        "page_number": 100
+    },
+    {
+        "_id": "rec99",
+        "chunk_text": "end-product inhibition means when an end product inhibits the enzyme controlling the first stage of a reaction sequence",
+        "topic": "How do inhibitors control enzyme activity in living cells?",
+        "page_number": 101
+    },
+    {
+        "_id": "rec100",
+        "chunk_text": "activator is a substance that removes an inhibitor",
+        "topic": "How do inhibitors control enzyme activity in living cells?",
+        "page_number": 101
+    },
+    {
+        "_id": "rec101",
+        "chunk_text": "calibrating means correlate the readings of an instrument with a standard",
+        "topic": "How big are cells?",
+        "page_number": 116
+    },
+    {
+        "_id": "rec102",
+        "chunk_text": "arbitrary units are units we use when we don’t know actual dimensions but we know the mathematical relationship between different conditions",
+        "topic": "what are the consequences of the different sizes of cells?",
+        "page_number": 118
+    },
+    {
+        "_id": "rec103",
+        "chunk_text": "division of labour is the specialisation of different parts to carry out certain functions",
+        "topic": "4.2 Types of cells",
+        "page_number": 121
+    },
+    {
+        "_id": "rec104",
+        "chunk_text": "prokaryotic cell is a type of cell that does not have a nucleus. The word prokaryotic is derived from Greek pro (before) and karyos (nuclear)",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "page_number": 122
+    },
+    {
+        "_id": "rec105",
+        "chunk_text": "eukaryotic cell is a type of cell that has a nucleus. The word eukaryotic is derived from Greek eu (true) and karyos (nuclear)",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "page_number": 122
+    },
+    {
+        "_id": "rec106",
+        "chunk_text": "organelles are individual structures in a cell with a specific function",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "page_number": 122
+    },
+    {
+        "_id": "rec107",
+        "chunk_text": "endoplasmic reticulum is the network of membranes in a cell",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "page_number": 122
+    },
+    {
+        "_id": "rec108",
+        "chunk_text": "membrane-bound organelles are organelles surrounded by membranes",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "page_number": 122
+    },
+    {
+        "_id": "rec109",
+        "chunk_text": "heterotrophic means these cells must absorb organic molecules ‘ready-made’",
+        "topic": "How did eukaryotic cells originate?",
+        "page_number": 123
+    },
+    {
+        "_id": "rec110",
+        "chunk_text": "autotrophic cells are capable of making their own organic molecules from inorganic ones, usually by photosynthesis",
+        "topic": "How did eukaryotic cells originate?",
+        "page_number": 123
+    },
+    {
+        "_id": "rec111",
+        "chunk_text": "endosymbiont theory is the theory of the origin of eukaryotic cells",
+        "topic": "How did eukaryotic cells originate?",
+        "page_number": 123
+    },
+    {
+        "_id": "rec112",
+        "chunk_text": "70S and 80S ribosomes means the ‘S’ stands for ‘sedimentation coefficient’ and is a measure of their mass",
+        "topic": "4.2 Types of cells",
+        "page_number": 124
+    },
+    {
+        "_id": "rec113",
+        "chunk_text": "plasma membrane/cell surface membrane is the membrane at the surface of all cells that isolates the cell from the environment and controls the exchange of substances between cell and environment",
+        "topic": "what is the importance of the cell membrane?",
+        "page_number": 127
+    },
+    {
+        "_id": "rec114",
+        "chunk_text": "integral proteins are proteins that span both phospholipid layers in a plasma membrane",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 128
+    },
+    {
+        "_id": "rec115",
+        "chunk_text": "channel proteins are integral proteins with pores that allow ions to pass through the membrane",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 128
+    },
+    {
+        "_id": "rec116",
+        "chunk_text": "carrier proteins are integral proteins that move medium-sized particles across the membrane",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 128
+    },
+    {
+        "_id": "rec117",
+        "chunk_text": "peripheral proteins are proteins that span only one of the two phospholipid layers",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 129
+    },
+    {
+        "_id": "rec118",
+        "chunk_text": "glycoproteins are proteins with chains of sugars attached",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 129
+    },
+    {
+        "_id": "rec119",
+        "chunk_text": "cholesterol is a sterol lipid",
+        "topic": "what is the plasma membrane like?",
+        "page_number": 129
+    },
+    {
+        "_id": "rec120",
+        "chunk_text": "water potential is the concentration of water molecules",
+        "topic": "Osmosis",
+        "page_number": 132
+    },
+    {
+        "_id": "rec121",
+        "chunk_text": "isotonic solution is having the same water potential as the cell",
+        "topic": "What happens to cells placed in solutions of different concentrations?",
+        "page_number": 133
+    },
+    {
+        "_id": "rec122",
+        "chunk_text": "hypertonic solution is having lower water potential than the cell",
+        "topic": "What happens to cells placed in solutions of different concentrations?",
+        "page_number": 133
+    },
+    {
+        "_id": "rec123",
+        "chunk_text": "hypotonic solution is having a higher water potential than the cell",
+        "topic": "What happens to cells placed in solutions of different concentrations?",
+        "page_number": 133
+    },
+    {
+        "_id": "rec124",
+        "chunk_text": "cristae are partial partitions in mitochondria",
+        "topic": "Mitochondria",
+        "page_number": 138
+    },
+    {
+        "_id": "rec125",
+        "chunk_text": "fluid matrix is where some of the reactions of aerobic respiration take place in mitochondria",
+        "topic": "Mitochondria",
+        "page_number": 138
+    },
+    {
+        "_id": "rec126",
+        "chunk_text": "grana are membranous regions in a chloroplast",
+        "topic": "Chloroplast",
+        "page_number": 140
+    },
+    {
+        "_id": "rec127",
+        "chunk_text": "thylakoids are flattened sacs inside a chloroplast where photosynthesis takes place",
+        "topic": "Chloroplast",
+        "page_number": 140
+    },
+    {
+        "_id": "rec128",
+        "chunk_text": "phosphorylated nucleotide means the adding of one or more phosphate groups to a molecule",
+        "topic": "What is the ATP molecule like?",
+        "page_number": 153
+    },
+    {
+        "_id": "rec129",
+        "chunk_text": "adenosine di-phosphate means removing the third phosphate from ATP leaves a phosphorylated nucleotide with two nucleotides",
+        "topic": "What is the ATP molecule like?",
+        "page_number": 153
+    },
+    {
+        "_id": "rec130",
+        "chunk_text": "ATP synthase is an enzyme involved in the formation of ATP",
+        "topic": "How is ATP produced in a cell?",
+        "page_number": 154
+    },
+    {
+        "_id": "rec131",
+        "chunk_text": "substrate level phosphorylation is when another molecule (substrate) is able to transfer a phosphate group directly to ADP",
+        "topic": "How is ATP produced in aerobic respiration?",
+        "page_number": 155
+    },
+    {
+        "_id": "rec132",
+        "chunk_text": "respiratory substrates are organic molecules that can be respired",
+        "topic": "How is ATP produced in aerobic respiration?",
+        "page_number": 155
+    },
+    {
+        "_id": "rec133",
+        "chunk_text": "reduce means to decrease the oxidation state of a substance",
+        "topic": "How is ATP produced in aerobic respiration?",
+        "page_number": 155
+    },
+    {
+        "_id": "rec134",
+        "chunk_text": "oxidise means to increase the oxidation state of a substance",
+        "topic": "How is ATP produced in aerobic respiration?",
+        "page_number": 155
+    },
+    {
+        "_id": "rec135",
+        "chunk_text": "matrix is the fluid in the mitochondrion in which the reactions of the Krebs cycle take place",
+        "topic": "What are the stages of aerobic respiration of glucose?",
+        "page_number": 157
+    },
+    {
+        "_id": "rec136",
+        "chunk_text": "electron transport chain is a series of molecules along which electrons travel",
+        "topic": "What are the stages of aerobic respiration of glucose?",
+        "page_number": 157
+    },
+    {
+        "_id": "rec137",
+        "chunk_text": "oxidative phosphorylation is the oxygen-dependent production of ATP",
+        "topic": "What are the stages of aerobic respiration of glucose?",
+        "page_number": 157
+    },
+    {
+        "_id": "rec138",
+        "chunk_text": "coenzyme A is a coenzyme derived from pantothenic acid needed for respiration",
+        "topic": "What happens in the link reaction?",
+        "page_number": 158
+    },
+    {
+        "_id": "rec139",
+        "chunk_text": "acetyl coenzyme A is produced by the reaction of coenzyme A with a molecule of pyruvate",
+        "topic": "What happens in the link reaction?",
+        "page_number": 158
+    },
+    {
+        "_id": "rec140",
+        "chunk_text": "dehydrogenation is removing hydrogen from a molecule",
+        "topic": "What happens in the link reaction?",
+        "page_number": 158
+    },
+    {
+        "_id": "rec141",
+        "chunk_text": "decarboxylation is removing carbon from a molecule",
+        "topic": "What happens in the link reaction?",
+        "page_number": 158
+    },
+    {
+        "_id": "rec142",
+        "chunk_text": "oxaloacetate is an ester of oxaloacetic acid",
+        "topic": "What happens in the Krebs cycle?",
+        "page_number": 159
+    },
+    {
+        "_id": "rec143",
+        "chunk_text": "citrate is an ester of citric acid",
+        "topic": "What happens in the Krebs cycle?",
+        "page_number": 159
+    },
+    {
+        "_id": "rec144",
+        "chunk_text": "terminal electron acceptor is the final molecule at the end of the electron transport chain to accept an electron",
+        "topic": "What happens in the electron transport chain and chemiosmosis?",
+        "page_number": 160
+    },
+    {
+        "_id": "rec145",
+        "chunk_text": "transduced means conversion of energy from one form to another",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec146",
+        "chunk_text": "light-dependent reactions are reactions of photosynthesis dependent on light",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec147",
+        "chunk_text": "photosensitive pigments are pigments having a response to light",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec148",
+        "chunk_text": "chlorophyll is a green pigment that absorbs blue and red light",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec149",
+        "chunk_text": "thylakoids are flattened sacs inside a chloroplast on which light-dependent reactions of photosynthesis take place",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec150",
+        "chunk_text": "photosystems are the biochemical mechanism by which chlorophyll absorbs light energy",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec151",
+        "chunk_text": "photosystem I is a photosystem in photosynthetic light reactions. Discovered before photosystem II",
+        "topic": "Photosynthesis",
+        "page_number": 171
+    },
+    {
+        "_id": "rec152",
+        "chunk_text": "reaction centre molecule is where light-dependent reactions begin",
+        "topic": "What is the structure of a photosystem?",
+        "page_number": 172
+    },
+    {
+        "_id": "rec153",
+        "chunk_text": "antenna complex is an array of protein and chlorophyll light-harvesting molecules embedded in the thylakoid membrane",
+        "topic": "What is the structure of a photosystem?",
+        "page_number": 172
+    },
+    {
+        "_id": "rec154",
+        "chunk_text": "absorption spectrum is the range of wavelengths a molecule absorbs",
+        "topic": "What is the structure of a photosystem?",
+        "page_number": 172
+    },
+    {
+        "_id": "rec155",
+        "chunk_text": "action spectrum is the photosynthesis effectiveness of each wavelength",
+        "topic": "What is the structure of a photosystem?",
+        "page_number": 172
+    },
+    {
+        "_id": "rec156",
+        "chunk_text": "primary electron acceptor is the first molecule to accept the excited electron displaced from a chlorophyll molecule",
+        "topic": "Photosystem I and photosystem II",
+        "page_number": 173
+    },
+    {
+        "_id": "rec157",
+        "chunk_text": "photolysis is the light-dependent splitting of water",
+        "topic": "Photosystem I and photosystem II",
+        "page_number": 173
+    },
+    {
+        "_id": "rec158",
+        "chunk_text": "photosynthetic unit is an arrangement of molecules capable of carrying out all the reactions in the light-dependent stage of photosynthesis.",
+        "topic": "Photosystem I and photosystem II",
+        "page_number": 174
+    },
+    {
+        "_id": "rec159",
+        "chunk_text": "non-cyclic photophosphorylation is the formation of ATP via photosystem II",
+        "topic": "Photosystem I and photosystem II",
+        "page_number": 174
+    },
+    {
+        "_id": "rec160",
+        "chunk_text": "cyclic photophosphorylation is the use of only photosystem I to generate ATP",
+        "topic": "Photosystem I and photosystem II",
+        "page_number": 174
+    },
+    {
+        "_id": "rec161",
+        "chunk_text": "ribulose bisphosphate is a five-carbon compound in the stroma",
+        "topic": "How is carbohydrate synthesised in the light-independent reactions?",
+        "page_number": 176
+    },
+    {
+        "_id": "rec162",
+        "chunk_text": "principle of limiting factors means limitation by a factor that is present in a limiting quantity.",
+        "topic": "What factors affect the rate of photosynthesis?",
+        "page_number": 179
+    },
+    {
+        "_id": "rec163",
+        "chunk_text": "photorespiration is a process involving the oxidation of carbon.",
+        "topic": "C3 photosynthesis and photorespiration",
+        "page_number": 181
+    },
+    {
+        "_id": "rec164",
+        "chunk_text": "C4 photosynthesis means light-dependent reactions are the same as in C3 photosynthesis but the first compound formed in the light-independent reactions contains four carbons, not three.",
+        "topic": "C4 photosynthesis",
+        "page_number": 182
+    }
+]

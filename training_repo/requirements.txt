@@ -1,0 +1,4 @@
+python-dotenv
+telethon
+pinecone-client
+google-generativeai

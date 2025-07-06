@@ -1,0 +1,1916 @@
+[
+    {
+        "id": "rec_1",
+        "chunk_text": "hypothesis is an idea or statement that explains observed facts and predicts new outcomes.",
+        "topic": "1.1 Renowned Ethiopian biologists",
+        "page_number": 1
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "journal is a regular publication presenting articles on a particular subject.",
+        "topic": "1.1 Renowned Ethiopian biologists",
+        "page_number": 1
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "peer review is evaluation of a person’s work done by others in the same field.",
+        "topic": "1.1 Renowned Ethiopian biologists",
+        "page_number": 1
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "immune reaction is a biological response involving the production of antibodies etc. as a reaction to the presence in the body of bacteria, a poison, or a transplanted organ.",
+        "topic": "Dr Aklilu Lemma and the battle against bilharzia (schistosomiasis)",
+        "page_number": 2
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "treated water is filtered or disinfected water made safe for consumption.",
+        "topic": "Dr Aklilu Lemma and the battle against bilharzia (schistosomiasis)",
+        "page_number": 2
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "genetic engineering is the deliberate, controlled manipulation of the genes in an organism, with the intent of making that organism better.",
+        "topic": "Dr Aklilu Lemma and the battle against bilharzia (schistosomiasis)",
+        "page_number": 2
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "microscope is an instrument for magnifying specimens.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "light microscope is a microscope that uses a beam of light to form the image of an object.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "electron microscope is a microscope that uses a beam of electrons to form an image.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "magnification means increasing the size of an object.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "resolution is the ability to distinguish between two separate points.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "resolving power is how much detail the microscope is able to show.",
+        "topic": "Magnification and resolving power",
+        "page_number": 14
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "stains are chemicals added to slide tissues to make the cells easier to see.",
+        "topic": "Functions of different types of microscopes",
+        "page_number": 15
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "wavelength is the distance between neighbouring wave crests.",
+        "topic": "The electron microscope",
+        "page_number": 19
+    },
+    {
+        "id": "rec_15",
+        "chunk_text": "cells are the basic structural and functional units in all living organisms.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_16",
+        "chunk_text": "cell theory states that cells are the basic units of life.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_17",
+        "chunk_text": "nutrition means food substances needed by the body.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_18",
+        "chunk_text": "respiration is the process whereby living organisms obtain energy from their food.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_19",
+        "chunk_text": "excretion is the removal of poisonous waste products produced by cells.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_20",
+        "chunk_text": "growth is the increase in size and mass of an organism.",
+        "topic": "Cell theory",
+        "page_number": 22
+    },
+    {
+        "id": "rec_21",
+        "chunk_text": "irritability is the sensitivity of an organism to changes in surroundings.",
+        "topic": "Cell theory",
+        "page_number": 23
+    },
+    {
+        "id": "rec_22",
+        "chunk_text": "movement is the need to get near to or away from things.",
+        "topic": "Cell theory",
+        "page_number": 23
+    },
+    {
+        "id": "rec_23",
+        "chunk_text": "reproduction is the production of offspring to ensure the survival of a type of organism.",
+        "topic": "Cell theory",
+        "page_number": 23
+    },
+    {
+        "id": "rec_24",
+        "chunk_text": "nucleus controls all cell activity and contains chromosomes.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_25",
+        "chunk_text": "cell membrane is the outer layer of living cell that controls the movement of substances in and out.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_26",
+        "chunk_text": "mitochondria carry out cellular respiration.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_27",
+        "chunk_text": "ribosomes are organelles involved in protein synthesis.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_28",
+        "chunk_text": "endoplasmic reticulum links the nucleus of a cell with the cell membrane.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_29",
+        "chunk_text": "cytoplasm is a liquid gel which contains all the organelles of a cell.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_30",
+        "chunk_text": "organelles are the small units inside a cell.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_31",
+        "chunk_text": "chromosome is a strand of DNA carrying genetic information.",
+        "topic": "Structures and functions in unspecialised animal cells",
+        "page_number": 23
+    },
+    {
+        "id": "rec_32",
+        "chunk_text": "enzyme is a protein molecule that acts as a catalyst in cells.",
+        "topic": "Why do cells have organelles?",
+        "page_number": 25
+    },
+    {
+        "id": "rec_33",
+        "chunk_text": "cell wall is the outer layer in plant cells and bacteria that is freely permeable.",
+        "topic": "Structures and functions in unspecialised plant cells",
+        "page_number": 25
+    },
+    {
+        "id": "rec_34",
+        "chunk_text": "cellulose is a complex carbohydrate that makes up plant cell walls.",
+        "topic": "Structures and functions in unspecialised plant cells",
+        "page_number": 25
+    },
+    {
+        "id": "rec_35",
+        "chunk_text": "vacuole is a fluid-filled cavity inside a cell.",
+        "topic": "Structures and functions in unspecialised plant cells",
+        "page_number": 25
+    },
+    {
+        "id": "rec_36",
+        "chunk_text": "specialised cells are adapted to carry out a particular bodily function.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_37",
+        "chunk_text": "undifferentiated cells are cells that have not yet assumed their final functional characteristics.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_38",
+        "chunk_text": "embryonic stem cells are cells from the early embryo that have the potential to form almost any other type of cell.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_39",
+        "chunk_text": "differentiated cells are special cells which carry out specific functions.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_40",
+        "chunk_text": "red blood cells are types of blood cell that carry oxygen around the body.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_41",
+        "chunk_text": "neurones are nerve cells.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_42",
+        "chunk_text": "genes are units of inheritance.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_43",
+        "chunk_text": "tissue is a group of cells that performs specific functions.",
+        "topic": "Cell specialisation in humans",
+        "page_number": 27
+    },
+    {
+        "id": "rec_44",
+        "chunk_text": "organ is a part of the body that carries out special functions.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_45",
+        "chunk_text": "epithelial cells are cells arranged in one or more layers to form part of a covering or lining of a body surface.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_46",
+        "chunk_text": "alveoli are microscopic air sacs in the lungs with a large surface area.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_47",
+        "chunk_text": "microvilli are minute hair-like structures that increase the surface area of a cell.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_48",
+        "chunk_text": "meiosis is cell division that reduces the chromosome numbers and forms the sex cells.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_49",
+        "chunk_text": "sperm is a male sex cell.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_50",
+        "chunk_text": "acrosome is a thin sac at the head of a sperm cell containing enzymes which dissolve the protective layers of an egg cell.",
+        "topic": "Specialised cells",
+        "page_number": 28
+    },
+    {
+        "id": "rec_51",
+        "chunk_text": "dendrites are short, arm-like protuberances of a nerve cell.",
+        "topic": "Nerve cells (neurones)",
+        "page_number": 30
+    },
+    {
+        "id": "rec_52",
+        "chunk_text": "axon is an extension of a neuron that transmits messages.",
+        "topic": "Nerve cells (neurones)",
+        "page_number": 30
+    },
+    {
+        "id": "rec_53",
+        "chunk_text": "muscle cells are elongated contractile cells that form muscle.",
+        "topic": "Muscle cells",
+        "page_number": 30
+    },
+    {
+        "id": "rec_54",
+        "chunk_text": "muscle fibres are strands of protein that enable muscles to contract.",
+        "topic": "Muscle cells",
+        "page_number": 30
+    },
+    {
+        "id": "rec_55",
+        "chunk_text": "diffusion is movement of particles from an area of high concentration to an area of low concentration along a concentration gradient.",
+        "topic": "2.3 The cell and its environment",
+        "page_number": 32
+    },
+    {
+        "id": "rec_56",
+        "chunk_text": "osmosis is movement of water from an area of high concentration to an area of low concentration along a concentration gradient through a partially permeable membrane.",
+        "topic": "2.3 The cell and its environment",
+        "page_number": 32
+    },
+    {
+        "id": "rec_57",
+        "chunk_text": "active transport is movement of substances against a concentration gradient using energy from respiration.",
+        "topic": "2.3 The cell and its environment",
+        "page_number": 32
+    },
+    {
+        "id": "rec_58",
+        "chunk_text": "concentration is a way of measuring how many particles of a substance are in one place.",
+        "topic": "2.3 The cell and its environment",
+        "page_number": 32
+    },
+    {
+        "id": "rec_59",
+        "chunk_text": "net means amount remaining after certain adjustments have been made.",
+        "topic": "Rates of diffusion",
+        "page_number": 35
+    },
+    {
+        "id": "rec_60",
+        "chunk_text": "concentration gradient is difference between an area of high concentration and an area of low concentration.",
+        "topic": "Rates of diffusion",
+        "page_number": 35
+    },
+    {
+        "id": "rec_61",
+        "chunk_text": "passive means uses no energy.",
+        "topic": "Rates of diffusion",
+        "page_number": 35
+    },
+    {
+        "id": "rec_62",
+        "chunk_text": "partially permeable means allows the passage of some substances but not all.",
+        "topic": "Osmosis",
+        "page_number": 36
+    },
+    {
+        "id": "rec_63",
+        "chunk_text": "solvent is liquid in which a solute is dissolved.",
+        "topic": "Osmosis",
+        "page_number": 36
+    },
+    {
+        "id": "rec_64",
+        "chunk_text": "solute is chemical that is dissolved in a solvent.",
+        "topic": "Osmosis",
+        "page_number": 36
+    },
+    {
+        "id": "rec_65",
+        "chunk_text": "isotonic is solutions of equal solute concentration.",
+        "topic": "Osmosis",
+        "page_number": 37
+    },
+    {
+        "id": "rec_66",
+        "chunk_text": "hypertonic is a solution with a greater solute concentration than another.",
+        "topic": "Osmosis",
+        "page_number": 37
+    },
+    {
+        "id": "rec_67",
+        "chunk_text": "hypotonic is a solution with a lesser solute concentration than another.",
+        "topic": "Osmosis",
+        "page_number": 37
+    },
+    {
+        "id": "rec_68",
+        "chunk_text": "dilute means to make less concentrated.",
+        "topic": "Osmosis in animals",
+        "page_number": 39
+    },
+    {
+        "id": "rec_69",
+        "chunk_text": "homeostasis is the maintenance of a constant internal environment.",
+        "topic": "Osmosis in animals",
+        "page_number": 40
+    },
+    {
+        "id": "rec_70",
+        "chunk_text": "turgor is when the cytoplasm of a plant cell is pushed hard against the cell wall by the vacuole which is filled with water.",
+        "topic": "Osmosis in plants",
+        "page_number": 41
+    },
+    {
+        "id": "rec_71",
+        "chunk_text": "flaccid means floppy, limp.",
+        "topic": "Osmosis in plants",
+        "page_number": 41
+    },
+    {
+        "id": "rec_72",
+        "chunk_text": "plasmolysis is when the cytoplasm of a plant cell shrinks away from the cell wall due to osmotic movement of water.",
+        "topic": "Osmosis in plants",
+        "page_number": 41
+    },
+    {
+        "id": "rec_73",
+        "chunk_text": "heterotrophs are organisms that feed on other organisms.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 51
+    },
+    {
+        "id": "rec_74",
+        "chunk_text": "macronutrients are food you need in large amounts.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_75",
+        "chunk_text": "carbohydrates are a major food group made up of carbon, hydrogen and oxygen.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_76",
+        "chunk_text": "proteins are molecules made up of amino acids that are needed for the body to function properly.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_77",
+        "chunk_text": "minerals are inorganic compounds required by the body for good health.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_78",
+        "chunk_text": "vitamins are organic substances required by the body in order for it to function properly.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_79",
+        "chunk_text": "sucrose is a complex carbohydrate found in many plants and used as a sweetening agent.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_80",
+        "chunk_text": "glucose is sugar made by plants during photosynthesis.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_81",
+        "chunk_text": "photosynthesis is the process a plant uses to combine sunlight, water, and carbon dioxide to produce oxygen and sugar (energy).",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_82",
+        "chunk_text": "starch is a nutrient carbohydrate required by the body for healthy functioning.",
+        "topic": "3.1 Food and nutrition",
+        "page_number": 52
+    },
+    {
+        "id": "rec_83",
+        "chunk_text": "fructose is a sugar found in sweet fruits and honey.",
+        "topic": "Carbohydrates",
+        "page_number": 53
+    },
+    {
+        "id": "rec_84",
+        "chunk_text": "condensation reaction is when two simple sugars combine to form a double sugar, removing a molecule of water.",
+        "topic": "Carbohydrates",
+        "page_number": 53
+    },
+    {
+        "id": "rec_85",
+        "chunk_text": "complex sugars are when many single sugar units join to form a long chain.",
+        "topic": "The complex sugars",
+        "page_number": 54
+    },
+    {
+        "id": "rec_86",
+        "chunk_text": "glycogen is carbohydrate energy store found in animals.",
+        "topic": "The complex sugars",
+        "page_number": 54
+    },
+    {
+        "id": "rec_87",
+        "chunk_text": "cellulose is the main constituent in plant cell walls.",
+        "topic": "The complex sugars",
+        "page_number": 54
+    },
+    {
+        "id": "rec_88",
+        "chunk_text": "nitrogen is a colourless, tasteless, odourless, gaseous chemical element.",
+        "topic": "Proteins",
+        "page_number": 56
+    },
+    {
+        "id": "rec_89",
+        "chunk_text": "amino acid is a building block of protein.",
+        "topic": "Proteins",
+        "page_number": 56
+    },
+    {
+        "id": "rec_90",
+        "chunk_text": "peptide link is when amino acids are joined together in a condensation reaction and a molecule of water is lost.",
+        "topic": "Proteins",
+        "page_number": 56
+    },
+    {
+        "id": "rec_91",
+        "chunk_text": "pH is a measure of the acidity or alkalinity of a solution.",
+        "topic": "UNIT 3: Human biology and health",
+        "page_number": 57
+    },
+    {
+        "id": "rec_92",
+        "chunk_text": "lipids are the general name for fats and oils.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_93",
+        "chunk_text": "cholesterol is a compound produced by the body; raised blood levels indicate a high risk of heart disease.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_94",
+        "chunk_text": "oils are a viscous liquid at room temperature.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_95",
+        "chunk_text": "glycerol is a syrupy, sweet liquid obtained from fats and oils.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_96",
+        "chunk_text": "saturated fat is with no double bonds in the structure.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_97",
+        "chunk_text": "unsaturated fat is with one or more double bonds in its structure.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_98",
+        "chunk_text": "single covalent bond is created when two atoms share a single electron.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_99",
+        "chunk_text": "double bonds are created when atoms share two electrons.",
+        "topic": "Fats and oils",
+        "page_number": 58
+    },
+    {
+        "id": "rec_100",
+        "chunk_text": "calcium(Ca) is an important constituent of bones and teeth, needed for many metabolic processes.",
+        "topic": "Minerals",
+        "page_number": 61
+    },
+    {
+        "id": "rec_101",
+        "chunk_text": "iron(Fe) is vital for making haemoglobin in red blood cells.",
+        "topic": "Minerals",
+        "page_number": 61
+    },
+    {
+        "id": "rec_102",
+        "chunk_text": "haemoglobin is a red pigment in the blood cells that carries oxygen around the body.",
+        "topic": "Minerals",
+        "page_number": 61
+    },
+    {
+        "id": "rec_103",
+        "chunk_text": "sodium is a vital element needed by the body for survival, by maintaining fluid levels.",
+        "topic": "Minerals",
+        "page_number": 61
+    },
+    {
+        "id": "rec_104",
+        "chunk_text": "deficiency disease is any disease caused by a lack of an essential nutrient.",
+        "topic": "Minerals",
+        "page_number": 61
+    },
+    {
+        "id": "rec_105",
+        "chunk_text": "night blindness is inability to see clearly in dim light due to vitamin A deficiency.",
+        "topic": "Vitamins",
+        "page_number": 62
+    },
+    {
+        "id": "rec_106",
+        "chunk_text": "beri-beri is a deficiency disease from lack of vitamin B.",
+        "topic": "Vitamins",
+        "page_number": 62
+    },
+    {
+        "id": "rec_107",
+        "chunk_text": "scurvy is a disease caused by lack of vitamin C in the diet.",
+        "topic": "Vitamins",
+        "page_number": 63
+    },
+    {
+        "id": "rec_108",
+        "chunk_text": "retinol is vitamin A.",
+        "topic": "Vitamins",
+        "page_number": 63
+    },
+    {
+        "id": "rec_109",
+        "chunk_text": "calciferol is vitamin D.",
+        "topic": "Vitamins",
+        "page_number": 63
+    },
+    {
+        "id": "rec_110",
+        "chunk_text": "thiamine is vitamin B1.",
+        "topic": "Vitamins",
+        "page_number": 63
+    },
+    {
+        "id": "rec_111",
+        "chunk_text": "urea is the main component of urine.",
+        "topic": "The role of water",
+        "page_number": 64
+    },
+    {
+        "id": "rec_112",
+        "chunk_text": "hydrolysis reaction is a chemical reaction of a compound with water.",
+        "topic": "The role of water",
+        "page_number": 64
+    },
+    {
+        "id": "rec_113",
+        "chunk_text": "nutrition is the obtaining of food in order to survive.",
+        "topic": "The role of water",
+        "page_number": 64
+    },
+    {
+        "id": "rec_114",
+        "chunk_text": "balanced diet is taking food from all major food groups in order to maintain a healthy body.",
+        "topic": "Why is a balanced diet important?",
+        "page_number": 65
+    },
+    {
+        "id": "rec_115",
+        "chunk_text": "undernutrition is too little food is eaten.",
+        "topic": "Why is a balanced diet important?",
+        "page_number": 65
+    },
+    {
+        "id": "rec_116",
+        "chunk_text": "overnutrition is too much food is eaten.",
+        "topic": "Why is a balanced diet important?",
+        "page_number": 65
+    },
+    {
+        "id": "rec_117",
+        "chunk_text": "malnutrition is diet is lacking in important elements needed for a healthy body.",
+        "topic": "Why is a balanced diet important?",
+        "page_number": 65
+    },
+    {
+        "id": "rec_118",
+        "chunk_text": "ingestion means taking in food.",
+        "topic": "3.2 The digestive system",
+        "page_number": 72
+    },
+    {
+        "id": "rec_119",
+        "chunk_text": "mastication means chewing.",
+        "topic": "3.2 The digestive system",
+        "page_number": 72
+    },
+    {
+        "id": "rec_120",
+        "chunk_text": "enamel is the top surface of teeth.",
+        "topic": "3.2 The digestive system",
+        "page_number": 72
+    },
+    {
+        "id": "rec_121",
+        "chunk_text": "dentine is a living layer underneath tooth enamel.",
+        "topic": "3.2 The digestive system",
+        "page_number": 73
+    },
+    {
+        "id": "rec_122",
+        "chunk_text": "pulp cavity is the centre of the tooth which contains nerves and blood vessels.",
+        "topic": "3.2 The digestive system",
+        "page_number": 73
+    },
+    {
+        "id": "rec_123",
+        "chunk_text": "cement is a fibrous layer that holds the teeth into the jaw bone.",
+        "topic": "3.2 The digestive system",
+        "page_number": 73
+    },
+    {
+        "id": "rec_124",
+        "chunk_text": "periodontal disease is a bacterial infection of the gums.",
+        "topic": "3.2 The digestive system",
+        "page_number": 73
+    },
+    {
+        "id": "rec_125",
+        "chunk_text": "carbohydrase is an enzyme in saliva.",
+        "topic": "3.2 The digestive system",
+        "page_number": 74
+    },
+    {
+        "id": "rec_126",
+        "chunk_text": "bolus is a saliva-coated chunk of chewed food.",
+        "topic": "3.2 The digestive system",
+        "page_number": 74
+    },
+    {
+        "id": "rec_127",
+        "chunk_text": "reflex is an automatic reaction in the body that cannot be controlled.",
+        "topic": "3.2 The digestive system",
+        "page_number": 74
+    },
+    {
+        "id": "rec_128",
+        "chunk_text": "oesophagus is the passage that food travels down from mouth to stomach.",
+        "topic": "3.2 The digestive system",
+        "page_number": 74
+    },
+    {
+        "id": "rec_129",
+        "chunk_text": "peristalsis refers to wavelike muscle contractions to move food along.",
+        "topic": "3.2 The digestive system",
+        "page_number": 74
+    },
+    {
+        "id": "rec_130",
+        "chunk_text": "sphincter is a ring of muscle.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_131",
+        "chunk_text": "stomach is a muscular bag that produces protease enzymes to digest protein.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_132",
+        "chunk_text": "pepsin is an enzyme that breaks down proteins.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_133",
+        "chunk_text": "hydrochloric acid is produced in the stomach to kill bacteria.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_134",
+        "chunk_text": "gall bladder is a muscular sac connected to the liver that stores bile.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_135",
+        "chunk_text": "bile is produced by the liver to aid in breakdown of food in the duodenum.",
+        "topic": "3.2 The digestive system",
+        "page_number": 75
+    },
+    {
+        "id": "rec_136",
+        "chunk_text": "emulsify means breaking of large drops of fat into small droplets.",
+        "topic": "3.2 The digestive system",
+        "page_number": 76
+    },
+    {
+        "id": "rec_137",
+        "chunk_text": "lipase is an enzyme that breaks down fats.",
+        "topic": "3.2 The digestive system",
+        "page_number": 76
+    },
+    {
+        "id": "rec_138",
+        "chunk_text": "absorption is the process whereby the body absorbs food molecules.",
+        "topic": "3.2 The digestive system",
+        "page_number": 76
+    },
+    {
+        "id": "rec_139",
+        "chunk_text": "villi are finger-like projections of the lining of the small intestine.",
+        "topic": "3.2 The digestive system",
+        "page_number": 76
+    },
+    {
+        "id": "rec_140",
+        "chunk_text": "constipation is faeces that remain too long in the large intestine have too much water removed and become compacted and difficult to evacuate from the body.",
+        "topic": "Issues of digestive health",
+        "page_number": 78
+    },
+    {
+        "id": "rec_141",
+        "chunk_text": "diarrhoea is loose, watery faeces.",
+        "topic": "Issues of digestive health",
+        "page_number": 78
+    },
+    {
+        "id": "rec_142",
+        "chunk_text": "salmonella is bacteria that causes food poisoning.",
+        "topic": "Issues of digestive health",
+        "page_number": 78
+    },
+    {
+        "id": "rec_143",
+        "chunk_text": "carbon dioxide is a colourless, odourless gas formed during respiration and a widely produced greenhouse gas.",
+        "topic": "The human respiratory system",
+        "page_number": 82
+    },
+    {
+        "id": "rec_144",
+        "chunk_text": "trachea is a major airway connecting the larynx with the lungs.",
+        "topic": "The human respiratory system",
+        "page_number": 82
+    },
+    {
+        "id": "rec_145",
+        "chunk_text": "abdomen contains the digestive system and many body organs.",
+        "topic": "The human respiratory system",
+        "page_number": 83
+    },
+    {
+        "id": "rec_146",
+        "chunk_text": "diaphragm is a muscle separating the chest cavity from the abdomen.",
+        "topic": "The human respiratory system",
+        "page_number": 83
+    },
+    {
+        "id": "rec_147",
+        "chunk_text": "larynx is the voice box.",
+        "topic": "The human respiratory system",
+        "page_number": 83
+    },
+    {
+        "id": "rec_148",
+        "chunk_text": "cartilage is a smooth rubbery material that reduces friction and cushions joints.",
+        "topic": "The human respiratory system",
+        "page_number": 83
+    },
+    {
+        "id": "rec_149",
+        "chunk_text": "cilia are tiny moving hairs attached to cells.",
+        "topic": "The human respiratory system",
+        "page_number": 83
+    },
+    {
+        "id": "rec_150",
+        "chunk_text": "bronchus is one of two main tubes branching off the windpipe.",
+        "topic": "The human respiratory system",
+        "page_number": 84
+    },
+    {
+        "id": "rec_151",
+        "chunk_text": "bronchioles are small air tubes in the lung.",
+        "topic": "The human respiratory system",
+        "page_number": 84
+    },
+    {
+        "id": "rec_152",
+        "chunk_text": "alveoli are tiny air sacs in a lung.",
+        "topic": "The human respiratory system",
+        "page_number": 84
+    },
+    {
+        "id": "rec_153",
+        "chunk_text": "ventilation is moving air into and out of the lungs.",
+        "topic": "How is air brought into your lungs?",
+        "page_number": 85
+    },
+    {
+        "id": "rec_154",
+        "chunk_text": "intercostal muscles are muscles used in breathing.",
+        "topic": "How is air brought into your lungs?",
+        "page_number": 85
+    },
+    {
+        "id": "rec_155",
+        "chunk_text": "tidal volume is the amount of air breathed in.",
+        "topic": "What affects your breathing rate?",
+        "page_number": 89
+    },
+    {
+        "id": "rec_156",
+        "chunk_text": "vital capacity is the maximum amount of air that can be taken into the lungs.",
+        "topic": "What affects your breathing rate?",
+        "page_number": 89
+    },
+    {
+        "id": "rec_157",
+        "chunk_text": "weight is a measure of the heaviness of a person/object.",
+        "topic": "Weight",
+        "page_number": 92
+    },
+    {
+        "id": "rec_158",
+        "chunk_text": "nicotine is an addictive drug found in tobacco smoke.",
+        "topic": "The effect of smoking on the lungs and the rest of the body",
+        "page_number": 93
+    },
+    {
+        "id": "rec_159",
+        "chunk_text": "carbon monoxide is a poisonous gas found in cigarette smoke.",
+        "topic": "The effect of smoking on the lungs and the rest of the body",
+        "page_number": 93
+    },
+    {
+        "id": "rec_160",
+        "chunk_text": "bronchitis is inflammation and infection of the bronchi.",
+        "topic": "Smoking-related diseases",
+        "page_number": 94
+    },
+    {
+        "id": "rec_161",
+        "chunk_text": "chronic obstructive pulmonary diseases (COPD) means reduction of surface area of the lungs due to breakdown of the alveoli.",
+        "topic": "Smoking-related diseases",
+        "page_number": 94
+    },
+    {
+        "id": "rec_162",
+        "chunk_text": "lung cancer is a disease linked to smoking.",
+        "topic": "Smoking-related diseases",
+        "page_number": 94
+    },
+    {
+        "id": "rec_163",
+        "chunk_text": "aerobic respiration means using oxygen.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 99
+    },
+    {
+        "id": "rec_164",
+        "chunk_text": "adenosine triphosphate (ATP) is the main energy storing molecule in a cell.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 99
+    },
+    {
+        "id": "rec_165",
+        "chunk_text": "adenosine diphosphate (ADP) is an inorganic phosphate compound.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 99
+    },
+    {
+        "id": "rec_166",
+        "chunk_text": "anabolism is reactions in the body which build up small chemicals into larger ones.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 100
+    },
+    {
+        "id": "rec_167",
+        "chunk_text": "catabolism is reactions in the body that break down large chemicals into smaller ones.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 100
+    },
+    {
+        "id": "rec_168",
+        "chunk_text": "metabolism is the sum of anabolism and catabolism in the body.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 100
+    },
+    {
+        "id": "rec_169",
+        "chunk_text": "anaerobic respiration means breaking down food to release energy without oxygen.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 101
+    },
+    {
+        "id": "rec_170",
+        "chunk_text": "lactic acid is a product of anaerobic respiration in animal cells.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 101
+    },
+    {
+        "id": "rec_171",
+        "chunk_text": "oxygen debt is the amount of oxygen needed to break down lactic acid.",
+        "topic": "3.4 Cellular respiration",
+        "page_number": 101
+    },
+    {
+        "id": "rec_172",
+        "chunk_text": "surface area to volume ratio is the amount of surface area per unit of volume.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 104
+    },
+    {
+        "id": "rec_173",
+        "chunk_text": "blood circulation system is a system of blood vessels transporting blood around the body via the heart.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 104
+    },
+    {
+        "id": "rec_174",
+        "chunk_text": "blood vessels are pipes throughout the body carrying blood.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 104
+    },
+    {
+        "id": "rec_175",
+        "chunk_text": "heart is the pump inside the body that moves blood through the vessels.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 104
+    },
+    {
+        "id": "rec_176",
+        "chunk_text": "blood is the medium which transports nutrients around the body.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 104
+    },
+    {
+        "id": "rec_177",
+        "chunk_text": "double circulation means two transport systems within the body carrying blood from the heart to the lungs and back again; and all around the body and back again.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 105
+    },
+    {
+        "id": "rec_178",
+        "chunk_text": "pulmonary circulation is when blood flows from the heart to the lungs and back again.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 105
+    },
+    {
+        "id": "rec_179",
+        "chunk_text": "systemic circulation is when blood is pumped from the heart, all around the body and back again.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 105
+    },
+    {
+        "id": "rec_180",
+        "chunk_text": "arteries carry blood away from the heart.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 105
+    },
+    {
+        "id": "rec_181",
+        "chunk_text": "veins carry blood towards the heart.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 106
+    },
+    {
+        "id": "rec_182",
+        "chunk_text": "capillaries link veins and arteries and take blood to all the organs and tissues of the body.",
+        "topic": "3.5 The circulatory system",
+        "page_number": 106
+    },
+    {
+        "id": "rec_183",
+        "chunk_text": "cardiac muscle is the muscle of the heart.",
+        "topic": "The human heart",
+        "page_number": 107
+    },
+    {
+        "id": "rec_184",
+        "chunk_text": "coronary arteries supply blood to the cardiac muscles.",
+        "topic": "The human heart",
+        "page_number": 107
+    },
+    {
+        "id": "rec_185",
+        "chunk_text": "atria are the top chambers of the heart.",
+        "topic": "The human heart",
+        "page_number": 107
+    },
+    {
+        "id": "rec_186",
+        "chunk_text": "ventricles are the large, lower chambers of the heart that pump blood out to the lungs and body.",
+        "topic": "The working of the heart",
+        "page_number": 109
+    },
+    {
+        "id": "rec_187",
+        "chunk_text": "valve is a mechanism in the veins that allows blood to flow in one direction only.",
+        "topic": "The working of the heart",
+        "page_number": 109
+    },
+    {
+        "id": "rec_188",
+        "chunk_text": "diastole is the relaxed heart when the blood pressure is lowest.",
+        "topic": "The working of the heart",
+        "page_number": 109
+    },
+    {
+        "id": "rec_189",
+        "chunk_text": "systole is the heart as it contracts, when the blood pressure is highest.",
+        "topic": "The working of the heart",
+        "page_number": 109
+    },
+    {
+        "id": "rec_190",
+        "chunk_text": "plasma is a pale yellow liquid component of blood that transports the blood cells.",
+        "topic": "The blood",
+        "page_number": 112
+    },
+    {
+        "id": "rec_191",
+        "chunk_text": "red blood cells carry oxygen around the body.",
+        "topic": "The blood",
+        "page_number": 113
+    },
+    {
+        "id": "rec_192",
+        "chunk_text": "haemoglobin is a red pigment inside red blood cells.",
+        "topic": "The blood",
+        "page_number": 113
+    },
+    {
+        "id": "rec_193",
+        "chunk_text": "oxyhaemoglobin is a bright red product that forms in the blood when oxygen from the lungs combines with haemoglobin.",
+        "topic": "The blood",
+        "page_number": 113
+    },
+    {
+        "id": "rec_194",
+        "chunk_text": "anaemia is a deficiency disease from lack of iron.",
+        "topic": "The blood",
+        "page_number": 113
+    },
+    {
+        "id": "rec_195",
+        "chunk_text": "white blood cells form part of the body’s defence against microbes.",
+        "topic": "The blood",
+        "page_number": 113
+    },
+    {
+        "id": "rec_196",
+        "chunk_text": "phagocytes are white blood cells that engulf invading bacteria.",
+        "topic": "Human blood groups",
+        "page_number": 114
+    },
+    {
+        "id": "rec_197",
+        "chunk_text": "platelets are small components of blood that help it to clot at the site of a wound.",
+        "topic": "Human blood groups",
+        "page_number": 114
+    },
+    {
+        "id": "rec_198",
+        "chunk_text": "antigens are proteins found on the outer surface of all cells.",
+        "topic": "Human blood groups",
+        "page_number": 114
+    },
+    {
+        "id": "rec_199",
+        "chunk_text": "antibodies are proteins made by white blood cells that inactivate pathogens.",
+        "topic": "Human blood groups",
+        "page_number": 114
+    },
+    {
+        "id": "rec_200",
+        "chunk_text": "hypertension is high blood pressure.",
+        "topic": "Two common problems of the circulatory system",
+        "page_number": 115
+    },
+    {
+        "id": "rec_201",
+        "chunk_text": "bacteria are micro-organisms, members of the Monera.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 124
+    },
+    {
+        "id": "rec_202",
+        "chunk_text": "flagella are parts of a bacterium that help it to move.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 124
+    },
+    {
+        "id": "rec_203",
+        "chunk_text": "virus is a microscopic particle that causes disease.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_204",
+        "chunk_text": "moulds are fungi that are made up of minute, thread-like structures, producing fruiting bodies containing spores.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_205",
+        "chunk_text": "yeasts are single-celled fungi reproducing by asexual budding.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_206",
+        "chunk_text": "fungi are living organisms obtaining their food from dead or living organisms.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_207",
+        "chunk_text": "hyphae are thread-like structures of mould.",
+        "topic": "4.1 Micro-organisms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_208",
+        "chunk_text": "immune system is the system in the body which protects you against invading micro-organisms and foreign proteins.",
+        "topic": "The immune system",
+        "page_number": 126
+    },
+    {
+        "id": "rec_209",
+        "chunk_text": "antigens are proteins found on the outer surface of all cells.",
+        "topic": "The immune system",
+        "page_number": 126
+    },
+    {
+        "id": "rec_210",
+        "chunk_text": "immune is protected from the disease by the body having fought it off successfully previously.",
+        "topic": "Control of micro-organisms",
+        "page_number": 127
+    },
+    {
+        "id": "rec_211",
+        "chunk_text": "sterilisation is the process of killing micro-organisms on an object by making it safe to handle without fear of contamination.",
+        "topic": "Control of micro-organisms",
+        "page_number": 127
+    },
+    {
+        "id": "rec_212",
+        "chunk_text": "autoclaving is sterilisation of items in intense heat.",
+        "topic": "Control of micro-organisms",
+        "page_number": 127
+    },
+    {
+        "id": "rec_213",
+        "chunk_text": "UHT is treating food with intense heat to kill micro-organisms.",
+        "topic": "Using heat to control micro-organisms",
+        "page_number": 128
+    },
+    {
+        "id": "rec_214",
+        "chunk_text": "pasteurisation is heating food to make it safe by killing most micro-organisms.",
+        "topic": "Using heat to control micro-organisms",
+        "page_number": 128
+    },
+    {
+        "id": "rec_215",
+        "chunk_text": "microbiology is the study of micro-organisms.",
+        "topic": "Using heat to control micro-organisms",
+        "page_number": 128
+    },
+    {
+        "id": "rec_216",
+        "chunk_text": "chemically means using antiseptics and disinfectants to kill micro-organisms.",
+        "topic": "A chemical approach to controlling micro-organisms",
+        "page_number": 128
+    },
+    {
+        "id": "rec_217",
+        "chunk_text": "disinfectants are chemicals applied to an inanimate object to kill micro-organisms.",
+        "topic": "A chemical approach to controlling micro-organisms",
+        "page_number": 128
+    },
+    {
+        "id": "rec_218",
+        "chunk_text": "antiseptic is a chemical applied to living tissue to kill micro-organisms.",
+        "topic": "A chemical approach to controlling micro-organisms",
+        "page_number": 129
+    },
+    {
+        "id": "rec_219",
+        "chunk_text": "agar is a substance which dissolves in hot water and sets to form a jelly.",
+        "topic": "Investigating disinfectants and antiseptics",
+        "page_number": 129
+    },
+    {
+        "id": "rec_220",
+        "chunk_text": "crystal violet is a stain for colouring bacteria purple.",
+        "topic": "Identifying bacteria using simple staining",
+        "page_number": 131
+    },
+    {
+        "id": "rec_221",
+        "chunk_text": "antibiotics are drugs which kill bacteria but do not harm human cells.",
+        "topic": "Antibiotics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_222",
+        "chunk_text": "vaccination (immunisation) is the use of dead or weakened strains of pathogens to produce immunity to dangerous diseases.",
+        "topic": "Artificial immunity",
+        "page_number": 133
+    },
+    {
+        "id": "rec_223",
+        "chunk_text": "parasites are organisms that live on or in another and take their nourishment from it.",
+        "topic": "Tapeworm (Cestoda)",
+        "page_number": 138
+    },
+    {
+        "id": "rec_224",
+        "chunk_text": "tapeworm is a parasitic worm that lives in the intestines of humans.",
+        "topic": "Tapeworm (Cestoda)",
+        "page_number": 138
+    },
+    {
+        "id": "rec_225",
+        "chunk_text": "cysticerci is a stage in the lifecycle of a tapeworm.",
+        "topic": "Tapeworm (Cestoda)",
+        "page_number": 139
+    },
+    {
+        "id": "rec_226",
+        "chunk_text": "scolex is the knob-like anterior end of a tapeworm.",
+        "topic": "Tapeworm (Cestoda)",
+        "page_number": 139
+    },
+    {
+        "id": "rec_227",
+        "chunk_text": "proglottids are segments of a tapeworm, each segment having male and female organs.",
+        "topic": "Tapeworm (Cestoda)",
+        "page_number": 139
+    },
+    {
+        "id": "rec_228",
+        "chunk_text": "vector is something that transmits disease.",
+        "topic": "The role of vectors in disease",
+        "page_number": 141
+    },
+    {
+        "id": "rec_229",
+        "chunk_text": "malaria is an infectious disease carried by Anopheles mosquitoes.",
+        "topic": "The role of vectors in disease",
+        "page_number": 141
+    },
+    {
+        "id": "rec_230",
+        "chunk_text": "gastroenteritis is an intestinal infection causing acute watery diarrhoea.",
+        "topic": "Gastroenteritis/acute watery diarrhoea (AWD)",
+        "page_number": 143
+    },
+    {
+        "id": "rec_231",
+        "chunk_text": "cholera is an intestinal infection causing severe diarrhoea, vomiting and dehydration.",
+        "topic": "Cholera",
+        "page_number": 145
+    },
+    {
+        "id": "rec_232",
+        "chunk_text": "venereal diseases (VD) are sexually transmitted diseases.",
+        "topic": "Sexually transmitted diseases (STDs)",
+        "page_number": 148
+    },
+    {
+        "id": "rec_233",
+        "chunk_text": "sexually transmitted infections (STIs) are infectious diseases spread by sexual contact.",
+        "topic": "Sexually transmitted diseases (STDs)",
+        "page_number": 148
+    },
+    {
+        "id": "rec_234",
+        "chunk_text": "lymph is fluid containing white blood cells which flows through the lymphatic system.",
+        "topic": "HIV and the immune system",
+        "page_number": 161
+    },
+    {
+        "id": "rec_235",
+        "chunk_text": "lymphocytes are white blood cells forming antibodies against microbes.",
+        "topic": "HIV and the immune system",
+        "page_number": 161
+    },
+    {
+        "id": "rec_236",
+        "chunk_text": "T-cells are cells that recognise and attach to a cell carrying a foreign antigen and destroy it.",
+        "topic": "HIV and the immune system",
+        "page_number": 162
+    },
+    {
+        "id": "rec_237",
+        "chunk_text": "B-cells are cells that recognise and attach to a foreign antigen, reproducing and forming many identical copies of themselves which all secrete antibodies to destroy the foreign antigen.",
+        "topic": "HIV and the immune system",
+        "page_number": 162
+    },
+    {
+        "id": "rec_238",
+        "chunk_text": "species is a group of organisms that can breed successfully with one another to produce fertile offspring",
+        "topic": "5.1 Principles of classification",
+        "page_number": 172
+    },
+    {
+        "id": "rec_239",
+        "chunk_text": "pentadactyl means having five fingers or toes",
+        "topic": "5.1 Principles of classification",
+        "page_number": 172
+    },
+    {
+        "id": "rec_240",
+        "chunk_text": "morphology is the appearance of an organism",
+        "topic": "5.1 Principles of classification",
+        "page_number": 173
+    },
+    {
+        "id": "rec_241",
+        "chunk_text": "taxonomy is the process of classifying living organisms",
+        "topic": "5.1 Principles of classification",
+        "page_number": 173
+    },
+    {
+        "id": "rec_242",
+        "chunk_text": "taxa is a category in classification",
+        "topic": "5.1 Principles of classification",
+        "page_number": 173
+    },
+    {
+        "id": "rec_243",
+        "chunk_text": "binomial means having two names",
+        "topic": "5.1 Principles of classification",
+        "page_number": 174
+    },
+    {
+        "id": "rec_244",
+        "chunk_text": "dichotomous key is a type of key that is based on making successive choices between two statements or alternatives",
+        "topic": "Classifying living organisms",
+        "page_number": 175
+    },
+    {
+        "id": "rec_245",
+        "chunk_text": "prokaryotic cells are single-celled organisms without a separate nucleus.",
+        "topic": "5.2 The five kingdoms",
+        "page_number": 178
+    },
+    {
+        "id": "rec_246",
+        "chunk_text": "eukaryotic cells are single-celled organisms with a nucleus.",
+        "topic": "5.2 The five kingdoms",
+        "page_number": 178
+    },
+    {
+        "id": "rec_247",
+        "chunk_text": "dinoflagellates are microscopic single-celled organisms that cause bioluminescence in the sea when they produce a green light.",
+        "topic": "5.2 The five kingdoms",
+        "page_number": 178
+    },
+    {
+        "id": "rec_248",
+        "chunk_text": "saprotrophs are organisms that feed off dead material.",
+        "topic": "Kingdom Fungi",
+        "page_number": 180
+    },
+    {
+        "id": "rec_249",
+        "chunk_text": "mutualists are organisms that live in close association with each other and both benefit from this association.",
+        "topic": "Kingdom Fungi",
+        "page_number": 180
+    },
+    {
+        "id": "rec_250",
+        "chunk_text": "mycorrhizae is an organic association between a fungus and the roots of a plant.",
+        "topic": "Kingdom Fungi",
+        "page_number": 180
+    },
+    {
+        "id": "rec_251",
+        "chunk_text": "bryophyta is a plant division consisting of mosses and liverworts.",
+        "topic": "Kingdom Fungi",
+        "page_number": 180
+    },
+    {
+        "id": "rec_252",
+        "chunk_text": "liverworts are small, green nonvascular plant growing in wet places.",
+        "topic": "Kingdom Fungi",
+        "page_number": 180
+    },
+    {
+        "id": "rec_253",
+        "chunk_text": "mosses are nonvascular plants with a single stem and leaves of only one cell thickness.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_254",
+        "chunk_text": "pteridophyta is a plant division consisting of ferns.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_255",
+        "chunk_text": "ferns are plants of damp shady places.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_256",
+        "chunk_text": "gymnospermae is a plant division of conifers.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_257",
+        "chunk_text": "conifers are evergreen plants with needle-shaped leaves whose reproductive structures are found in cones.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_258",
+        "chunk_text": "angiospermae are true flowering plants.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_259",
+        "chunk_text": "rhizoids are simple root-like structures of mosses.",
+        "topic": "Kingdom Plantae",
+        "page_number": 181
+    },
+    {
+        "id": "rec_260",
+        "chunk_text": "rhizome is a root which grows horizontally just below the surface of the soil.",
+        "topic": "Division Gymnospermae",
+        "page_number": 183
+    },
+    {
+        "id": "rec_261",
+        "chunk_text": "spermatophytes are seed-bearing plants.",
+        "topic": "Division Gymnospermae",
+        "page_number": 183
+    },
+    {
+        "id": "rec_262",
+        "chunk_text": "xylem is dead transport tissue in plants, moving water and minerals.",
+        "topic": "Subdivisions of angiosperms",
+        "page_number": 184
+    },
+    {
+        "id": "rec_263",
+        "chunk_text": "phloem is living transport tissue in plants that transports food around.",
+        "topic": "Subdivisions of angiosperms",
+        "page_number": 184
+    },
+    {
+        "id": "rec_264",
+        "chunk_text": "monocotyledons are any flowering plant having a single cotyledon (leaf) in the seeds.",
+        "topic": "Subdivisions of angiosperms",
+        "page_number": 185
+    },
+    {
+        "id": "rec_265",
+        "chunk_text": "dicotyledons are flowering plants with two embryonic seed leaves.",
+        "topic": "Subdivisions of angiosperms",
+        "page_number": 185
+    },
+    {
+        "id": "rec_266",
+        "chunk_text": "chaetae are bristle-like structures that help segmented worms to move.",
+        "topic": "Phylum Annelida",
+        "page_number": 188
+    },
+    {
+        "id": "rec_267",
+        "chunk_text": "tube feet are used by echinoderms to move around.",
+        "topic": "Phylum Echinodermata",
+        "page_number": 188
+    },
+    {
+        "id": "rec_268",
+        "chunk_text": "insecta means insects.",
+        "topic": "Phylum Arthropoda",
+        "page_number": 189
+    },
+    {
+        "id": "rec_269",
+        "chunk_text": "crustacea are aquatic creatures with bodies made up of a cephalothorax and abdomen, four pairs of legs, two pairs of antennae and simple eyes.",
+        "topic": "Phylum Arthropoda",
+        "page_number": 189
+    },
+    {
+        "id": "rec_270",
+        "chunk_text": "arachnida means spiders.",
+        "topic": "Phylum Arthropoda",
+        "page_number": 189
+    },
+    {
+        "id": "rec_271",
+        "chunk_text": "diplopoda means millipedes.",
+        "topic": "Phylum Arthropoda",
+        "page_number": 189
+    },
+    {
+        "id": "rec_272",
+        "chunk_text": "chilopoda means centipedes.",
+        "topic": "Phylum Arthropoda",
+        "page_number": 189
+    },
+    {
+        "id": "rec_273",
+        "chunk_text": "notochord is a flexible rod-like structure of cartilage running along the dorsal side of the body.",
+        "topic": "Phylum Chordata",
+        "page_number": 190
+    },
+    {
+        "id": "rec_274",
+        "chunk_text": "chordates are creatures characterised by a notochord, nerve chord and gill slits.",
+        "topic": "Vertebrates",
+        "page_number": 191
+    },
+    {
+        "id": "rec_275",
+        "chunk_text": "vertebrates are creatures with a vertebral column/backbone.",
+        "topic": "Vertebrates",
+        "page_number": 191
+    },
+    {
+        "id": "rec_276",
+        "chunk_text": "teleosts are bony fish.",
+        "topic": "Class Pisces",
+        "page_number": 191
+    },
+    {
+        "id": "rec_277",
+        "chunk_text": "elasmobranchs are cartilaginous fish.",
+        "topic": "Class Pisces",
+        "page_number": 191
+    },
+    {
+        "id": "rec_278",
+        "chunk_text": "amphibian is a creature who spends part of its life in water and part of it on land.",
+        "topic": "Class Amphibia",
+        "page_number": 192
+    },
+    {
+        "id": "rec_279",
+        "chunk_text": "reptiles are cold-blooded, usually egg-laying, vertebrates.",
+        "topic": "Class Reptilia",
+        "page_number": 193
+    },
+    {
+        "id": "rec_280",
+        "chunk_text": "wings are forelimbs of birds adapted for flying.",
+        "topic": "Class Aves",
+        "page_number": 194
+    },
+    {
+        "id": "rec_281",
+        "chunk_text": "endothermic creatures are those who use heat produced by their own metabolism to regulate their body temperature.",
+        "topic": "Class Aves",
+        "page_number": 194
+    },
+    {
+        "id": "rec_282",
+        "chunk_text": "mammals are creatures who produce milk for their young, have a high internal body temperature and regulate their own body temperature.",
+        "topic": "Class Mammalia",
+        "page_number": 194
+    },
+    {
+        "id": "rec_283",
+        "chunk_text": "marsupials are mammals who produce immature young which are nourished by milk in the mother’s pouch.",
+        "topic": "Subdivisions of mammals",
+        "page_number": 195
+    },
+    {
+        "id": "rec_284",
+        "chunk_text": "ecology is the science of the relationship between organisms and their environment.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 201
+    },
+    {
+        "id": "rec_285",
+        "chunk_text": "ecosystem is all the animals and plants that live in an area along with the things that affect them.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 201
+    },
+    {
+        "id": "rec_286",
+        "chunk_text": "environment is an organism’s home and its surroundings.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 201
+    },
+    {
+        "id": "rec_287",
+        "chunk_text": "habitat is a place where an animal or plant lives.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 201
+    },
+    {
+        "id": "rec_288",
+        "chunk_text": "abiotic components are physical factors in a habitat.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_289",
+        "chunk_text": "biotic components are components linked to the plants and animals in a habitat.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_290",
+        "chunk_text": "terrestrial habitats are habitats on land.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_291",
+        "chunk_text": "aquatic habitats are habitats in water.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_292",
+        "chunk_text": "marine habitats are habitats in salt water oceans.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_293",
+        "chunk_text": "freshwater habitats are habitats in fresh water of lakes, rivers, ponds and streams.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_294",
+        "chunk_text": "camouflage is the ability of an animal to blend its colour into its surroundings to avoid detection.",
+        "topic": "6.1 Ecosystems",
+        "page_number": 202
+    },
+    {
+        "id": "rec_295",
+        "chunk_text": "phototrophs are organisms that feed off light.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_296",
+        "chunk_text": "producers are plants.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_297",
+        "chunk_text": "herbivores are animals that eat plants only.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_298",
+        "chunk_text": "carnivores are animals that feed on other animals only.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_299",
+        "chunk_text": "omnivores are animals whose diet includes both plants and animals.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_300",
+        "chunk_text": "heterotrophs are organisms that rely on eating other organisms.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_301",
+        "chunk_text": "chemotrophs are organisms that get energy from the breakdown of inorganic chemicals.",
+        "topic": "6.2 Food relationships",
+        "page_number": 204
+    },
+    {
+        "id": "rec_302",
+        "chunk_text": "consumers are all of the animals that eat other animals or plants.",
+        "topic": "6.2 Food relationships",
+        "page_number": 205
+    },
+    {
+        "id": "rec_303",
+        "chunk_text": "decomposers are bacteria and fungi that break down the remains of animals and plants, returning the nutrients to the soil.",
+        "topic": "6.2 Food relationships",
+        "page_number": 205
+    },
+    {
+        "id": "rec_304",
+        "chunk_text": "trophic levels are levels in a food chain to which an organism belongs.",
+        "topic": "6.2 Food relationships",
+        "page_number": 205
+    },
+    {
+        "id": "rec_305",
+        "chunk_text": "phytoplankton (plant plankton) are microscopic photosynthetic organisms at the beginning of many aquatic food chains.",
+        "topic": "6.2 Food relationships",
+        "page_number": 206
+    },
+    {
+        "id": "rec_306",
+        "chunk_text": "zooplankton (animal plankton) are microscopic organisms which eat the phytoplankton.",
+        "topic": "6.2 Food relationships",
+        "page_number": 206
+    },
+    {
+        "id": "rec_307",
+        "chunk_text": "food web is a network of food chains.",
+        "topic": "6.2 Food relationships",
+        "page_number": 206
+    },
+    {
+        "id": "rec_308",
+        "chunk_text": "biomass is all the organic material produced by living organisms.",
+        "topic": "Energy for life",
+        "page_number": 208
+    },
+    {
+        "id": "rec_309",
+        "chunk_text": "putrefying means decomposing.",
+        "topic": "The nitrogen cycle",
+        "page_number": 213
+    },
+    {
+        "id": "rec_310",
+        "chunk_text": "nitrogen cycle is the cycling of nitrogen compounds between the living and non-living world.",
+        "topic": "The nitrogen cycle",
+        "page_number": 214
+    },
+    {
+        "id": "rec_311",
+        "chunk_text": "legumes are plants with the ability to fix nitrogen in the soil.",
+        "topic": "The nitrogen cycle",
+        "page_number": 214
+    },
+    {
+        "id": "rec_312",
+        "chunk_text": "denitrifying bacteria are bacteria that use nitrates as an energy source and breaks them down again into nitrogen gas.",
+        "topic": "The nitrogen cycle",
+        "page_number": 214
+    },
+    {
+        "id": "rec_313",
+        "chunk_text": "carbon cycle is the cycling of carbon compounds between the living and the non-living world.",
+        "topic": "The carbon cycle",
+        "page_number": 214
+    },
+    {
+        "id": "rec_314",
+        "chunk_text": "greenhouse effect is high levels of greenhouse gases in the atmosphere prevent heat radiating away from Earth’s surface and causes the surface temperature to rise.",
+        "topic": "The carbon cycle",
+        "page_number": 216
+    },
+    {
+        "id": "rec_315",
+        "chunk_text": "global warming is another term for greenhouse effect.",
+        "topic": "The carbon cycle",
+        "page_number": 216
+    },
+    {
+        "id": "rec_316",
+        "chunk_text": "deforestation is the loss of forests due to the overcutting of trees.",
+        "topic": "The carbon cycle",
+        "page_number": 216
+    },
+    {
+        "id": "rec_317",
+        "chunk_text": "adaptations are features organisms develop which make it possible for them to survive in particular habitats.",
+        "topic": "6.4 Adaptations",
+        "page_number": 218
+    },
+    {
+        "id": "rec_318",
+        "chunk_text": "stomata are small openings in the leaves of plants.",
+        "topic": "6.4 Adaptations",
+        "page_number": 220
+    },
+    {
+        "id": "rec_319",
+        "chunk_text": "succulents are plants which store water in their fleshy leaves, stems or roots.",
+        "topic": "6.4 Adaptations",
+        "page_number": 221
+    }
+]

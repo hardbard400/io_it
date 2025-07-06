@@ -1,0 +1,872 @@
+[
+    {
+        "_id": "rec_1",
+        "topic": "1.1 The methods of science",
+        "chunk_text": "Scientists investigate natural events to try to find out exactly why and how they happen. To arrive at an answer, they need conclusive evidence that a certain factor causes the event. Very often, this kind of evidence can only be obtained by carrying out experiments. You will learn how to proceed from identifying the problem to planning and carrying out an investigation in such a way that the results will enable you to conclude that the factor you are investigating does (or does not) cause the event to happen. Along the way, you will see how some of the greatest biologists have used this scientific method in their investigations. You will also learn how to write a report on a scientific investigation in such a way that scientists all over the world would be able to instantly recognise the stages in your investigation and carry it out for themselves if they wanted to check your results.",
+        "page_number": 2
+    },
+    {
+        "_id": "rec_2",
+        "topic": "What is the science of biology?",
+        "chunk_text": "Biology is the science of life and living organisms. You know from earlier studies that an organism is a living being made from one cell (for example bacteria, unicellular algae) or many cells (for example, animals, plants and most fungi).\nWhen we think of biologists, we often have quite a narrow view of what they do. But, just as all chemists don\u2019t wear white coats, all biologists don\u2019t look down microscopes in laboratories. Here are just a few of the areas of biological study.\nSome biologists become astrobiologists. These biologists engage in all kinds of research to try to find evidence of life on other planets in our Solar System and in galaxies elsewhere in the Universe.\nOther biologists take part in biomedical research. These biologists help in many areas, including the development of new drugs and vaccines. They also study the ways in which diseases develop to gain a better understanding of them so that cures can be found.\nOthers still become microbiologists. These biologists study how micro-organisms of all kinds function. Some micro-organisms cause disease, and understanding how they work makes a treatment more likely. Many microbiologists are studying the human immuno-deficiency virus (HIV) to get a better understanding of how AIDS develops and how it can be treated.\nPaleobiology is a fascinating area of study to many people. Paleobiologists try to find out more about the way in which life began on Earth and how it has evolved from simple life forms into more complex ones. They use evidence from fossils and from studies of the chemistry of ancient rocks to make estimates of when and how new life forms appeared on the planet.\nMany different biologists are involved in the Human Genome Project. This enormous project has produced the first ever map of the 46 chromosomes found in human cells. It has located the tens of thousands of genes and has determined the exact structure of each chromosome. Although the \u2018map\u2019 is finished, there is still much to be found out. Analysis will continue for many years to come.\nBesides these biologists, there are others who are, perhaps, more recognisable. These include: doctors, dentists, veterinary surgeons, nurses, physiotherapists, botanists, zoologists, physiologists, biochemists, agricultural biologists, ecologists, ethologists, entomologists, geneticists, oncologists, neurobiologists, parasitologists . . . \n. . . and many, many others besides.",
+        "page_number": 2
+    },
+    {
+        "_id": "rec_3",
+        "topic": "What is science?",
+        "chunk_text": "The word science comes from the Latin word scientia, which means \u2018knowledge\u2019. But science isn\u2019t just about having knowledge: science is a unique system of acquiring knowledge based on the scientific method. This science is sometimes called experimental science, because it depends very heavily on experimentation to obtain the information. This is different from applied science, in which scientific research is used to meet certain human needs. However, it is often difficult to separate the two.",
+        "page_number": 3
+    },
+    {
+        "_id": "rec_4",
+        "topic": "What is science?",
+        "chunk_text": "Science is an ongoing effort to find new information and principles which can increase human knowledge and understanding. In their research, scientists collect evidence that supports or disproves a particular suggested explanation of a natural phenomenon. One important idea in science is that any suggested explanation of a phenomenon should be capable of being proved wrong. If there is no way of proving it wrong, how can other people accept that it is correct? This is what distinguishes science from religious beliefs.",
+        "page_number": 4
+    },
+    {
+        "_id": "rec_5",
+        "topic": "What is the scientific method?",
+        "chunk_text": "This is the process by which biologists and all other scientists approach their work. For centuries, people based their explanations of what they saw going on in the world around them on observations, without testing their ideas to see if they were true. One ancient belief was that simple living organisms could come into being by spontaneous generation. This idea suggests that non-living objects can give rise to living organisms. As an example: \u2022 Observation: Every year in the spring, the river Nile flooded areas of Egypt leaving behind mud containing many nutrients that enabled the people to grow that year\u2019s crop. However, along with the muddy soil, large numbers of frogs appeared that weren\u2019t around in drier times. \u2022 Conclusion: Muddy soil gives rise to frogs! Also, before the invention of the refrigerator, animal carcasses were hung by the heels in butcher\u2019s shops and people would ask the butcher to cut off the part they wanted. The shop was always full of flies. So people believed that the meat had turned into flies! Because of these and other observations, many people, including quite eminent \u2018scientists\u2019 of the day, produced recipes for \u2018creating\u2019 life from non-living objects. It took the work of Louis Pasteur using the proper scientific method to finally disprove this myth.",
+        "page_number": 4
+    },
+    {
+        "_id": "rec_6",
+        "topic": "What are the main steps of the scientific method?",
+        "chunk_text": "The scientific method consists of a number of stages. These are summarised in the flowchart. So what is happening at each of these stages? What is the biologist doing and what do we mean by hypothesis?",
+        "page_number": 4
+    },
+    {
+        "_id": "rec_7",
+        "topic": "How did the scientific method disprove the idea of spontaneous generation?",
+        "chunk_text": "What about the belief that rotting meat produces flies? How could you disprove that by using the scientific method? Well, in 1668 an Italian biologist, Francesco Redi, did just that. Many scientists consider this to be the first true \u2018experiment\u2019. He used wide-mouth jars containing meat. Some jars were left open to the air. Others were covered with a piece of gauze. After several days, maggots and then flies could be seen in the open jars, but none appeared in the closed jars.",
+        "page_number": 6
+    },
+    {
+        "_id": "rec_8",
+        "topic": "What do we mean by cause and effect?",
+        "chunk_text": "Scientific experiments try to establish cause and effect. This means that they try to prove that a change in one factor brings about a change in another factor. The factor that the scientist changes, or manipulates, is called the independent variable (or IV for short). The factor that the scientist measures to see if it changes when the IV is changed is called the dependent variable (or DV for short). The scientist will want to find out if changes in the independent variable produce changes in the dependent variable. In the example on pages 5 and 6, the independent variable was the presence or absence of tomato juice. The dependent variable was the number of tomato seeds germinating. To prove cause and effect \u2013 to prove that it is changes in the IV (and nothing else) that are causing changes in the DV \u2013 we must take all the steps we can to ensure that the experiment is a fair test. We must make sure that any other factors which could affect the results are the same for the different conditions we set up. In the tomato seed example, if one group of seeds had been at a higher temperature than the other group, this could have made them germinate faster. We wouldn\u2019t have known whether it was the tomato juice affecting the results or the temperature. Our experiment would not be valid. So we must keep constant anything other than the IV that might influence the results. These are controlled variables. In the tomato seed experiment, the controlled variables were: \u2022 temperature \u2022 lighting conditions \u2022 number of seeds per dish, and \u2022 volume of liquid added (water or tomato juice). Occasionally, there is a variable that might influence the results that you can\u2019t control. Such a variable is a confounding variable. This is because it \u2018confounds\u2019 the interpretation of the results. You couldn\u2019t be certain that it was the IV producing the changes in the DV because of the presence of the confounding variable. For example, if you measure the carbon dioxide uptake by wheat plants as the light intensity changes over the day, you cannot control the effect of change in temperature. It could be a confounding variable.",
+        "page_number": 8
+    },
+    {
+        "_id": "rec_9",
+        "topic": "Accuracy, reliability and validity in scientific experiments",
+        "chunk_text": "People often confuse these ideas, but they are really quite separate notions and all are important to how well an experiment is received by other scientists.",
+        "page_number": 9
+    },
+    {
+        "_id": "rec_10",
+        "topic": "Accuracy",
+        "chunk_text": "Accuracy refers to how precisely you measure or count something. For example, you could measure time with a clock, a wristwatch or a stop-clock accurate to 0.01 seconds. The level of accuracy you choose must reflect the magnitude of what you are measuring. You don\u2019t always need the most accurate measuring instrument. For example, if you were timing a reaction that was likely to last a few minutes at most, the stop-clock would be the best choice. But if you were timing something that lasts several hours, you just don\u2019t need that level of precision and it might even be a hindrance \u2013 by measuring the seconds accurately, you might lose track of the hours! To measure volume, you could use: \u2022 a syringe \u2022 a measuring cylinder \u2022 a pipette \u2022 a burette",
+        "page_number": 9
+    },
+    {
+        "_id": "rec_11",
+        "topic": "Reliability",
+        "chunk_text": "Reliability is a measure of how dependable our results are. If we were to repeat the investigation, would we get more or less the same results? There are several things we can do to increase the reliability of our experiments. \u2022 We can standardise all our procedures, so that we always do exactly the same thing. This makes it much more likely that we will be able to repeat our results. \u2022 We can repeat it many times ourselves. This allows us to see, hopefully, a general pattern. It also allows us to: \u2013 spot any anomalous results and, if it is justified, to exclude these \u2013 calculate an average result, which is likely to be more representative than any individual result \u2022 We can try not to use personal judgement. For example, if in a given experiment we have to wait until a solution turns a certain shade of red, one person\u2019s judgement will almost certainly differ from the next person\u2019s. There are ways around this: \u2013 We can have a \u2018standard\u2019 to compare our experiment to. In other words, something containing the chemical that is the exact colour we need it to be. This helps, but we must still make a judgement. \u2013 We can use a special apparatus called a colorimeter. This measures how much light passes through a liquid. It is nearly always better to measure than to judge.",
+        "page_number": 10
+    },
+    {
+        "_id": "rec_12",
+        "topic": "Validity",
+        "chunk_text": "This is about whether or not our experiment measures what it says it is measuring. In the tomato seed experiment, we said that our results were due to the presence or absence of tomato juice. For our experiment to be valid, we must be certain that our results were only due to the changes in the independent variable and nothing else. So had we not controlled all the other variables, our experiment would not have been valid.",
+        "page_number": 11
+    },
+    {
+        "_id": "rec_13",
+        "topic": "How do we write reports on scientific experiments?",
+        "chunk_text": "When biologists write a report on an investigation they have just done, they write it with a view to having it published in a scientific journal, such as Nature or Science. These journals are read by many other biologists who will want to understand their work and, perhaps, repeat it to check on the results. It is important, then, that the layout of the report is recognisable to everyone and understandable by everyone. So, there is a set way to lay out such a report. It is not always identical in every case, but there are certain \u2018rules\u2019 to follow. There must be: \u2022 a title, which states clearly what is being investigated \u2022 a hypothesis, stated clearly in terms of how the independent variable is expected to influence the dependent variable, often extended to a prediction for the particular experiment \u2022 a clear description of the experimental procedure; this must be in such detail that anyone of the same level of understanding could easily replicate the procedure and it must include: \u2013 the apparatus used (a diagram of the assembled apparatus is useful) \u2013 details of any chemicals used; what volumes or concentrations or masses were used \u2013 details of any organisms used (for example, yeast, mice) \u2013 what strain and how many \u2013 details of any control experiments \u2022 a full account of the results obtained; it is often helpful to summarise these (where appropriate) in graphs, charts and tables \u2022 the conclusions that have been drawn from the results \u2022 an evaluation of the procedure; this is an honest assessment of the limitations of the procedure that has been used, pointing out any unavoidable limitations and inaccuracies that arose \u2022 an acknowledgement of the use of any other person\u2019s work; this is usually done by identifying by a number the place in the report where other work has been used, and then listing the sources at the end of the work You can measure the rate of fermentation of yeast using simple equipment as shown in the diagram below. You can count the number of bubbles of carbon dioxide produced in five minutes and work out a rate per minute. So, for the tomato seed experiment, the report could look something like this:",
+        "page_number": 11
+    },
+    {
+        "_id": "rec_14",
+        "topic": "1.2 The tools of a biologist",
+        "chunk_text": "In this section you will be reviewing the nature and function of some basic \u2018tools\u2019 or pieces of apparatus of a biologist. Some of these you will have met before, others may be new to you. You will learn about the sort of tools that are needed in the laboratory and those that are needed when working in the field. Some pieces of apparatus are used in both situations.",
+        "page_number": 15
+    },
+    {
+        "_id": "rec_15",
+        "topic": "What apparatus do biologists use?",
+        "chunk_text": "How much time do you have? You only need consult the catalogue of a supplier of biological apparatus to see that the list is a pretty long one! However, we shall not be considering all the various sizes of test tubes or the different kinds of Bunsen burner or the different kinds of electronic equipment now available for biologists. We shall confine ourselves to the main items of field and laboratory equipment that biologists everywhere would recognise and be able to use.",
+        "page_number": 16
+    },
+    {
+        "_id": "rec_16",
+        "topic": "What do biologists use in the laboratory?",
+        "chunk_text": "This is still a large list. But there are some basic tools. These include: \u2022 microscopes \u2022 dissecting equipment \u2022 Petri dishes \u2022 pipettes and syringes \u2022 centrifuges \u2022 measuring cylinders \u2022 balances We have already considered measuring cylinders, pipettes and syringes when looking at the idea of \u2018accuracy\u2019 in scientific experiments. All these are used for measuring volumes, usually of liquids, but in some investigations they can be used to measure the volume of a gas. In this example, an upturned measuring cylinder is being used to collect oxygen gas produced when yeast converts hydrogen peroxide into water and oxygen. Some syringes are designed specifically as \u2018gas syringes\u2019 and could be used as an alternative way of collecting the oxygen in the above experiment. Balances are used for measuring mass. They come in a range of sizes and properties. Some can measure the mass of very heavy objects, but not with any great degree of precision. Others measure smaller masses to the nearest 0.0001 g (one ten-thousandth of a gram). Sometimes biologists need to dissect specimens to find out what they are like inside. This need not always mean dissecting a whole organism. Quite often, students dissect organs, such as the heart or the kidney, to find out about their structure. Biologists may dissect owl pellets \u2013 these are pellets containing the parts of food that the owl has eaten and that cannot be digested and have been regurgitated. Dissecting these can give information about what the bird has been eating. Petri dishes are round dishes made from glass or from plastic. They are used in many different ways, but usually to culture some organisms. They are often filled with a \u2018jelly\u2019 called agar and used to culture bacteria. There are many different agars containing different balances of nutrients. Each type of agar can encourage the growth of different bacteria. By marking a grid on the surface of the Petri dish, biologists can estimate how much of the dish is covered by bacteria and then use this to estimate how fast the bacteria are growing. Petri dishes are also used to propagate or culture plants. The small \u2018plantlets\u2019 or \u2018explants\u2019 in figure 1.14 have been grown on a special agar from just a few plant cells. They will grow roots and then shoots and leaves. When they are big enough, they will be transplanted into pots of soil or compost and grown into mature plants. Petri dishes can also be used to: \u2022 show how effective different antibiotics are against certain types of bacteria \u2022 show how well different concentrations of enzymes digest a substance As you know already from your study in grade 9, microscopes are one of the most vital tools in a biology laboratory. There are two main types:",
+        "page_number": 16
+    },
+    {
+        "_id": "rec_17",
+        "topic": "What do biologists use in the field?",
+        "chunk_text": "Biologists do a lot of work outside the laboratory. They study different areas to find out how the animals, plants and micro-organisms interact with each other and with the environment. They find out how an area changes over time and how it is influenced by human activity. All this involves: \u2022 taking measurements of the abundance of organisms in the field \u2022 taking samples of the environment (for example, soil, rocks, water) for analysis in the laboratory \u2022 collecting specimens for identification and analysis in the laboratory To gain an estimate of the abundance of organisms in an area, biologists often use quadrats. There are many different types, but the simplest is just a metal square. It is placed randomly on the ground and the organisms found inside it are counted and the numbers and types recorded. This data can be used to make an estimate of the abundance of the organisms in the area. Figure 1.20 shows students recording the contents of a quadrat. The use of quadrats is not confined to sites on land. They can be used underwater also! Biologists also use quadrats to show how the numbers of a particular species changes across an area. To do this, they lay down a tape measure (or a long rope marked off every metre) across the area. This is called a transect line. They then place the quadrat by the side of the transect line and record the abundance of the organisms in the quadrat. They repeat this every metre, or every 5 or 10 metres, depending on the length of the transect. This gives a picture of how the abundance of each species changes across the area. To collect specimens for identification in the laboratory, biologists use a range of equipment. Collecting plants is relatively easy, if they are not too large. Small parts (for example, leaves and flowers) can be collected and kept in reasonable condition for a short period in plastic jars or plastic bags. Parts of plants can also be preserved using a plant press. This preserves the shape and form of the plant parts for some time and specimens can be analysed later. Whole plants can be dug up and replanted for study in the laboratory. However, animals pose a different problem. Because they move, they must be caught. Biologists do this in many different ways. Some insects can be caught using nets like the ones shown in frrigure 1.22. Others are caught using pitfall traps \u2013 see page 22.",
+        "page_number": 20
+    },
+    {
+        "_id": "rec_18",
+        "topic": "Pitfall traps",
+        "chunk_text": "Pitfall traps come in a range of of shapes and sizes. This simple one is just a plastic carton sunk into the soil. It would be covered with wood to keep it dark and dry and also keep any animals that fall into it out of sight of predators. Some other instruments that biologists use in the field are illustrated below. One recent addition to the tool list of field biologists is the GPS (Global Positioning System) receiver. This equipment makes it possible to record positions quickly and extremely accurately. By taking several readings at different points on the perimeter of the area, an accurate map of the area can be drawn.",
+        "page_number": 22
+    },
+    {
+        "_id": "rec_19",
+        "topic": "1.3 The relevance and promise of biological science",
+        "chunk_text": "At the start of this unit we defined biology as \u2018the science of life\u2019. This makes it a pretty big subject! Biology seeks to understand how all life functions \u2013 including life on other planets, should it exist. Biology attempts to give scientific answers to many questions that most people think are important. Some of these are listed below:\n\u2022 Where did humans come from?\n\u2022 Where did I come from?\n\u2022 How do I work?\n\u2022 How did all life begin?\n\u2022 How is disease caused?\n\u2022 How is AIDS caused?\n\u2022 How can vaccines be developed against diseases like malaria and AIDS?\n\u2022 What makes cancer cells different from ordinary cells?\n\u2022 Will it ever be possible to grow a new kidney just for me?\n\u2022 Will people one day live forever?\n\u2022 What causes global warming?\n\u2022 How can we solve problems of food shortage?\nBecause biology is the science of life, biologists undertake all kinds of research. Some try to find possible biological explanations for other, non-scientific, aspects of life. Some try to find biological explanations for why some people:\n\u2022 have a strong religious belief whilst others don\u2019t\n\u2022 are record-breaking athletes, like Haile Gebrselassie and Meseret Defar, and others aren\u2019t\n\u2022 have amazing musical talent, whilst others don\u2019t, or\n\u2022 can write poetry, whilst others can\u2019t.\nBiologists also try to find out why organisms behave in the way that they do. When this is applied to humans, it is often called \u2018behavioural psychology\u2019, but many consider it to be a branch of biology. Some of these biologists believe that it will one day be possible to understand how all the nerve cells that make up the brain interact with each other to store memories, carry out problem-solving activities and learn as well as modify behaviour patterns.\nThe study of biology has relevance in almost every aspect of life. It would take far too long to analyse all aspects of the relevance of biology. However, there are some which are undoubtedly of great importance.",
+        "page_number": 25
+    },
+    {
+        "_id": "rec_20",
+        "topic": "Biology and agriculture",
+        "chunk_text": "The world\u2019s population is growing at an alarming rate and this poses challenges to governments all over the world. The extra people all need homes, food and all the other services that are provided. Many biologists are addressing the problem of how to produce the extra food. However, they have another problem to consider, which is that global warming may alter the way in which crops grow. Many crops that now produce high yields in some countries will not do so if the current trends continue. Some countries will benefit, as they will find that their agricultural output will increase with global warming. There are many different estimates as to which countries will \u2018win\u2019 and which will \u2018lose\u2019.\nSo how can biologists help? They are carrying out research into how to produce crop plants that:\n\u2022 will be adapted to the new conditions\n\u2022 are capable of producing their crop quickly so that more than one crop can be obtained per year from a field\n\u2022 are disease resistant\n\u2022 are drought resistant\nThis work involves the genetic modification of existing crop plants to give them the new characteristics that will enable them to be productive in the changed environment.",
+        "page_number": 26
+    },
+    {
+        "_id": "rec_21",
+        "topic": "Biology and medicine",
+        "chunk_text": "Biologists are also able to give advice on ways of reducing the rate of population growth. They can advise individuals and governments on effective methods of contraception and ways of educating people about the need to limit population growth.\nBiologists, as we found earlier, are closely involved in medical work. Doctors and nurses have specialised biological knowledge and expertise to help sick people and to advise people on ways of staying healthy. Their work is supported by a whole range of other biologists, such as:\n\u2022 medical laboratory technicians who test blood samples and other samples and provide reports for doctors\n\u2022 medical researchers who are constantly finding out more about the ways in which disease-causing organisms function and are spread\n\u2022 radiographers, who produce X-rays and other images to help in the diagnosis of disease\n\u2022 specialised researchers who look into why and how cancer is caused\n\u2022 drug development researchers, who usually work for a commercial company and develop new drugs to treat diseases\nThese are just a few of the biologists involved in medical work \u2013 there are many others.",
+        "page_number": 27
+    },
+    {
+        "_id": "rec_22",
+        "topic": "Biology and the environment",
+        "chunk_text": "Biologists are actively involved in monitoring the impact of global warming on the environment. Many of the fieldwork techniques we discussed earlier are used to find out how the abundance and distribution of species in areas are changing. These biologists give advice to governments on how best to conserve environments and to, where necessary, introduce new species that will maintain the best balance of species within the area.\nBiotechnology is an exciting area of biological research that is expanding rapidly. It involves many different aspects of biology. Some of these can be seen in figure 1.30 on the next page.",
+        "page_number": 27
+    },
+    {
+        "_id": "rec_23",
+        "topic": "1.4 Biology and HIV/AIDS",
+        "chunk_text": "AIDS is short for acquired immune deficiency syndrome and is caused by the human immuno deficiency virus (HIV). You will learn more about the structure of HIV and how it causes AIDS later. However, you should be aware that HIV infects cells in our immune systems called T-helper cells that enable us to fight off other diseases. For a time, our body keeps replacing the HIV-infected cells, and this can last for many years. However, the body eventually cannot keep pace and AIDS develops. People suffer from \u2018opportunistic\u2019 infections that they would normally have been able to fight off. They also start to develop some forms of cancer that they would not normally develop. AIDS is usually fatal. The AIDS epidemic is affecting more people than ever before. There are: \u2022 33 million people living with AIDS (2.2 million in Ethiopia) \u2022 2 million children living with AIDS \u2022 11.6 million AIDS orphans in Africa alone (650 000 in Ethiopia) \u2022 over 17 million women living with AIDS worldwide If the map of the world was redrawn to show the numbers of people infected by HIV, it would look something like this:",
+        "page_number": 30
+    },
+    {
+        "_id": "rec_24",
+        "topic": "How can biology help in the fight against AIDS?",
+        "chunk_text": "There are several methods of combating the spread of a disease. These are described below.\n\u2022 Break the transmission pathway \u2013 if the disease cannot spread from one person to another, it will eventually disappear.\n\u2022 Produce drugs that kill the virus or at least stop it from reproducing. Antibiotics act in this way on bacteria, but cannot act on viruses.\n\u2022 Produce a vaccine against the virus. When vaccines are used, one of the aims is to build up a \u2018herd immunity\u2019 to break the transmission pathway. If enough people in an area are immune, the micro-organism causing the disease cannot easily spread to an uninfected person and so the disease is eliminated.Biologists have developed drugs that target and aim to break this life cycle. They are called anti-retroviral drugs. There are different anti-retroviral drugs that target different stages in the life cycle. They are more effective when taken in combination than when taken singly, although there can be side effects. The combination treatment is called highly active anti-retroviral therapy, or HAART. However, it is important to remember that these drugs only treat the HIV that is currently present in the body. They do not provide any lasting immunity and a person could be reinfected.Other biologists have been working for years to try to produce a vaccine against HIV. A vaccine would provide lasting immunity against reinfection by HIV. One of the problems has been that HIV mutates (changes) rapidly and that any one infected person can have several different types of HIV in them. However, researchers have found a part of the virus that is found in all strains of HIV and is crucial to the virus infecting the cells. They have constructed a vaccine based on this. Their research is also unusual because they have attached this part of HIV to a common cold virus. Previously most experimental AIDS vaccines had been based on a weakened form of HIV itself and were potentially dangerous because the virus could always revert to its infective form. Also, other biologists are studying a group of people in Kenya who have been repeatedly exposed to HIV but never developed AIDS. Their immune responses to HIV may hold the key to a vaccine. It has been shown that human antibodies produced against HIV completely protect some monkeys against a very similar disease caused by a very similar virus. A vaccine could well be possible.",
+        "page_number": 31
+    },
+    {
+        "_id": "rec_25",
+        "topic": "What can we do in the fight against AIDS?",
+        "chunk_text": "There are a number of things that all of us can do. The first is to recognise that people with AIDS are quite simply sick people who need medical care as well as the support and love of their families and friends. AIDS victims have been stigmatised for years in all countries all over the world. This makes the problem worse in a number of ways:\n\u2022 It makes it harder for victims to come to terms with their illness.\n\u2022 It may prevent them from seeking early advice for fear of stigmatisation; this in turn may lead to further infection before the condition is diagnosed.\n\u2022 It can make governments reluctant to take decisive action for fear of offending powerful pressure groups.\nWe must show tolerance and support. You may one day be in the unenviable position of having to watch someone you love die from a condition that gradually robs them of all ability to look after themselves and turns their body into a shadow of what it was. It could be someone much younger than you, which always seems even worse. People in this position need great strength of character to continue to support the dying person and probably support the rest of the family as well. We need friends to help us through this and we should not forget to help our friends also. The community must pull together: we cannot fight AIDS alone.\nYou will probably have to make some difficult choices about your personal behaviour. Communities are made up of individuals and although communities can agree a course of action, individuals must then support this course of action.\nAlthough, as individuals, we can do little about the transmission of AIDS through infected blood products or from mother to child, there are things we can do to help control the spread of AIDS by breaking the transmission pathway. These include:\n\u2022 Restricting the number of sexual partners. In terms of AIDS, this is simple mathematics. If we have sex with many people, we increase our risk of contracting HIV and then passing it on. Sex within a",
+        "page_number": 33
+    },
+    {
+        "_id": "rec_26",
+        "topic": "Classification of inorganic and organic molecules",
+        "chunk_text": "Can you see that the organic molecules always contain both carbon and hydrogen? Inorganic molecules may contain one or the other (or neither), but not both. Different organic molecules contain different combinations of carbon and hydrogen. They may also contain other chemical elements. Most biological organic molecules contain oxygen in addition to carbon and hydrogen and some also contain nitrogen.",
+        "page_number": 43
+    },
+    {
+        "_id": "rec_27",
+        "topic": "Which chemical elements are found most frequently in living organisms?",
+        "chunk_text": "Look at the periodic table below. This has all the chemical elements arranged in such a way that similar elements are placed in the same column \u2013 or group. The elements that are highlighted are the ones that are used to build nearly all biological molecules. What do you notice about their position in the periodic table? Can you find out the importance of this? Very few other elements are used to build biological molecules, although other elements do have specific functions in biological systems. Some elements that are important for humans are calcium (Ca) for bones, teeth and muscles, chlorine (Cl) for digesting food, fluorine (F) for tooth enamel and iron (Fe) to help blood carry oxygen around the body.",
+        "page_number": 43
+    },
+    {
+        "_id": "rec_28",
+        "topic": "The most common elements",
+        "chunk_text": "in many cells are: Hydrogen (H) 59% Oxygen (O) 24% Carbon (C) 11% Nitrogen (N) 4% Others (such as phosphorus (P) and sulphur (S)) 2% combined (The percentages given are averages for many different cells.) Atoms of elements can join together to form molecules. We call this forming a chemical bond. Sometimes two atoms of the same element join together to form a molecule of that element \u2013 for example, we breathe in oxygen molecules, each made of two oxygen atoms. This is why the formula for oxygen gas is O2. Atoms of one element can join with atoms of another element to make a molecule of a compound. The atoms are always present in the same ratio in all the molecules of the compound. Each atom can make a certain number of bonds with other atoms; this is called its valency. See table 2.2 below. So, whilst a carbon atom can bond with four hydrogen atoms, each hydrogen atom can only bond with one carbon. Because carbon can bond with four other atoms, it can make large molecules with chains of carbon atoms. These are the organic molecules that are the basis of life.",
+        "page_number": 44
+    },
+    {
+        "_id": "rec_29",
+        "topic": "Water, water everywhere?",
+        "chunk_text": "Well, not quite everywhere. Water covers three-quarters of the planet and on the remaining one-quarter, which is land, water is often not very far away. It may be in streams, rivers, ponds, lakes or in huge underground aquifers. And, of course, it is in all living things. Most cells are about 70% water and some are as high as 90%.",
+        "page_number": 45
+    },
+    {
+        "_id": "rec_30",
+        "topic": "What is water?",
+        "chunk_text": "Just about everyone knows the chemical formula for water \u2013 H2O. Water is made of molecules, each of which contains two hydrogen atoms bonded to one oxygen atom. Notice that the molecule is not \u2018straight\u2019 it is bent into a \u2018v\u2019 shape. Also, the molecule forms what we call a \u2018dipole\u2019. Part of the molecule has a slight negative charge (\u03b4\u2013) and other parts have a slight positive charge (\u03b4+). What is less well known is that in a mass of water (such as the water in a glass or the water in a pond), all the water molecules are interlinked! Besides the bonds joining the hydrogen atoms to the oxygen atom, there are very weak bonds \u2013 called hydrogen bonds \u2013 that join the oxygen in one water molecule (the slightly negative part) to the hydrogen in another water molecule (the slightly positive part).",
+        "page_number": 45
+    },
+    {
+        "_id": "rec_31",
+        "topic": "Why is water so important to living things?",
+        "chunk_text": "The very first cells on Earth evolved in water about 3.5 billion years ago. Water has many properties that make it important to living things in a number of ways, such as:\n\u2022 a place to live\n\u2022 a transport medium\n\u2022 a reactant in many chemical reactions\n\u2022 a place for other reactions to take place\n\u2022 water is a vital chemical constituent of living cells\nWater is a place to live in. Many organisms live in water. Plants and algae both live in water as do many different types of animals\nWater is transparent. This means that light can pass through the water and allow the plants and algae to photosynthesise. It also means that animals can see where they are going. However, water does not allow all light to pass through it and as we go deeper and deeper, less and less light penetrates.\nDifferent wavelengths of light penetrate to different depths. Red and indigo wavelengths are soon lost. Blue and green wavelengths penetrate deeper than others.\nWater has a high specific heat capacity. This means that it takes quite a lot of energy to heat water up. Water also loses heat quite slowly. This has the overall effect that water stays more or less the same temperature \u2013 particularly large masses of water, such as oceans and lakes. This is important as the functioning of enzymes in living cells is affected by temperature. Too hot or too cold and the enzymes do not function efficiently and the reactions in the cells controlled by the enzymes are not carried out efficiently.\nIce is less dense than liquid water. It is unusual for the solid form of a substance to float on the liquid form of the same substance, but ice floats on water. This is because water expands when it freezes. So, in cold weather, water freezes from the top down. The ice on the surface then acts as an insulator and slows down the heat loss from the liquid water underneath. So life can continue in relatively warm water underneath the ice all through the cold weather.\nWater has a high latent heat of vaporisation. This means that it takes a lot of energy to turn liquid water into water vapour (or steam). In turn this means that water doesn\u2019t vaporise too easily and that ponds don\u2019t dry up too quickly in hot weather \u2013 and the organisms in the pond have a better chance of survival. This property is also important in temperature control.\nWhen we sweat, the energy needed to vaporise the sweat comes from our bodies. This heat is then lost from our bodies and so we cool down. If water vaporised easily, sweating wouldn\u2019t be as effective in controlling our body temperature.\nWater has a high surface tension. The water molecules in the main body of a mass of water are hydrogen-bonded to other water molecules on all sides. But at the surface, there is no hydrogen bonding above. So the \u2018pull\u2019 from the sides is stronger than it would otherwise be and the molecules at the surface are held together more strongly.\nThis is why some animals can \u2018walk on water\u2019 and why others can attach themselves to the surface of the water and live just below the surface. The water strider is just one example of an insect that is so light that the force of the surface tension of the water water can support the weight of the insect. The mosquito larvae hang from the surface of the water by their breathing tubes. The surface tension is sufficiently strong to hold their weight.\nWater is a good solvent for many substances Many organic and inorganic substances important to life dissolve in water, but don\u2019t dissolve either at all or as well in other liquids. Water is very versatile. Because these substances dissolve in water, they can be transported in a water-based transport medium. Biological mechanisms such as active transport, diffusion and facilitated diffusion move the substances into and out of the water (in the transport medium). In mammals, the plasma of blood is 90% water. This is forced through the system of veins arteries and capillaries by the heart. In plants water carries dissolved minerals upwards from the roots to other parts of the plants in the xylem vessels. Water in the phloem tubes carries dissolved organic substances all over the plant.\nWater has the ideal viscosity for a transport medium. Viscosity is a measure of how fluid a liquid is \u2013 how easily it flows. If water were more viscous (less fluid) than it is \u2013 think of tar! \u2013 then the heart would not be able to move it through the blood vessels. Also, the water inside cells transports substances around the cell; if it were more viscous, it would damage the delicate organelles in the cells. If water were less viscous (more fluid) than it is, it would flow too easily and, inside cells, the organelles would not be supported. Similarly, in the circulatory system, a less viscous liquid would not move the blood cells around the system as efficiently.",
+        "page_number": 46
+    },
+    {
+        "_id": "rec_32",
+        "topic": "Water and support in cells",
+        "chunk_text": "When plant cells absorb a lot of water, they swell until their cellulose cell wall won\u2019t let them swell any more. In this condition, we say they are turgid. Turgid cells press against each other and this pressure helps to support the plant. If the cells lose water, the pressure decreases and so does the support.",
+        "page_number": 49
+    },
+    {
+        "_id": "rec_33",
+        "topic": "Water as a reactant",
+        "chunk_text": "Many reactions in living things need water as a raw material. Photosynthesis \u2013 the process which begins the process of energy transfer between living things \u2013 requires water as one of its reactants. No water, no photosynthesis. Water is also involved in digesting large food molecules into smaller ones. Reactions that use water to split large molecules are called hydrolysis reactions. Hydro = water; lysis = splitting. Water molecules are used to split large food molecules into smaller ones that can be absorbed into the bloodstream. Water is also involved in other reactions. For example, it is involved in reactions with carbon dioxide in red blood cells that are important in the transport of carbon dioxide around the body as hydrogen carbonate ions.",
+        "page_number": 49
+    },
+    {
+        "_id": "rec_34",
+        "topic": "Water as a medium for chemical reactions",
+        "chunk_text": "Cells function because of the many chemical reactions that are continually taking place in them. Many of these take place on the membrane systems of the cell, but others take place in the liquid \u2018cytosol\u2019 of the cytoplasm. Also, many of the reactions of photosynthesis and respiration take place in the liquid inner regions of chloroplasts and mitochondria. Water is an ideal medium for these reactions \u2013 for some of the reasons already discussed: \u2022 It can dissolve many substances \u2013 the reactions will only take place effectively in solution. \u2022 It has a low viscosity \u2013 the particles can move around and come easily into contact with each other. So, we can see that, without water, life as we know it could not possibly exist. Water is just too important.",
+        "page_number": 50
+    },
+    {
+        "_id": "rec_35",
+        "topic": "What are carbohydrates and why do we need them?",
+        "chunk_text": "All carbohydrates contain the elements carbon, hydrogen and oxygen. The hydrogen and oxygen atoms in a carbohydrate molecule are present in the ratio of two hydrogen atoms to one oxygen atom (for example, glucose, C H O , and maltose,\n6 12 6\nC H O ). Carbohydrates range from very small molecules\n12 22 11\ncontaining only 12 atoms, to very large molecules containing\nthousands of atoms.\nCarbohydrates have a range of functions:\n\u2022 They are used to release energy in respiration \u2013 glucose is the\nmain respiratory substrate of most organisms.\n\u2022 Carbohydrates are a convenient form in which to store chemical\nenergy; storage carbohydrates include:\n\u2013 starch in plants\n\u2013 glycogen in animals\n\u2022 Some carbohydrates are used to build structures; structural\ncarbohydrates include:\n\u2013 cellulose, which is the main constituent of the primary cell wall\nof plants\n\u2013 chitin, which occurs in the cell walls of fungi and in the\nexoskeletons of insects\n\u2013 peptidoglycan, which occurs in bacterial cell walls",
+        "page_number": 51
+    },
+    {
+        "_id": "rec_36",
+        "topic": "What different types of carbohydrates are there?",
+        "chunk_text": "Monosaccharides are the simplest carbohydrates. A\nmonosaccharide molecule can be thought of as a single sugar\nunit. Other, more complex, carbohydrates have two or more\nmonosaccharide units joined together.\nMonosaccharides can be classified according to how many carbon\natoms are present in the molecule.\n\u2022 A triose monosaccharide has three carbon atoms \u2013 formula\nC H O . Glycerate phosphate is a triose important in\n3 6 3\nphotosynthesis.\n\u2022 A pentose monosaccharide has five carbon atoms \u2013 formula\nC H O . Ribose is found in RNA nucleotides.\n5 10 5\n\u2022 A hexose monosaccharide has six carbon atoms \u2013 formula\nC H O . Glucose is the hexose produced in photosynthesis and\n6 12 6\nused in respiration.\nThere are several different trioses, pentoses and hexoses. Each triose\nhas the same number of each kind of atom (hence the formula\nC H O ), but the atoms are put together in a different way. They\n3 6 3\nare isomers of each other. The same is true for the pentoses and\nhexoses.\nMonosaccharides can be classified in a different way \u2013 according to\nthe functional group that they possess.\nThere are two functional groups in monosaccharides:\n\u2022 the aldehyde group with the formula CHO (monosaccharides\nwith this group are aldoses), and\n\u2022 the ketone group, with the formula C=O (monosaccharides with\nthis group are ketoses).\nThe main significance of this difference is the ability to polymerise.\nNearly all the polysaccharides found in living things are polymers of\naldose monosaccharides.\nFigure 2.16 shows examples of each type of sugar according to both\nclassifications.\nThe structures of the monosaccharides above are shown in a\n\u2018straight chain\u2019 form. However, in solution, they often change into\na \u2018ring\u2019 structure. Figure 2.17 overleaf shows the straight chain and\nring forms of two hexose monosaccharides \u2013 glucose and fructose.\nThe straight chain form of glucose can produce two different ring\nforms \u2013 \u03b1-glucose and \u03b2-glucose. There is only one difference\nbetween these two. Can you see it?\nThe straight chain form of fructose produces only one ring form.\nIn these structural diagrams, the carbon atoms in the molecules are\nnumbered according to their positions in the molecule.\nYou do not have to know the position of every carbon, hydrogen\nand oxygen atom in these molecules. However, if you can remember\nthe simplified structures shown in figure 2.19 this will help you to\nunderstand how more complex carbohydrates are formed. These\nsimplified diagrams show the overall shape of the molecule, the\nposition of each carbon atom and the hydrogen and oxygen atoms\nattached to carbon atoms 1 and 4.\nDisaccharide carbohydrate molecules are made by two\nmonosaccharide molecules joining together. For example, a\nmolecule of:\n\u2022 maltose is derived from two \u03b1-glucose molecules\n\u2022 sucrose is derived from an \u03b1-glucose molecule and a fructose\nmolecule\n\u2022 lactose (milk sugar) is derived from a \u03b2-glucose molecule and an\n\u03b1-galactose molecule.\nIn each of these examples, two hexose monosaccharides have\nreacted to form a disaccharide molecule. As the formula of a hexose",
+        "page_number": 51
+    },
+    {
+        "_id": "rec_37",
+        "topic": "Starch",
+        "chunk_text": "Starch is not a single compound but a mixture of amylose and amylopectin. Both are polymers of \u03b1-glucose, but the arrangement of the \u03b1-glucose monomers in these compounds is different. Amylose is a linear molecule containing many hundreds of \u03b1-glucose molecules joined by \u03b1-1,4-glycosidic bonds. As it is being formed, this long chain winds itself into a helix.",
+        "page_number": 56
+    },
+    {
+        "_id": "rec_38",
+        "topic": "Why starch stains blue or black or blue-black with iodine",
+        "chunk_text": "The amylose molecule winds itself into a helix when in contact with water. This allows a reaction to occur between the starch and the iodine solution. Rows of iodine atoms sit inside the amylose iodine molecule helix. This changes the light-absorbing properties of both, so that the amylose\u2013iodine complex appears blue. Starches in different plants have different proportions of amylose and amylopectin. This results in different shades of blue-black with the iodine test, because only the amylose reacts with iodine.",
+        "page_number": 56
+    },
+    {
+        "_id": "rec_39",
+        "topic": "Amylopectin",
+        "chunk_text": "Amylopectin also has a linear \u2018backbone\u2019 of \u03b1-glucose molecules joined by \u03b1-1,4-glycosidic bonds. But in amylopectin, there are also side branches. These occur at certain points along the chain when a glucose molecule forms an \u03b1-1,6-glycosidic bond with another glucose molecule as well as the usual \u03b1-1,4-glycosidic bond. This results in amylopectin having a branching structure as shown in figure 2.25. The branched nature of amylopectin means that there are many \u2018ends\u2019 to the molecule. This allows it to be quickly hydrolysed by enzymes acting at the ends of the chains to release glucose for respiration.",
+        "page_number": 57
+    },
+    {
+        "_id": "rec_40",
+        "topic": "How the structure of starch is suited to its function",
+        "chunk_text": "Starch is a plant storage carbohydrate. How does its structure suit it to this function?\n\u2022 Both amylose and amylopectin are compact molecules, so many \u03b1-glucose molecules can be stored in a small space, without affecting cell metabolism.\n\u2022 Both amylose and amylopectin are insoluble. If soluble glucose were stored (instead of first being converted to starch), it would draw water, by osmosis, from neighbouring cells and from organelles within the cell. Insoluble starch produces none of these effects.\n\u2022 In addition, because amylose and amylopectin are insoluble, the molecules cannot move out of cells \u2013 they remain in storage organs.\n\u2022 The branched nature of amylopectin means that there are many \u2018ends\u2019 to the molecule. Therefore, starch can be quickly hydrolysed (by enzymes acting at the ends of the chains) to release glucose for respiration.",
+        "page_number": 57
+    },
+    {
+        "_id": "rec_41",
+        "topic": "Glycogen",
+        "chunk_text": "Glycogen is a storage carbohydrate in animal cells. It has a similar structure to that of amylopectin \u2013 but there are more \u03b1-1,6 links, making it much more highly branched. Because of this, it can be hydrolysed even more quickly to release glucose for respiration. This is important because animals have a higher metabolic rate than plants and need to release energy more quickly to \u2018drive\u2019 their metabolic processes.",
+        "page_number": 57
+    },
+    {
+        "_id": "rec_42",
+        "topic": "Cellulose",
+        "chunk_text": "Cellulose is a polymer of \u03b2-glucose molecules joined by \u03b2-1,4- glycosidic bonds, formed by condensation reactions. However, because of the different position of the H and OH groups on carbon atom 1 compared to \u03b1-glucose, every other glucose unit in the",
+        "page_number": 57
+    },
+    {
+        "_id": "rec_43",
+        "topic": "How the structure of cellulose is suited to its function",
+        "chunk_text": "The cellulose molecule is unbranched. This allows hydrogen bonding and the formation of microfibrils. If it were branched, microfibrils could not form. It is the fibrous nature of cellulose that gives the cell walls their strength, but also gives them some flexibility.",
+        "page_number": 58
+    },
+    {
+        "_id": "rec_44",
+        "topic": "What are lipids?",
+        "chunk_text": "Like carbohydrates, nearly all lipids contain only the elements carbon, hydrogen and oxygen, but they contain much less oxygen than carbohydrates. Lipids are a varied group of compounds that include: \u2022 triglycerides \u2013 formed from glycerol and three fatty acids \u2022 phospholipids \u2013 formed from glycerol, two fatty acids and a phosphate group \u2022 waxes \u2013 formed from fatty acids and long-chain alcohols Whilst some lipids have quite large molecules, they are not polymers and, in many cases, their molecules are relatively small. \u2018The feature that they all share is that are all made from fatty acids and alcohols. Glycerol is a polyhydroxy alcohol. This means it contains more than one hydroxyl (\u2013OH) group. Ethanol, the alcohol in beer and wine, has the formula C H OH. It is a monohydroxy alcohol and contains only one hydroxyl group: H H C O H H C O H H C O H H Because of their varied nature, lipids have a range of functions. Waxes are so insoluble in water that they make excellent water repellents, for example, in coating birds\u2019 feathers and the epidermis of the leaves of plants (the waxy cuticle). Phospholipids are one of the basic components of all cell membranes. Triglycerides have several functions including: \u2022 respiratory substrate \u2013 a molecule of triglyceride yields over twice as many molecules of ATP (twice as much energy) as a molecule of glucose \u2022 thermal insulation \u2013 the cells of adipose tissue found under the skin of many animals contain large amounts of triglycerides, which give good thermal insulation \u2022 buoyancy \u2013 lipids are less dense than water (oil floats on water), so the presence of large amounts of lipid reduces the density of an animal, making it more buoyant \u2022 waterproofing \u2013 the oils secreted by some animals onto their skin are triglycerides",
+        "page_number": 59
+    },
+    {
+        "_id": "rec_45",
+        "topic": "Triglycerides",
+        "chunk_text": "A triglyceride molecule is an ester formed from one molecule of glycerol and three fatty acid molecules. A fatty acid molecule consists of a covalently bonded hydrocarbon chain, at the end of which is a carboxyl group, which has acidic properties. The hydrocarbon chain is non-polar (this means that it has no charge). The carboxyl group (the functional group of the fatty acid \u2013 fatty acid) is ionic and dissociates in solution to form COO and H+ (hydrogen ion). The hydrogen ions released make the solution acidic.",
+        "page_number": 59
+    },
+    {
+        "_id": "rec_46",
+        "topic": "The nature of the hydrocarbon chains in fatty acids can differ in two main ways:",
+        "chunk_text": "\u2022 The number of carbon atoms in the chains can vary. \u2022 Hydrocarbon chains with the same number of carbon atoms can have different numbers of hydrogen atoms. This is because of the nature of the bonding between the carbon atoms in the chain. If all the carbon\u2013carbon bonds in the hydrocarbon chain are single bonds, the fatty acid is a saturated fatty acid. If one of the carbon\u2013carbon bonds is a double bond, then it is a monounsaturated fatty acid. If more than one carbon\u2013carbon bond is a double bond, then the fatty acid is a polyunsaturated fatty acid. Sometimes we wish to represent a \u2018generalised fatty acid\u2019. This means a diagram that shows the general arrangement of the molecule, including the functional group, but that could have any number of carbon atoms in the hydrocarbon chain. When triglyceride molecules are formed, condensation reactions take place to join three fatty acid molecules to a glycerol molecule. The bonds formed are called ester bonds. These ester bonds can be broken by hydrolysis to give glycerol and fatty acids once again.",
+        "page_number": 60
+    },
+    {
+        "_id": "rec_47",
+        "topic": "Phospholipids",
+        "chunk_text": "Phospholipids are formed when two fatty acid molecules are bonded to the glycerol and the place of the third is taken by a phosphate group. Since the phosphate group is ionic and the hydrocarbon chains of the two fatty acids are covalently bonded, there are two distinct regions to a phospholipid molecule: \u2022 a hydrophilic (water-loving) region, consisting of the phosphate \u2018head\u2019 \u2022 a hydrophobic (water-hating) region, consisting of the hydrocarbon \u2018tails\u2019\nIn water, phospholipids become organised into a bilayer (two layers sandwiched together). In this configuration, the hydrophilic heads face outwards into the water and the hydrophobic tails face inwards, away from the water. Phospholipid bilayers are the basis of plasma membranes. We will study these in detail in unit 4. Notice how the structure of a phospholipid has been simplified in figure 2.33. The phosphate head is shown as a ball and the fatty acids as two tails. The glycerol \u2018backbone\u2019 somehow gets lost in the simplification!",
+        "page_number": 61
+    },
+    {
+        "_id": "rec_48",
+        "topic": "Why do we need proteins?",
+        "chunk_text": "Proteins are extremely important substances that are needed to form all living cells. Their molecules contain the elements carbon, hydrogen and oxygen (like carbohydrates and lipids), but they also contain nitrogen and most contain sulphur. Protein molecules are polymers of amino acids and so are macromolecules also. But they vary enormously in size; the smallest protein molecules contain fewer than 100 amino acids, whilst the largest contain several thousand. Proteins have a range of functions; they are important in: \u2022 the structure of plasma membranes \u2013 protein molecules form ion channels, transport proteins and surface receptors for hormones, neurotransmitters and other molecules \u2022 the immune system \u2013 antigen and antibody molecules are proteins\n\u2022 the control of metabolism by enzymes \u2013 all enzymes are proteins\n\u2022 the structure of chromosomes \u2013 DNA is wound around molecules of the protein histone to form a chromosome\nAll amino acid molecules are built around a carbon atom (the \u03b1-carbon) to which is attached: \u2022 a hydrogen atom \u2022 an amino group (\u2013NH2) \u2022 a carboxyl group (\u2013COOH) \u2022 an \u2018R\u2019 group, which represents the other atoms in the molecule, such as a single hydrogen atom, a hydrocarbon chain or a more complex structure\nTwo amino acids can be joined together by condensation to form a dipeptide. This takes place in much the same way as when two monosaccharides join to form a disaccharide. H and OH are lost to create a molecule of water. The \u2018H\u2019 is lost from the amino group on one amino acid and the \u2018OH\u2019 is lost from the carboxyl group on the other amino acid. \u2018Spare bonds\u2019 are created on each molecule, which then join to form a peptide bond, which holds the two amino acids together. This is shown in figure 2.35.\nA dipeptide can be enlarged into a polypeptide by condensation with more amino acid molecules. Many amino acids joined by peptide bonds form a polypeptide chain; this sequence of amino acids is the primary structure of the protein. Once formed, the polypeptide chain folds itself into a secondary structure, which is either an \u03b1-helix or a \u03b2-pleated sheet (see figure 2.36). The structures are held in place by hydrogen bonds that form between peptide bonds in adjacent parts of the amino acid chain. Both types of secondary structure can exist in different regions of the same polypeptide chain. A protein molecule can also have a tertiary structure. This involves further folding of the secondary structure and the formation of new bonds to hold the tertiary structure in place. These new bonds include: \u2022 more hydrogen bonds \u2013 between the R-groups of some amino acids \u2022 disulphide bridges \u2013 between amino acids that contain sulphur \u2022 ionic bonds \u2013 between amino acids with positively charged R-groups and those with negatively charged R-groups\nEach protein has a unique tertiary structure and so has a unique configuration (shape) because: \u2022 the primary structure of each protein is coded for by DNA, which determines the type and position of each amino acid in the polypeptide chain",
+        "page_number": 61
+    },
+    {
+        "_id": "rec_49",
+        "topic": "What are nucleic acids?",
+        "chunk_text": "Biologists discovered two different types of nucleic acid at the end of the nineteenth century:\n\u2022 DNA or DeoxyriboNucleic Acid \u2013 DNA is the nucleic acid found\nin chromosomes. Each gene is a short section of DNA that codes\nfor a specific protein and, as a result, determines a particular\nfeature. DNA is the genetic material.\n\u2022 RNA or RiboNucleic Acid \u2013 RNA is a nucleic acid found both in\nthe nucleus and the cytoplasm. Different types of RNA are involved\nin allowing a specific gene (DNA) to produce the protein it codes for.\nDNA was isolated from animal cells and RNA from yeast cells. It was\nnot until much later that biologists realised that both types are present\nin all living cells. We shall study the structure and functioning of\nnucleic acids in more detail in grade 12, but they are very important\nbiological molecules, so we will just outline their structure and\nfunctions now. Both types of nucleic acids are made from structures\ncalled nucleotides. All nucleotides have the same basic structure.\nAll nucleotides have the same three components:\n\u2022 a phosphate group\n\u2022 a pentose sugar (deoxyribose in DNA nucleotides and ribose in\nRNA nucleotides), and\n\u2022 one of four nitrogenous bases \u2013 Adenine, Cytosine, Guanine and\neither Thymine (DNA) or Uracil (RNA).\nDNA is a huge molecule made up of two strands of nucleotides wound\ninto a double helix. RNA is much smaller and is single-stranded.",
+        "page_number": 65
+    },
+    {
+        "_id": "rec_50",
+        "topic": "How can we find out which biological molecules are in foods?",
+        "chunk_text": "There are biochemical tests for a range of biological molecules.\nThese include:\n\u2022 starch\n\u2022 reducing sugars\n\u2022 non-reducing sugars\n\u2022 lipids\n\u2022 proteins.",
+        "page_number": 66
+    },
+    {
+        "_id": "rec_51",
+        "topic": "What are enzyme molecules like?",
+        "chunk_text": "First, all enzymes are globular proteins. We learned in unit 2 that globular proteins all have a unique tertiary structure, which gives them a unique shape. Figure 3.1 shows a model of the tertiary structure of the human lipase enzyme that hydrolyses lipids into fatty acids and glycerol. You should be able to identify regions where there is: \u2022 an \u03b1-helix \u2022 a \u03b2-pleated sheet \u2022 no folding into a secondary structure. Second, within that very complex structure is a region called the active site. This is the part of the enzyme molecule that binds with its substrate so that the enzyme can catalyse the chemical reaction. The active site of an enzyme is shaped to allow: \u2022 binding with a particular substrate and that substrate only, and \u2022 binding in such a way that the reaction can take place requiring less energy than if the enzyme was not present. We can use the example of the enzyme sucrase catalysing the hydrolysis of sucrose substrate into glucose and fructose to illustrate this. 1. Enzyme is available (sucrose) with empty active site. The substrate for the enzyme is the molecule active site 2. Substrate binds to of sucrose. This binds with the active site to form enzyme\u2013substrate form an enzyme\u2013substrate complex. complex. enzyme (sucrase) A molecule of water then reacts with the sucrose to hydrolyse the molecule into glucose and fructose. These are then released from the active site, which can then accept water another molecule of sucrose. It is important glucose to note that the enzyme is unaltered by the fructose reaction. 4. Products are 3. Substrate is released. converted to products. This is shown in figure 3.2. We are now in a position where we can define more precisely what we mean when we are talking about an enzyme: An enzyme is a globular protein with a uniquely shaped active site; it acts as a biological catalyst for a specific reaction, but remains unaltered by the reaction.",
+        "page_number": 80
+    },
+    {
+        "_id": "rec_52",
+        "topic": "What are the properties of enzymes?",
+        "chunk_text": "\u2022 They are all proteins. \u2022 They are biological catalysts: they speed up a reaction without being used up, so they can be used over and over again. \u2022 They are specific: they catalyse one reaction only. \u2022 A small amount of enzyme can bring about a change in a large amount of its substrate. \u2022 Enzymes are affected by pH and temperature. They can be destroyed by excessive heat. They are also affected by the concentration of their substrate and the presence of certain substances that act as inhibitors.",
+        "page_number": 81
+    },
+    {
+        "_id": "rec_53",
+        "topic": "What are catalysts?",
+        "chunk_text": "A catalyst is a substance that speeds up a reaction; the reaction itself is unaltered. There is no overall change to: \u2022 the nature of the products \u2022 the energy change that takes place during the reaction \u2022 the catalyst itself Enzymes allow biochemical reactions inside cells to take place quickly, at a temperature that will not damage the structure of the cell.",
+        "page_number": 81
+    },
+    {
+        "_id": "rec_54",
+        "topic": "Why are enzymes specific?",
+        "chunk_text": "This is also a function of the active site. Because of the conformation of the active site (the way in which it is shaped), only a certain substrate or combination of substrates can bind with it. Because only one substrate (or substrate combination) can bind, there is only one possible reaction that can be catalysed. This is illustrated in figure 3.3.",
+        "page_number": 81
+    },
+    {
+        "_id": "rec_55",
+        "topic": "How are enzymes affected by pH and by temperature?",
+        "chunk_text": "Temperature affects enzyme action in two ways: \u2022 a higher temperature gives the enzyme molecules (and their substrate molecules) more kinetic energy; they move around faster and form more enzyme\u2013substrate complexes \u2022 a higher temperature affects the chemical bonds holding the tertiary structure of the enzyme in place (particularly those in the active site); as more and more of these bonds break, the shape of the active site changes and it can no longer bind with its substrate pH affects the enzyme molecule in a similar way to high temperatures. A pH that is too low (too acid) or too high (too alkaline) will cause charges on the active site to alter and cause the active site to lose its conformation. The substrate cannot bind and so the reaction is no longer catalysed.",
+        "page_number": 81
+    },
+    {
+        "_id": "rec_56",
+        "topic": "How do we name and classify enzymes?",
+        "chunk_text": "Common or working enzyme nomenclature (naming of enzymes) Different enzymes are named in different ways. \u2022 Most commonly enzymes are named by adding \u2018ase\u2019 to part of the name of the substrate. For example, lipase (lipid hydrolysing enzyme), sucrase (sucrose hydrolysing enzyme). \u2022 Sometimes the enzymes are named on the basis of the reaction that they catalyse. For example, polymerase (aids in polymerisation \u2013 joining similar units together), dehydrogenase (removal of hydrogen atoms or ions). \u2022 Some enzymes have been named based on the source from which they were first identified. For example, papayin from papaya. Others are named according to where they act. For example, intestinal protease acts on proteins in the intestine. \u2022 The names of some enzymes end with \u2018in\u2019, indicating that they are basically proteins. For example, pepsin, trypsin, etc. These enzymes usually have alternative names that tell you rather more about them. For example, the alternative name for pepsin is gastric protease. This tells you that it acts on proteins and it does so in the stomach. Because of the varied ways in which enzymes had been named, biologists at the Enzyme Commission decided to produce a systematic way of naming enzymes, based on the ways in which the enzymes act. To appreciate this, we must first look at how enzymes are classified.",
+        "page_number": 82
+    },
+    {
+        "_id": "rec_57",
+        "topic": "Enzyme classification and the systematic nomenclature of enzymes",
+        "chunk_text": "Enzymes are generally classified on the basis of the type of reactions that they catalyse. Six groups of enzymes can be recognised on this basis. Table 3.2 lists these groups along with examples. Each class of enzymes contains several different, but related, subclasses. Each subclass is further divided into sub-subclasses. Within the sub-subclasses, each enzyme has a number. So, in the systematic naming of enzymes, an enzyme will have a \u2018name\u2019 such as EC 3.4.11.1. Each part of the description tells us something about the enzyme: \u2022 EC stands for Enzyme Commission \u2022 the first number shows to which of the six main classes the enzyme belongs \u2022 the second figure indicates a subclass \u2022 the third figure gives a sub-subclass \u2022 the fourth figure is the serial number of the enzyme in its sub-subclass. Enzyme EC 3.4.11.1 is: \u2022 a hydrolase \u2013 all the enzymes in class 3 hydrolyse some kind of bond \u2022 a peptidase \u2013 all the enzymes in subclass 4 of class 3 are peptidases and hydrolyse peptide bonds \u2022 an amino-peptidase \u2013 all the enzymes in sub-subclass 11 of sub-class 4 are amino-peptidases; they hydrolyse peptide bonds at the amino end of a polypeptide chain \u2022 leucyl-amino-peptidase \u2013 this particular amino-peptidase is number 1 of this sub-subclass",
+        "page_number": 83
+    },
+    {
+        "_id": "rec_58",
+        "topic": "What do enzymes do for you?",
+        "chunk_text": "We have been using enzymes for thousands of years \u2013 although the people who used them then didn\u2019t know quite what they were using! Unknowingly, they used enzymes (in yeast) to make bread and beer. These are almost certainly the first uses of \u2018enzyme technology\u2019. Yeast is a unicellular fungus that ferments carbohydrates to produce carbon dioxide and alcohol. The enzymes in yeast control the reactions of fermentation. We still use yeast to brew alcoholic drinks, such as tella, and to bake breads, such as injera. Both these Ethiopian products are often made at home, as well as professionally. When dough is baked to produce the bread, the tiny amount of alcohol formed is lost and the carbon dioxide expands to make the dough \u2018rise\u2019 to form a loaf of bread. When beer is brewed, it is the carbon dioxide that is lost and the alcohol remains! However, enzyme technology is now very big business. Enzymes are used in many industries. They are used to produce washing powders \u2013 the enzymes in the washing powders digest the stains in the clothes. \u2018Stone-washed\u2019 denim jeans are now given their stone-washed look by the action of enzymes. Table 3.3 shows just a few of the areas where enzyme technology is used. One of the appeals of using enzymes in industry is that they allow the reactions involved in the processes to be carried out at much lower temperatures. This means less energy (and therefore less money) is spent on heating the reactants. Because less heating is required, less carbon dioxide is produced and this can benefit the environment as carbon dioxide is a greenhouse gas and its accumulation in the atmosphere can lead to global warming.",
+        "page_number": 83
+    },
+    {
+        "_id": "rec_59",
+        "topic": "How do enzymes act as catalysts?",
+        "chunk_text": "Catalysts speed up chemical reactions. In order for molecules to react, they must have sufficient energy. This energy to start off the reaction is called activation energy (or E ). Imagine a reaction in which substance A reacts with substance B to form substance AB. We can write an equation for this as: A + B \u2192 AB However, this does not tell the whole story. The equation gives only the reactants (starting materials) and the products. It does not show how the energy changes as the reaction takes place. The reactant must \u2018climb an activation energy hill\u2019 before anything happens. Under normal conditions, very few molecules of A and B have sufficient kinetic energy to \u2018climb the activation energy hill\u2019, so the reaction proceeds slowly. A catalyst lowers the activation energy required for the reaction. More reactant molecules can meet this lower energy requirement and so the reaction proceeds more quickly. Because the enzyme molecule is unaltered by the reaction, it can be used over and over, and so a small amount of enzyme can affect a large amount of substrate. This is shown in figure 3.8.",
+        "page_number": 88
+    },
+    {
+        "_id": "rec_60",
+        "topic": "How do enzymes lower activation energy?",
+        "chunk_text": "There are two models of enzyme action; the lock-and-key model, first proposed in 1894 by a German biochemist named Fischer and the induced-fit model, proposed in 1958 by Koshland. Both of these models suggest that the enzyme catalyses the reaction by lowering the activation energy. However, they differ in the way that they explain how this happens. In particular, they differ in explaining how the substrate binds to the active site of the enzyme.",
+        "page_number": 88
+    },
+    {
+        "_id": "rec_61",
+        "topic": "The lock-and-key model",
+        "chunk_text": "This model proposes that the shapes of the substrate molecules are complementary to that of the active site, rather like the shape of a key is complementary to that of the lock it fits. A useful way of thinking of complementary shapes is to think of an egg sitting in an egg cup. The egg can sit inside the egg cup because the shapes are complementary. One egg cannot sit inside another egg because the shapes are the same.",
+        "page_number": 88
+    },
+    {
+        "_id": "rec_62",
+        "topic": "The induced-fit model",
+        "chunk_text": "This model suggests that the active site and the substrate aren\u2019t naturally complementary in shape, but the binding of substrate molecules produces a conformational change (change in shape) in the active site. This allows the substrate and active site to bind fully. The conformational change also puts the substrate molecules under tension, so they enter a \u2018transition state\u2019 and are able to react because of the lowered activation energy. In the transition state, bonds in the reactants are put under strain and break more easily and rejoin with other bonds to form the products. The products formed leave the active site. This is shown in figure 3.11. Most biologists now prefer the induced-fit model over the lock-and-key model as it explains other properties of enzymes, such as enzyme inhibition, in a more complete manner than the lock-and-key model.",
+        "page_number": 89
+    },
+    {
+        "_id": "rec_63",
+        "topic": "The rate of a chemical reaction",
+        "chunk_text": "The rate of a chemical reaction is the rate at which reactants are converted into products. In the case of an enzyme-controlled reaction, this is determined by how many molecules of substrate that form enzyme\u2013substrate bind with enzyme molecules to form enzyme\u2013substrate complexes. The number of molecules of reactants that form enzyme\u2013substrate complexes with each molecule of an enzyme, per second, is the turnover rate of the enzyme.",
+        "page_number": 89
+    },
+    {
+        "_id": "rec_64",
+        "topic": "Why do some enzymes need cofactors?",
+        "chunk_text": "Sometimes an active enzyme isn\u2019t just a single molecule, but is made from two molecules, neither of which has enzymic activity without the other. The two parts are the apoenzyme and the cofactor. We can define these in the following way: Apoenzyme \u2013 a protein that combines with a cofactor, to form an active enzyme. The protein is inactive on its own. Cofactor \u2013 a small non-protein particle essential for the activity of some enzymes. The cofactor combines with the apoenzyme to produce an active enzyme. Where an active enzyme molecule comprises an apoenzyme and a cofactor, the whole is sometimes referred to as the holoenzyme. Figure 3.12 shows this.\nCofactors include:\n\u2022 coenzymes\n\u2022 mineral ions\nCoenzymes are organic molecules and many are derived from vitamins. They bind with the enzyme to give catalytic activity.\nTable 3.5 shows some common co enzymes, the vitamins they are derived from, the enzyme with which they bind, and their functions.\nSome enzymes can only function in the presence of certain mineral ions. These bind loosely with the enzyme to give it its catalytic activity. Table 3.6 shows some examples of enzymes that require mineral ions as cofactors.",
+        "page_number": 90
+    },
+    {
+        "_id": "rec_65",
+        "topic": "3.3 Factors affecting the functions of enzymes",
+        "chunk_text": "The turnover rate and, therefore, the activity of the enzyme are influenced by a number of external factors, including: \u2022 temperature \u2022 pH \u2022 substrate concentration \u2022 the presence of inhibitors",
+        "page_number": 93
+    },
+    {
+        "_id": "rec_66",
+        "topic": "How hot must it be?",
+        "chunk_text": "When the temperature is raised, particles are given more kinetic energy. This has two main effects: \u2022 \u2018Free\u2019 particles move around more quickly. This increases the probability that a substrate particle will collide with an enzyme molecule. \u2022 Particles within a molecule vibrate more energetically. This puts strain on the bonds that hold the atoms in place. Bonds begin to break and, in the case of an enzyme, the shape of the molecule, and the active site in particular, begin to change. The enzyme begins to lose its tertiary structure (remember it is a protein) and denature. The activity of an enzyme at a given temperature is a balance between these two effects. If the raised temperature results in little denaturation but a greatly increased number of collisions, the activity of the enzyme will increase. If the higher temperature causes significant denaturation then, despite the extra collisions, the activity of the enzyme will probably decrease. The temperature at which the two effects just balance each other is the optimum temperature for that enzyme. Any further increase in temperature will cause increased denaturation that will outweigh the effects of extra collisions. A decrease in temperature means that fewer collisions will occur. Note that the graph is not symmetrical. Above the optimum temperature, the enzyme denatures very quickly to the point at which the shape of the active site has changed so much that an enzyme\u2013substrate complex cannot form. At this point the reaction rate is zero.",
+        "page_number": 93
+    },
+    {
+        "_id": "rec_67",
+        "topic": "How acidic must it be?",
+        "chunk_text": "The pH scale is a measure of the hydrogen ion concentration of a solution or other liquid system. The pH scale ranges from 0 to 14. Solutions with a pH of less than 7 are acidic, those with a pH of more than 7 are alkaline and a solution with a pH of exactly 7 is neutral. The majority of enzymes in most mammals function most efficiently within the pH range 6.0\u20138.0, although the optimum pH of pepsin (an enzyme found in the stomach) is between pH 1.0 and pH 3.0. Significant changes in pH can affect an enzyme molecule by: \u2022 breaking ionic bonds that hold the tertiary structure in place; this leads to denaturation of the enzyme molecule \u2022 altering the charge on some of the amino acids that form the active site; this makes it more difficult for substrate molecules to bind These effects occur if the pH becomes either more acidic or more alkaline.",
+        "page_number": 94
+    },
+    {
+        "_id": "rec_68",
+        "topic": "Does the concentration of the substrate matter?",
+        "chunk_text": "The activity of an enzyme depends on the number of substrate molecules per second that bind to form enzyme\u2013substrate complexes. So the number of substrate molecules present must have an effect. A small number of substrate molecules means few collisions and so only a few enzyme\u2013substrate complexes form. Increasing the concentration of the substrate means more collisions and more enzyme\u2013substrate complexes. So, the overall rate of reaction is increased. Eventually, because of the high substrate concentration, each enzyme molecule could be working at maximum turnover \u2013 that is, each active site is binding with substrate molecules all the time and there is no \u2018spare capacity\u2019 in the system. Increasing the substrate concentration beyond this point will have no effect on the activity of the enzyme because all the active sites are occupied all the time. Figure 3.17 shows this effect.",
+        "page_number": 95
+    },
+    {
+        "_id": "rec_69",
+        "topic": "How much enzyme should there be?",
+        "chunk_text": "Assuming a constant large supply of substrate molecules, each enzyme molecule will work at maximum turnover. Therefore, the reaction rate will be directly proportional to the number of enzyme molecules \u2013 the concentration of the enzyme. Increasing the concentration will increase the reaction rate. However, increasing the concentration of the enzyme will not increase the activity of the enzyme. Each enzyme molecule will be working at maximum turnover, so the activity of the enzyme is likely to remain constant.",
+        "page_number": 96
+    },
+    {
+        "_id": "rec_70",
+        "topic": "How do other substances affect enzyme activity?",
+        "chunk_text": "Inhibitors are substances that bind to enzymes and prevent them from forming enzyme\u2013substrate complexes and, as a result, stop, or slow down, the reaction. There are two main types of inhibitors: \u2022 irreversible inhibitors, and \u2022 reversible inhibitors. Irreversible inhibitors bind strongly to enzymes, usually by a covalent bond, permanently altering the structure of the enzyme molecule and inactivating it. The painkiller aspirin is an example of an irreversible inhibitor. It binds with the enzyme cyclo-oxidase-2, which is an important enzyme in producing prostaglandins which give the sensation of pain.",
+        "page_number": 98
+    },
+    {
+        "_id": "rec_71",
+        "topic": "Reversible inhibitors",
+        "chunk_text": "Reversible inhibitors bind to enzymes only weakly and the bond that holds them breaks easily releasing the inhibitor. This allows the enzyme to become active again. There are two main kinds of reversible inhibitors: \u2022 competitive inhibitors, and \u2022 non-competitive inhibitors.",
+        "page_number": 99
+    },
+    {
+        "_id": "rec_72",
+        "topic": "Competitive inhibitors",
+        "chunk_text": "Competitive inhibitors have molecules with shapes that are complementary to all, or part, of the active site of an enzyme. They are often similar in shape to the substrate molecules. They can bind with the active site and prevent substrate molecules from binding. The binding is only temporary and the competitive inhibitor is quickly released. A competitive inhibitor blocks the active site so substrate molecules cannot bind. The overall effect on the rate of reaction depends on the relative concentrations of substrate and inhibitor molecules. Each molecule of competitive inhibitor can inhibit (temporarily) one enzyme molecule \u2013 but only if it can collide with the enzyme molecule and bind with the active site. To do this, it must compete with the substrate molecules for the active site \u2013 hence the name, competitive inhibitor. If there were 99 substrate molecules for every inhibitor molecule, then 99% of the collisions would be between enzyme and substrate and the reaction would proceed at 99% of the maximum rate. If the ratio were 90 substrate molecules to ten inhibitor molecules, there would be 10% inhibition and the reaction rate would fall to 90% of maximum. The painkiller ibuprofen acts as a competitive inhibitor of the enzyme cyclo-oxidase-2, competing with the precursors of prostaglandins, which are the substrate of cyclo-oxidase-2. The metabolic poison cyanide acts as a competitive inhibitor of the enzyme cytochrome oxidase, an important enzyme in the release of energy in respiration.",
+        "page_number": 99
+    },
+    {
+        "_id": "rec_73",
+        "topic": "Non-competitive inhibitors",
+        "chunk_text": "Non-competitive inhibitors do not compete for the active site. Instead, they bind to another part of the enzyme called the allosteric site. This produces a conformational change in the part of the enzyme molecule that includes the active site. Because of this, the active site is a different shape and can no longer bind with the substrate to catalyse the reaction.",
+        "page_number": 99
+    },
+    {
+        "_id": "rec_74",
+        "topic": "How do inhibitors control enzyme activity in living cells?",
+        "chunk_text": "Many substances are produced in cells as a result of a metabolic pathway (a series of reactions), which can be represented as: E1 E2 E3 Substance A \u2192 Substance B \u2192 Substance C \u2192 Substance D E1, E2 and E3 are enzymes catalysing the reactions. All the reactions in this sequence are enzyme controlled. Therefore, inhibition of any of these enzymes will interrupt the process. However, the main function of this pathway is to produce substance D for use by the cell. If the requirement for substance D in the cell decreases, then the concentration of D will increase. This is at",
+        "page_number": 101
+    },
+    {
+        "_id": "rec_75",
+        "topic": "A timeline for the development of the cell theory",
+        "chunk_text": "1665 Robert Hooke, with one of the earliest compound microscopes, makes drawings of cork and sees tiny structures that he calls \u2018cells\u2019. However, although his microscope is a compound microscope, the lenses are not very good and magnifications of more than 30\u00d7 are very blurred and do not show much detail. Also, Hooke saw only dead cells. 1674 Anton van Leeuwenhoek sees living, moving unicellular organisms (protoctistans) in a drop of water. He is using a simple microscope with only one lens. It is really little more than a magnifying glass with a mount for the specimens. However, van Leeuwenhoek is very skilled at grinding lenses and so his microscope can achieve magnifications of 300\u00d7. He calls the moving organisms \u2018animalcules\u2019. He also sees bacteria (from his teeth), which he also calls \u2018tiny animalcules\u2019.",
+        "page_number": 113
+    },
+    {
+        "_id": "rec_76",
+        "topic": "About compound microscopes",
+        "chunk_text": "A compound microscope is the sort of microscope we use in biology today. It has two lenses \u2013 the eyepiece and the objective lens (check back to unit 1 for more details) \u2013 that combine to produce the final image. Because two lenses are used, compound microscopes are capable of higher magnifications than simple microscopes, which use only one lens. The second lens (the eyepiece) magnifies the already magnified image produced by the objective lens. However, it also magnifies any \u2018aberrations\u2019 or faults in the image. So if the lenses are not well made, the final image, at high magnifications, will be blurred. The first compound microscope was made in 1595 by the Dutch scientist, Zaccharias Jansen.",
+        "page_number": 113
+    },
+    {
+        "_id": "rec_77",
+        "topic": "key events in the study of cell biology",
+        "chunk_text": "Besides these major steps in the development of a cell theory, there have been other developments in the study of cell biology. Some of these are listed below.",
+        "page_number": 115
+    },
+    {
+        "_id": "rec_78",
+        "topic": "How big are cells?",
+        "chunk_text": "It all depends on what kind of cell you are talking about. The contents of a chicken\u2019s egg are just one huge cell packed with food \u2013 it\u2019s a pretty big cell, up to 5 cm (0.05 m) in length. On the other hand, the smallest bacterial cells are only just over 100 nm in length. This is approximately one hundred-thousandth of the size of the chicken\u2019s egg. That\u2019s quite a range of sizes!",
+        "page_number": 115
+    },
+    {
+        "_id": "rec_79",
+        "topic": "What units shall we measure cells in?",
+        "chunk_text": "Again, it all depends on which cells, but first we should understand which units are available and which ones would be convenient to use. We could measure cells in metres, but the size of a red blood cell in metres would be approximately 0.000007 m. All those 0\u2019s are very confusing and we don\u2019t easily work with such small numbers. So we use other, smaller units to measure the size of cells and molecules. These smaller units give us numbers that are more convenient to work with. There are three smaller units commonly used:\n\u2022 millimetres (mm) \u2013 1/1000 of a metre\n\u2022 micrometres (\u03bcm) \u2013 1/1000 of a millimetre, and\n1/1 000 000 of a metre\n\u2022 nanometres (nm) \u2013 1/1000 of a micrometre,\n1/1 000 000 of a millimetre, and\n1/1000 000 000 of a metre\nWe can convert the units from one to another as shown below:\n\u00d7 1000 \u00d7 1000 \u00d7 1000\nm mm \u03bcm nm\n\u00f7 1000 \u00f7 1000 \u00f7 1000\nTo convert a larger unit to the next smaller unit, multiply by 1000:\nFor example, convert 3.5 mm to \u03bcm.\n3.5 mm = 3.5 \u00d7 1000 = 3500 \u03bcm\nTo convert a smaller unit to the next larger unit, divide by 1000:\nFor example, convert 87 nm to \u03bcm.\n87 \u00f7 1000 = 0.087 \u03bcm\nSo, our red blood cell that was 0.000007 m in diameter is 0.007 mm or 7 \u03bcm in diameter. This is a much more comprehensible number.\nMost cells fall within a much narrower range of sizes than the chicken\u2019s egg and the smallest bacterium. As you can see from figure\n4.9, the length of most animal and plant cells fall within a range of 10 \u03bcm to 100 \u03bcm. Most bacteria are about one-tenth of this length.\nFigure 4.10 shows the relative sizes of an animal cell, a bacterium and a virus in a slightly different way. This diagram makes it clear just how much bigger an animal cell is than a bacterium! The animal cell may be just ten times as long \u2013 but it is also ten times as wide and ten times as deep. This makes it 1000 times bigger than the bacterium!",
+        "page_number": 116
+    },
+    {
+        "_id": "rec_80",
+        "topic": "How you can make a rough estimate of cell size",
+        "chunk_text": "It\u2019s a way of using the same principle as the micrometer. It isn\u2019t as accurate, but it\u2019s a lot cheaper and easier. \u2022 Place your slide of cells (for example, onion epidermis cells) under the microscope and get the cells in focus at about magnification \u00d7100. \u2022 Now take the slide away and replace it with a transparent plastic ruler. (Keep the magnification the same.) \u2022 Focus on the millimetre scale on the ruler. You will see something like figure 4.12. \u2022 Use this to estimate the width of \u2018field of view\u2019. You would probably estimate the field of view as shown in figure 4.12 at about 2 mm. \u2022 Now replace your slide of the onion cells and refocus. \u2022 Count how many cells fit lengthways and widthways into the field of view. \u2022 If 8 cells fit across the field of view the width of each cell is 2 mm \u00f7 8 = 0.25 mm (or 250 \u03bcm). However, this is only one estimate and you should repeat the procedure in several areas of the slide and find the average.",
+        "page_number": 117
+    },
+    {
+        "_id": "rec_81",
+        "topic": "what are the consequences of the different sizes of cells?",
+        "chunk_text": "When a cell gets bigger, all its dimensions change. It is easy to be tricked into thinking that when a cell doubles all its dimensions it is twice as big. But, in fact, there is now eight times more cell as a result! This is most easily explained if we pretend that our cell is a cube, but the same principles hold true for other shapes also. Look at figure 4.13. It shows three cubic \u2018cells\u2019 of different sizes. The linear dimensions double from the first cell to the second and double again from the second cell to the third. But the surface area and volume of the cell doesn\u2019t double. There are six sides to a cube. We calculate the area of each side by multiplying length by breadth. In the case of the first cell, this is 1 arbitrary unit (a.u.) \u00d7 1 a.u., so the area of one side is 1 a.u.2. The volume of a cube is length \u00d7 breadth \u00d7 height. In this case 1 a.u. \u00d7 1 a.u. \u00d7 1 a.u. So the volume of the first cell is 1 a.u.3. The ratio of the surface area to the volume is 6:1.\nSo what about the second cell? The linear dimensions have doubled, but the surface area is 24 a.u.2 and the volume is 8 a.u.3. The ratio of the surface area to volume is now 24 \u00f7 8 = 3:1. It is half that of the smaller \u2018cell\u2019. The ratio of the surface area to volume of the third cell is in fact 1.5:1. Smaller again and half the value of the ratio of the cell with linear dimensions that are half of this one.",
+        "page_number": 118
+    },
+    {
+        "_id": "rec_82",
+        "topic": "what are prokaryotic and eukaryotic cells?",
+        "chunk_text": "Many biologists believe that prokaryotic cells were the first type of cells to be formed when life first evolved. Prokaryotic cells are much smaller and simpler than eukaryotic cells; even so these cells must carry out all the same functions that a eukaryotic cell carries out in order to survive. There is therefore some division of labour within the cell. There are specialised regions for certain functions. You can see this in figure 4.14. However, there is much more division of labour in a eukaryotic cell. There are different types of eukaryotic cell, but all of them have a number of features in common. Figure 4.15 shows a generalised animal cell. Most of the structures shown are found in all eukaryotic cells. Plant cells have a number of other structures in addition to these, as figure 4.16 shows.",
+        "page_number": 121
+    },
+    {
+        "_id": "rec_83",
+        "topic": "How did eukaryotic cells originate?",
+        "chunk_text": "One theory is that the \u2018modern\u2019 eukaryotic cell was formed when several of the more primitive prokaryotic cells \u2018got together\u2019. Over millions of years ancestral prokaryotic cells became more membranous. The plasma membrane around the cell became more and more \u2018infolded\u2019 until there was an extensive membrane system in the cell. This would eventually evolve into the endoplasmic reticulum (EPR) of eukaryotic cells. The next stage in the theory suggests that this membranous cell engulfed other smaller cells that were better at respiring organic molecules to release energy. These \u2018engulfed\u2019 prokaryotes would evolve into the mitochondria of eukaryotic cells. The cells that contained them were heterotrophic and the forerunners of animal, fungal and protoctistan cells. One further stage suggests that some of these cells with their \u2018primitive mitochondria\u2019 also engulfed other, smaller, prokaryotic cells. These were prokaryotic cells that could photosynthesise and would, in time, evolve into chloroplasts. The cells that contained these would be autotrophic and the forerunners of plant cells. This theory of the origin of eukaryotic cells is called the endosymbiont theory and was first proposed by the biologist Lynn Margulis.",
+        "page_number": 122
+    },
+    {
+        "_id": "rec_84",
+        "topic": "Which organisms have eukaryotic cells and which have prokaryotic cells?",
+        "chunk_text": "Figure 4.18 shows the main groups of living things and which of these have prokaryotic and which have eukaryotic cells. The archaebacteria are thought to be the oldest organisms on Earth. They evolved when conditions on Earth are very harsh and are still only found where it is very hot, or where there are large concentrations of gases like methane or sulphur dioxide. The eubacteria are what you and I really mean when we talk about bacteria. These are the bacteria that inhabit our intestines, decay organisms, convert milk to yoghurt and so on.",
+        "page_number": 123
+    },
+    {
+        "_id": "rec_85",
+        "topic": "4.3 Parts of the cell and their functions",
+        "chunk_text": "The membrane that surrounds and encloses a cell is sometimes called the cell surface membrane, but most biologists now refer to it as the plasma membrane. Although this membrane has little mechanical strength to support the cell, it plays a crucial role in: \n\u2022 controlling what enters and leaves the cell; the plasma membrane moves substances in and out of the cell by: \n\u2013 simple diffusion \n\u2013 facilitated diffusion \n\u2013 osmosis \n\u2013 active transport \n\u2013 endocytosis \n\u2013 exocytosis \n\u2022 cell signalling; various molecules in the membrane allow the cell to be recognised by hormones and the immune system (in animals) and (in plants) growth regulator substances, such as auxins. \nThe plasma membrane clearly has a vital role in isolating the cell from its environment, whilst allowing necessary exchanges with that environment.",
+        "page_number": 125
+    },
+    {
+        "_id": "rec_86",
+        "topic": "what is the plasma membrane like?",
+        "chunk_text": "We already found out in unit 2 that the basis of plasma membranes is a phospholipid bilayer. But a plasma membrane is much more complex than a simple bilayer. There have been several models of the structure of the plasma membrane. Table 4.3 shows some key events in developing the current model of membrane structure. Figure 4.19 illustrates this history.",
+        "page_number": 125
+    },
+    {
+        "_id": "rec_87",
+        "topic": "The Davson\u2013Danielli model",
+        "chunk_text": "In 1935, Davson and Danielli knew that both proteins and phospholipids were involved in the structure of plasma membranes. Without any direct observational evidence to assist them (the very first electron microscopes were only just being built and they could not reveal membrane structure) Davson and Danielli suggested a kind of \u2018sandwich\u2019 of protein and phospholipid. \nThis was based on what they knew of the proportions of the two substances in the membrane. The protein was to form the \u2018bread\u2019 of the sandwich with the phospholipid forming the \u2018filling\u2019. In 1954 they proposed a revised model in which they included protein-lined pores. Figure 4.20 shows the Davson\u2013Danielli models of 1935 and 1954. \nAs more and more evidence accumulated about how molecules moved across membranes, it became clear that the Davson\u2013Danielli model could not adequately explain all the new evidence. The idea model therefore had to be rejected. \nIn 1972, Singer and Nicholson proposed a totally different arrangement of the phospholipids and proteins in the plasma membrane. They retained the idea of a phospholipid bilayer, but rejected the sandwich arrangement. Instead, they suggested that proteins were \u2018studded\u2019 into the bilayer at different points. They also suggested that the arrangement was not static, but was fluid and constantly changing. Figure 4.21 shows the difference between the Davson\u2013Danielli model and the original fluid mosaic model.",
+        "page_number": 126
+    },
+    {
+        "_id": "rec_88",
+        "topic": "Why is the fluid mosaic model called the fluid mosaic model?",
+        "chunk_text": "It is fluid mainly because the phospholipids in the membrane can move and change position. Figure 4.23 shows some ways in which they do this. The nature of the fatty acids (saturated or unsaturated) and the amount of cholesterol in the membrane both influence the fluidity of the membrane. The \u2018mosaic\u2019 part of the name comes from the way the proteins in the membrane give a patchwork appearance when viewed from the inside or outside. This is rather like a mosaic.",
+        "page_number": 129
+    },
+    {
+        "_id": "rec_89",
+        "topic": "How do substances cross the plasma membrane?",
+        "chunk_text": "Not all particles can actually pass through a plasma membrane unaided. This is because of the largely lipid nature of the membrane. To pass through the plasma membrane by simple diffusion particles must be: \u2022 small \u2022 lipid soluble \u2022 non-charged This excludes particles such as ions (they are charged), sugars and amino acids (they are not lipid soluble and are not small particles) and any of the really large particles, such as proteins. We can group the processes by which substances cross plasma membranes into two main types: \u2022 passive processes \u2013 these processes rely only on the kinetic energy of the particles of the substances and on concentration gradients; they need no extra energy from the cell\u2019s metabolism \u2022 active processes \u2013 these require energy from the cell\u2019s metabolism in the form of ATP to drive the transport. Table 4.4 summarises the transport processes.",
+        "page_number": 129
+    },
+    {
+        "_id": "rec_90",
+        "topic": "Simple diffusion",
+        "chunk_text": "In fluids \u2013 liquids and gases \u2013 the particles that make up the fluid are free to move around. This kinetic energy is what drives diffusion. If particles are, for some reason, concentrated in a small area, they will move in such a way that the particles \u2018spread out\u2019 and occupy all the space that is available to them. This is a result of random particular motion. Diffusion need not involve a membrane. When particles diffuse across a plasma membrane, there must be a concentration difference between the two sides of the membrane (a concentration gradient) to drive the process. As diffusion proceeds, the high concentration will decrease and the low concentration will increase until the two concentrations are the same. At this point there will be no further net diffusion. This means that although particles will still move across the membrane, they will move equally in both directions, so there will be no overall effect. We say that the concentrations are in equilibrium. Figures 4.24 and 4.25 show this.",
+        "page_number": 130
+    },
+    {
+        "_id": "rec_91",
+        "topic": "Facilitated diffusion",
+        "chunk_text": "Facilitated diffusion is essentially the same process as diffusion, in that it depends on a concentration gradient to allow particles to cross the membrane. However, it differs in that the particles must be helped to diffuse across the membrane (their diffusion must be \u2018facilitated\u2019) by a carrier protein or a channel protein with an ion pore. Figure 4.26A shows facilitated diffusion of an ion through an ion pore. Figure 4.26B shows a carrier protein moving particles across a membrane. Note in both cases that the particles are moving from a high concentration to a low concentration (as with simple diffusion). However, also note that whilst the ions can simply move straight through the ion pore of a channel protein, the carrier protein must undergo a conformational change (change in shape) to move particles through the membrane. The rate of facilitated diffusion is affected by the same factors that affect simple diffusion with the exception that it is not the actual surface area of the membrane that determines the rate, but the number of carrier proteins (or channel proteins) present.",
+        "page_number": 131
+    },
+    {
+        "_id": "rec_92",
+        "topic": "Osmosis",
+        "chunk_text": "Osmosis is the process by which water moves across a partially permeable membrane. It is, effectively, the diffusion of water. However, we do not refer to the concentration of water molecules, but to water potential. We can say that osmosis is the movement of water from a system with a high water potential to a system with a low water potential across a partially permeable membrane. The symbol for water potential is the Greek letter \u03a8 (psi). Water potential is measured in units of pressure \u2013 pascals (Pa), kilopascals (kPa) or megapascals (MPa). Pure, liquid water has a higher water potential than any other system. It is defined as zero: \u03a8 (pure water) = 0 Pa All other systems (cells, solutions and suspensions) have a water potential that is lower than that of water. Therefore, their water potential values must be negative. So we can define osmosis more accurately as follows: Osmosis is the movement of water from a system with a high (less negative) water potential to one with a lower (more negative) water potential, across a partially permeable membrane. The rate at which osmosis proceeds is influenced by the same factors as simple diffusion: \u2022 surface area of the membrane \u2022 difference in water potential \u2022 distance the molecules must travel",
+        "page_number": 132
+    },
+    {
+        "_id": "rec_93",
+        "topic": "What happens to cells placed in solutions of different concentrations?",
+        "chunk_text": "This depends on what type of cell. Animal cells have no cell wall, whereas plant cells do and this has a significant influence on the outcome. The difference in water potential between cell and solution will determine whether water enters or leaves by osmosis. When comparing the water potential of a solution to that of a cell, we could describe it as: isotonic \u2013 having the same water potential as the cell hypertonic \u2013 having a lower (more negative) water potential than the cell hypotonic \u2013 having a higher (less negative) water potential than the cell",
+        "page_number": 133
+    },
+    {
+        "_id": "rec_94",
+        "topic": "Animal cells",
+        "chunk_text": "In the hypertonic solution, the cells lose water by osmosis and shrink. In the hypotonic solution, the cells gain water by osmosis and swell. The pressure will eventually burst the weak plasma membrane: this is called haemolysis. There is no change in the isotonic solution.",
+        "page_number": 134
+    },
+    {
+        "_id": "rec_95",
+        "topic": "Plant cells",
+        "chunk_text": "In the hypertonic solution, the cytoplasm of the cells loses water by osmosis and shrinks. Because of this, there is no pressure from the cytoplasm on the cell wall. The cell is said to be flaccid. If the cytoplasm shrinks too much, it loses contact with the cell wall and we say the cell has been plasmolysed. In the hypotonic solution, the cells gain water by osmosis and swell. However, because of the cell wall, the cell cannot become much larger. Plant cells in this condition are turgid. There is no change in the isotonic solution. Turgidity is important in supporting young, non-woody plant stems. If the plant is kept well watered, the cells will remain turgid. The turgid cells will press against each other and this pressure will keep the plant upright. If the plant is not watered, the cells will be plasmolysed and become flaccid. They will no longer press against each other and the support will be lost. The plant will wilt.",
+        "page_number": 134
+    },
+    {
+        "_id": "rec_96",
+        "topic": "Active processes",
+        "chunk_text": "Sometimes, substances must be moved against a concentration gradient \u2013 from a low concentration to a higher one. This cannot happen by diffusion, since it would tend to concentrate particles rather than spread them out. It can only happen if metabolic energy is used to drive the process. In living organisms, this energy is released from the ATP produced in respiration. When the energy is released from ATP, it is broken down into ADP and P (inorganic phosphate). The proteins used to actively transport substances across plasma membranes are called pumps.",
+        "page_number": 136
+    },
+    {
+        "_id": "rec_97",
+        "topic": "Endocytosis",
+        "chunk_text": "In this process, large particles are engulfed by a cell. There are several ways in which it can happen, but, essentially, part of the plasma membrane surrounds the particles to form a vesicle which is then processed by the cell. All of them require ATP to move the membrane around the particles to form the vesicle.",
+        "page_number": 136
+    },
+    {
+        "_id": "rec_98",
+        "topic": "Phagocytosis",
+        "chunk_text": "This involves the creation of pseudopodia (extensions of the plasma membrane) to enclose large particles or even whole organisms outside the cell. Once enclosed by the pseudopodia, they form an internal vesicle which is then moved further inside the cell.",
+        "page_number": 136
+    },
+    {
+        "_id": "rec_99",
+        "topic": "Pinocytosis",
+        "chunk_text": "This differs from phagocytosis only in scale. It involves the ingestion of smaller particles (but particles that are still too large to cross the membrane by other methods) and does not require the formation of large pseudopodia to engulf the particles.",
+        "page_number": 136
+    },
+    {
+        "_id": "rec_100",
+        "topic": "Receptor-mediated endocytosis",
+        "chunk_text": "The membrane infolds to form vesicles only in regions where particles have bound to specific receptors. The binding stimulates the infolding.",
+        "page_number": 136
+    },
+    {
+        "_id": "rec_101",
+        "topic": "Exocytosis",
+        "chunk_text": "In this process, substances are moved from the inside to the outside of the cell in what is, effectively, the reverse of endocytosis. It is the process by which enzymes and hormones are secreted. Again, ATP is used to alter the configuration of the membrane.",
+        "page_number": 137
+    },
+    {
+        "_id": "rec_102",
+        "topic": "The other cell organelles \u2013 what are they like and what do they do?",
+        "chunk_text": "In this section, we will discuss the other organelles in outline only. We shall discover their functions in more detail as we discuss the metabolic processes they carry out.",
+        "page_number": 138
+    },
+    {
+        "_id": "rec_103",
+        "topic": "The nucleus",
+        "chunk_text": "The nucleus typically occupies about 10% of the volume of a cell. It has several components: \u2022 The nuclear envelope is a double membrane that surrounds the nucleus. There are many nuclear pores, which allow the passage of some molecules between the nucleus and the cytoplasm. \u2022 The nucleolus is an organelle within the nucleus. It is not membrane-bound. Its function is to synthesise the components of ribosomes, which then pass through the nuclear pores into the cytoplasm. \u2022 Chromatin consists of DNA molecules bound with proteins called histones. For most of the cell cycle, the chromatin fibres are loosely dispersed throughout the nucleus. Just before a cell is about to divide, the chromatin condenses into distinct, recognisable structures called chromosomes.",
+        "page_number": 138
+    },
+    {
+        "_id": "rec_104",
+        "topic": "Mitochondria",
+        "chunk_text": "Mitochondria are the sites of most of the reactions of aerobic respiration. They are surrounded by two membranes. The inner membrane is folded into cristae to increase the available surface area. Some of the reactions of aerobic respiration take place in the fluid matrix. The folded inner membrane provides a large surface area for the electron-transport system, which produces most of the ATP.",
+        "page_number": 138
+    },
+    {
+        "_id": "rec_105",
+        "topic": "Ribosomes",
+        "chunk_text": "Ribosomes are the sites of protein synthesis. They can be found free in the cytoplasm, but are also bound to the membrane system of the endoplasmic reticulum, forming rough endoplasmic reticulum. Each ribosome comprises two subunits that are made from RNA and protein. The subunits are manufactured in the nucleolus. They leave the nucleus through nuclear pores and combine in the cytoplasm.",
+        "page_number": 139
+    },
+    {
+        "_id": "rec_106",
+        "topic": "Endoplasmic reticulum",
+        "chunk_text": "Endoplasmic reticulum (ER) is a membrane system found throughout the cytoplasm of eukaryotic cells. There are two types of endoplasmic reticulum: \u2022 Rough ER has ribosomes on its surface and is responsible for the manufacture and transport of proteins. Protein molecules manufactured by the ribosomes pass through small pores into the lumen (inner space) of the ER. They are then moved in a vesicle to the Golgi body. Rough ER is extensive in cells that manufacture a lot of protein, such as cells that manufacture enzymes to be secreted into the lumen of the intestine. \u2022 Smooth ER has no ribosomes on its surface. It is concerned with the synthesis of lipids. It is also associated with carbohydrate metabolism and detoxification.",
+        "page_number": 139
+    },
+    {
+        "_id": "rec_107",
+        "topic": "Golgi apparatus (or Golgi body)",
+        "chunk_text": "The Golgi apparatus consists of a number of flattened membrane-bound sacs in which proteins are modified. Proteins may be converted into glycoproteins, for example. Many of the modifications added in the Golgi apparatus act as a kind of \u2018tag\u2019, which determine the final destination of the molecule. Think of the Golgi apparatus as a cellular post office that labels and then distributes molecules! Many of the modified molecules are released from the Golgi apparatus in vesicles to be carried to other parts of the cell or to the plasma membrane to pass out of the cell by exocytosis to be used elsewhere. Some vesicles form the lysosomes.",
+        "page_number": 139
+    },
+    {
+        "_id": "rec_108",
+        "topic": "Lysosomes",
+        "chunk_text": "Lysosomes have no specialised internal structure and are surrounded by a single membrane. They are formed in the Golgi apparatus and contain digestive enzymes that break down cellular waste and debris. Lysosomes are particularly abundant in phagocytic white blood cells. Here, enzymes from the lysosomes digest foreign cells that have been engulfed. The organelles we have described so far are found in all eukaryotic cells. However, not all eukaryotic cells are the same. In particular, there are important differences between plant and animal cells.",
+        "page_number": 140
+    },
+    {
+        "_id": "rec_109",
+        "topic": "Cell wall",
+        "chunk_text": "We have studied the molecular structure of the cell wall in unit 2. The criss-cross arrangement of cellulose fibres in the cell wall gives it both strength and elasticity. Because there are large \u2018gaps\u2019 (on a molecular scale) between the fibres, the cell wall is freely permeable.",
+        "page_number": 140
+    },
+    {
+        "_id": "rec_110",
+        "topic": "Vacuole",
+        "chunk_text": "The vacuole in a plant cell is a fluid-filled sac that stores a range of solutes. It is also important in maintaining the turgidity, or turgor, of a cell. When the vacuole is full of liquid (mainly water), it exerts pressure on the cytoplasm and, in turn, on the cell wall. If the vacuole loses water by osmosis, the pressure reduces and turgor is lost. The cell becomes flaccid (see the section on osmosis).",
+        "page_number": 140
+    },
+    {
+        "_id": "rec_111",
+        "topic": "Chloroplast",
+        "chunk_text": "Figure 4.41 is an electron-micrograph showing the structure of a stroma grana chloroplast. Chloroplasts are surrounded by two membranes, like mitochondria, but, unlike mitochondria, the inner membrane is not folded. There are two main regions in chloroplasts that are linked to the stages of photosynthesis: \u2022 membranous regions called grana (each of which is a stack of thylakoids) where the light-dependent reactions occur, and \u2022 a fluid stroma \u2013 where the light-independent reactions occur.",
+        "page_number": 140
+    },
+    {
+        "_id": "rec_112",
+        "topic": "How have biologists been able to study the different organelles?",
+        "chunk_text": "This has been possible because of a technique called cell fractionation. The technique is based on the fact that the masses of organelles vary and depend on their size. When a mixture of organelles is spun in a centrifuge, the various types settle out at different speeds of spinning. The large nucleus requires a relatively low centrifuge speed to make it settle out; the much smaller ribosomes require a much higher speed. The technique is carried out as follows: \u2022 The cell sample is stored in a suspension that is: \u2013 buffered \u2013 the neutral pH prevents damage to the structure of proteins, including enzymes \u2013 isotonic (of equal water potential) \u2013 this prevents osmotic water gain or loss by the organelles; gaining too much water could rupture the organelles \u2013 cool \u2013 this reduces the overall activity of enzymes released later in the procedure \u2022 The cells are homogenised in a blender and filtered to remove debris. \u2022 The homogenised sample is placed in an ultracentrifuge and spun at low speed. The nuclei settle out, forming a pellet. \u2022 The supernatant (the suspension containing the remaining organelles) is spun at a higher speed \u2013 chloroplasts settle out (if plant tissue is used). \u2022 The supernatant is spun at a higher speed still \u2013 mitochondria settle out. \u2022 The process is repeated at ever higher speeds until all the organelles have been separated. \u2022 The process is shown in figure 4.43.",
+        "page_number": 140
+    },
+    {
+        "_id": "rec_113",
+        "topic": "6. The principle behind separating cell organelles by ultracentrifugation is that:",
+        "chunk_text": "A the various organelles have different masses B the various organelles have different volumes C the various organelles have different shapes D the various organelles have different widths",
+        "page_number": 143
+    },
+    {
+        "_id": "rec_114",
+        "topic": "7. Which of the following does not use energy in the form of ATP?",
+        "chunk_text": "A active transport B endocytosis C facilitated diffusion D phagocytosis",
+        "page_number": 143
+    },
+    {
+        "_id": "rec_115",
+        "topic": "8. Which of the following statements concerning mitochondria and chloroplasts is correct?",
+        "chunk_text": "A Only mitochondria are surrounded by two membranes. B The inner membrane of chloroplasts is folded into cristae. C Both organelles have a fluid interior. D Mitochondria contain stacks of membranes called thylakoids.",
+        "page_number": 143
+    },
+    {
+        "_id": "rec_116",
+        "topic": "9. If red blood cells are immersed in a hypotonic solution, they will:",
+        "chunk_text": "A take in water by osmosis, swell and become turgid B lose water by osmosis and shrink C lose water by osmosis and burst D take in water by osmosis, swell and burst",
+        "page_number": 143
+    },
+    {
+        "_id": "rec_117",
+        "topic": "10. In the fluid mosaic model of membrane structure, intrinsic proteins can be:",
+        "chunk_text": "A glycoproteins B ion channel proteins C carrier proteins D all of the above",
+        "page_number": 143
+    },
+    {
+        "_id": "rec_118",
+        "topic": "How is ATP adapted to its role as an energy transfer molecule in cells?",
+        "chunk_text": "First, we must explain what we mean by an energy transfer molecule. Sunlight energy cannot be used directly by plants (and certainly not by other organisms) to \u2018drive\u2019 the synthesis of proteins \u2013 or any other molecules. The same applies to the energy held in a glucose molecule. These two energy sources must be used to produce ATP, which is used to transfer the energy to the relevant cellular process. We say that it is coupled to these processes.ATP is adapted to this role because it: \u2022 releases energy in relatively small amounts that are closely matched to the amounts of energy required in many biological processes occurring inside cells \u2022 releases energy in a single-step hydrolysis reaction, so the energy can be released quickly \u2022 is able to move around the cell easily, but cannot escape from the cell The following processes are examples of processes that require energy from ATP: \u2022 the synthesis of macromolecules \u2013 such as proteins \u2022 active transport across a plasma membrane (see unit 4 for details) \u2022 muscle contraction \u2022 conduction of nerve impulses \u2022 the initial reactions of respiration (the later reactions release energy from glucose to form more ATP)",
+        "page_number": 153
+    },
+    {
+        "_id": "rec_119",
+        "topic": "How is ATP produced in a cell?",
+        "chunk_text": "Almost all the ATP produced in cells is formed in the same way. It obviously involves ADP and P joining to form ATP and this i requires an input of energy. What we need to look at is just how it is made to happen. The formation of ATP involves an enzyme called ATP synthase. Figure 5.5 shows the structure of the ATP synthase molecule. The ATP synthase in this diagram is in one of the membranes of a mitochondrion, but it could be in a membrane in a chloroplast. To understand how it works, you should think of it as a kind of molecular \u2018water wheel\u2019. When the rotor is made to spin by hydro- gen ions passing through it, the energy of the spinning is used to activate sites in the catalytic knob that convert ADP and P to ATP. i In both photosynthesis and aerobic respiration, many of the reactions generate the hydrogen ions that will pass through the ATP synthase to produce ATP.",
+        "page_number": 154
+    },
+    {
+        "_id": "rec_120",
+        "topic": "How is ATP produced in respiration?",
+        "chunk_text": "There are two main pathways by which respiration can produce ATP: \u2022 the aerobic pathway (aerobic respiration) \u2013 this requires the presence of oxygen, and \u2022 the anaerobic pathway (anaerobic respiration and fermentation) \u2013 this can take place in the absence of oxygen.",
+        "page_number": 154
+    },
+    {
+        "_id": "rec_121",
+        "topic": "How is ATP produced in aerobic respiration?",
+        "chunk_text": "A small amount of ATP is produced in a way that does not involve the ATP synthase molecule; this method is called substrate level phosphorylation. In this process, another molecule such as phosphoenol pyruvate (the substrate) is able to transfer a phosphate group directly to ADP. There is no ATP synthase involved and no P. The process is still catalysed by an enzyme, it is just not ATP i synthase. Figure 5.6 shows how substrate level phosphorylation works. As already mentioned, this process only produces a relatively small amount of the ATP produced in aerobic respiration \u2013 in fact it produces about 10% of the total ATP produced in aerobic respiration. As about 90% of the ATP produced in aerobic respiration is produced by ATP synthase, many of the reactions of this process are geared to producing the hydrogen ions that will spin the rotor of the ATP synthase molecule.",
+        "page_number": 155
+    },
+    {
+        "_id": "rec_122",
+        "topic": "How are hydrogen ions transferred from glucose to ATP synthase?",
+        "chunk_text": "Two molecules are important in this transfer process: \u2022 Nicotinamide Adenine Dinucleotide (NAD) \u2022 Flavine Adenine Dinucleotide (FAD) Both are coenzymes and are capable of accepting hydrogen ions. When this happens, we say that the molecules have been reduced. We write the reduced forms of the molecules as NADH and FADH or NAD(reduced) and FAD(reduced).",
+        "page_number": 155
+    },
+    {
+        "_id": "rec_123",
+        "topic": "What are the stages of aerobic respiration of glucose?",
+        "chunk_text": "There are four stages in the aerobic respiration of glucose. These are: \u2022 glycolysis \u2022 the link reaction \u2022 Krebs cycle \u2022 electron transport and chemiosmosis",
+        "page_number": 155
+    },
+    {
+        "_id": "rec_124",
+        "topic": "What happens in glycolysis?",
+        "chunk_text": "The reactions of glycolysis take place in the cytoplasm. The following reactions take place in glycolosis:\n\u2022 two molecules of ATP are used to \u2018phosphorylate\u2019 each molecule of glucose. This makes the glucose more reactive i glucose phosphate (6C)\n\u2022 in the phosphorylation process, it is converted to another six-carbon sugar (fructose 1,6-bisphosphate)\n\u2022 the fructose 1,6-bisphosphate is split into two molecules of the three-carbon sugar glyceraldehyde-3 phosphate (GP) i\n\u2022 each molecule of GP is then converted into pyruvate, with the production of two molecules of ATP (by substrate level phosphorylation) and one molecule of reduced NAD\nThe main reactions of glycolysis are shown in figure 5.9. Note:\n\u2022 the figures in brackets give the number of carbon atoms in that molecule, so (6C) means six carbon atoms per molecule\n\u2022 two molecules of pyruvate are produced from one molecule of glucose\nAt the end of glycolysis, there is a net gain of two ATP molecules per molecule of glucose (two molecules are used initially and then four are produced). Two molecules of reduced NAD are also produced (per molecule of glucose). The molecules of pyruvate pass into the mitochondria through carrier molecules in the mitochondrial membrane.\nA summary of the overall reaction of glycolosis:\nC H 0 + 2ATP + 4ADP + 2P +2NAD \u279e 2C H 0 + 2ADP + 4ATP +2NAD reduced + 2H+ +2H 0\n6 12 6 i 3 6 3 2",
+        "page_number": 157
+    },
+    {
+        "_id": "rec_125",
+        "topic": "Two ideas to keep in mind",
+        "chunk_text": "1. The idea of net gain of ATP is like the profit a business makes. It invests money in materials, advertising and staff. It sells its product and the extra money is profit \u2013 net gain. Glycolysis \u2018invests\u2019 two molecules of ATP to make the glucose reactive, then, later, produces four molecules of ATP \u2013 a net gain of two molecules of ATP.\n2. There are two molecules of pyruvate made from each molecule of glucose. So all the gains of ATP and reduced NAD and reduced FAD that accrue from each pyruvate must be doubled to give the gain from each molecule of glucose.",
+        "page_number": 158
+    },
+    {
+        "_id": "rec_126",
+        "topic": "What happens in the link reaction?",
+        "chunk_text": "Both of these stages of respiration take place in the fluid matrix of the mitochondrion.\nIn the link reaction, a molecule of pyruvate reacts with a molecule of coenzyme A (CoA) to form a molecule of acetyl coenzyme A (acetyl CoA). In the reaction:\n\u2022 hydrogen is lost and reduced NAD is formed; removing hydrogen from a molecule is dehydrogenation\n\u2022 a carbon atom is lost to form carbon dioxide; removing carbon from a molecule is decarboxylation.\nThe acetyl coenzyme A then reacts with the C4 molecule (a molecule containing four carbon atoms) called oxaloacetate. In the reaction, acetyl CoA breaks down into:\n\u2022 a two-carbon \u2018acetyl\u2019 group, which reacts with the C4 compound oxaloacetate to form a C6 compound, and\n\u2022 the original coenzyme A molecule, which is reused in further reactions with other molecules of pyruvate.\nThis is the first reaction of the Krebs cycle.",
+        "page_number": 158
+    },
+    {
+        "_id": "rec_127",
+        "topic": "What happens in the Krebs cycle?",
+        "chunk_text": "\u2022 the two-carbon group from acetyl coenzyme A reacts with the four-carbon compound oxaloacetate to form a six-carbon compound called citrate\n\u2022 citrate then loses a carbon atom (is decarboxylated) to form a five-carbon compound and CO2 is produced\n\u2022 the five-carbon compound is then further decarboxylated to form a four-carbon compound and CO2 is again produced; a molecule of ATP is also produced by substrate level phosphorylation\n\u2022 the four-carbon compound undergoes several molecular transformations to regenerate the original four-carbon compound (oxaloacetate) and the cycle is complete and can begin again with oxaloacetate reacting with another molecule of acetyl CoA",
+        "page_number": 158
+    },
+    {
+        "_id": "rec_128",
+        "topic": "What happens in the electron transport chain and chemiosmosis?",
+        "chunk_text": "The electron transport chain and chemiosmosis together make up the process of oxidative phosphorylation. Whereas the reactions of the link reaction and Krebs cycle take place in the fluid matrix of the mitochondrion, the reactions of the electron transport chain and chemiosmosis take place on the inner mitochondrial membrane. On the cristae, the following events take place: \u2022 the hydrogen atoms carried by reduced NAD and reduced FAD are released and split into protons (hydrogen ions) and electrons \u2022 the electrons pass along a series of electron carriers that form the transport chain; they lose energy as they pass from one carrier to the next \u2022 three of the electron carriers are proton pumps that move protons from the matrix of the mitochondrion to the inter-membrane space \u2022 as the electrons are transferred through these three proton pumps, the energy they lose powers the pumps which move the protons into the inter-membrane space \u2022 electrons from reduced NAD make this happen at all three pumps The molecules that act as electron carriers in the electron transport chain are: \u2022 reduced NAD dehydrogenase (also a proton pump) \u2022 ubiquinone (also a proton pump), and \u2022 a number of carriers called cytochromes (these are proteins that contain iron); two of them form a complex that acts as the third proton pump. At the end of the electron transport chain, the electrons combine with protons and with oxygen to form molecules of water. Because of this, oxygen is known as the terminal electron acceptor. Whereas reduced NAD is dehydrogenated by the NAD dehydrogenase complex, reduced FAD is dehydrogenated by ubiquinone. So electrons from reduced FAD only operate two of the three proton pumps. Because of the action of the proton pumps, protons accumulate in the inter-membrane space creating a higher concentration there than in the matrix (on the other side of the membrane). This proton gradient results in protons diffusing through the ATP synthase molecule (down the concentration gradient) making the synthase rotor \u2018spin\u2019 and produce ATP from ADP and P. The diffusion of hydrogen ions through the ATP synthase is chemiosmosis. The oxidation of one molecule of reduced NAD results in six protons passing through ATP synthase and so leads to the synthesis of three molecules of ATP. The oxidation of one molecule of reduced FAD results in four protons passing through ATP synthase and so leads to the synthesis of just two molecules of ATP. By adding up the number of molecules of ATP produced, the model of aerobic respiration we have discussed predicts that there will be a net yield of 38 molecules of ATP per molecule of glucose. A summary of the overall reaction of the electron transport system: 6 reduced NAD (from Krebs\u2019 cycle) + 2 reduced NAD (from glycolysis) + 2 reduced FAD (from Krebs\u2019 cycle) + 30 ADP + 30 Pi \u2013 2ATP (used in proton pumps) \u279e 36 ATP + 8 NAD + 2FAD In practice, this is not achieved because some energy (the equivalent of just over two molecules of ATP) is used to drive the proton pumps. The actual yield is about 36 molecules of ATP per molecule of glucose. The summary equation for aerobic respiration is: C H O + 6O \u279e 6H O + 6CO + energy released 6 12 6 2 2 2",
+        "page_number": 159
+    },
+    {
+        "_id": "rec_129",
+        "topic": "Respirometers",
+        "chunk_text": "Respirometers come in several different forms, but they all work on the principle that oxygen is used in aerobic respiration and carbon dioxide is produced. The overall summary equation for the aerobic respiration of glucose is: C H O + 6O \u279e 6CO + 6H O + 36ATP 6 12 6 2 2 2 This equation predicts that the volume of oxygen used (6O ) is 2 equal to the volume of carbon dioxide produced (6CO ). This is the 2 basis of how respirometers work. For every molecule of oxygen the organism uses, a molecule of carbon dioxide will be produced, but, the carbon dioxide will be absorbed by the potassium hydroxide (KOH). So, over time, there will be a reduction in volume inside the respirometer.",
+        "page_number": 161
+    },
+    {
+        "_id": "rec_130",
+        "topic": "What happens in the anaerobic pathway?",
+        "chunk_text": "If there is no oxygen present, the final reaction of oxidative phosphorylation, where electrons and protons react with oxygen to form water, cannot take place. As a result, the electron transport chain comes to a halt. No protons are pumped and the action of ATP synthase also stops. There is a further \u2018knock-on\u2019 effect. If the electron transport chain does not function, NAD is not regenerated from reduced NAD and FAD is not regenerated from reduced FAD. Very quickly, the Krebs cycle and the link reaction come to a halt as both NAD and FAD are required in their oxidised forms for the Krebs cycle to function. NAD is also required in the link reaction and so this comes to a halt also. However, glycolysis can continue even though it also requires NAD. This is because the reduced NAD formed during glycolysis can be regenerated under anaerobic conditions by converting the pyruvate into another product in a reduction reaction. Reduced NAD supplies the hydrogen for this reduction and becomes oxidised itself. It is therefore regenerated and can be used again in glycolysis. Different organisms produce different fermentation end products. Animal cells produce lactate (lactic acid) when they ferment glucose. Yeast cells produce ethanol (ethyl alcohol). But both only produce two molecules of ATP per molecule of glucose. A summary of anaerobic respiration in yeast cells\nC H O 2C H OH + 2CO + 2ATP\n6 12 6 2 5 2\nGlucose Ethanol (alcohol) carbon dioxide\nA summary of anaerobic respiration in animal cells\nC H O 2C H O + 2ATP\n6 12 6 3 6 3\nGlucose Lactate (lactic acid)",
+        "page_number": 164
+    },
+    {
+        "_id": "rec_131",
+        "topic": "Lactate formation during exercise",
+        "chunk_text": "During exercise, the energy demand of muscle cells increases greatly. More glucose is respired to meet the demand. However, sometimes, aerobic respiration is insufficient to meet this energy demand. Fermentation of glucose supplies the extra energy. But it also forms lactate and as this accumulates, it leads to muscle fatigue. Also, fermentation only yields 2 molecules of ATP per molecule of glucose whereas aerobic respiration yields 38. However, fermentation is a much faster process and can produce a lot of ATP quickly, over a short period of time. The ATP used in sprints and short-distance runs is nearly all generated anaerobically. But, due to muscle fatigue, this cannot be sustained. Longer races must be run slower to allow aerobic respiration to produce the ATP at its slower rate. Lactate, once formed, can be used to regenerate glucose or be metabolised as an energy source by the liver. Other organisms produce other fermentation products, many of which are made use of in different industries.",
+        "page_number": 165
+    },
+    {
+        "_id": "rec_132",
+        "topic": "What substances can be used as energy sources?",
+        "chunk_text": "We have so far concentrated on the respiration and fermentation of glucose. But lipids and proteins can also be used as respiratory substrates. The metabolism of proteins, lipids and carbohydrates \u2018converges\u2019 on the Krebs cycle. The proteins, polysaccharides and lipids are hydrolysed into their component building blocks. The various building blocks are degraded into a product that can enter the aerobic pathway. This metabolism converges via the Krebs cycle to three principal end products: water, carbon dioxide and ammonia.",
+        "page_number": 167
+    },
+    {
+        "_id": "rec_133",
+        "topic": "How is the structure of a chloroplast suited to its function?",
+        "chunk_text": "The chlorophyll and other photosensitive pigment molecules are arranged in special photosystems that are linked to electron transport chains (ETCs). The molecules of the photosystems and the electron transport chains are fixed in the membranes of the thylakoids. This makes the process much more efficient than if they were just floating around in a solution. There are two different photosystems, each sensitive to light of a different wavelength and linked to a different electron transport chain. These are called photosystem I and photosystem II.",
+        "page_number": 171
+    },
+    {
+        "_id": "rec_134",
+        "topic": "What is the structure of a photosystem?",
+        "chunk_text": "A photosystem consists of a number of pigment molecules all clustered around one particular chlorophyll molecule called the reaction centre molecule. This cluster of pigment molecules is called an antenna complex. Only the reaction centre molecule is positioned next to the electron transport chain. Energy absorbed by other molecules in the photosystem is transferred to the reaction centre molecule, where the light-dependent reactions begin. Different pigment molecules in the antenna complex can absorb different wavelengths of light, making the whole system more efficient. The pigments in the antenna complex include chlorophyll a, chlorophyll b and carotenoids. The reaction centre molecule is always chlorophyll a. The range of wavelengths each molecule absorbs is its absorption spectrum. Figure 5.31A shows the absorption spectrum of chlorophyll a, chlorophyll b and carotenoids. Figure 5.31B shows the action spectrum for different wavelengths of light. This shows how effective photosynthesis is at each wavelength.",
+        "page_number": 172
+    },
+    {
+        "_id": "rec_135",
+        "topic": "What happens in the light-dependent reactions?",
+        "chunk_text": "The light-dependent reactions use light energy to \u2018drive\u2019 the synthesis of two molecules that will, in turn, drive the light-independent reactions. These two molecules are: \u2022 ATP \u2013 this provides the energy for the reactions, and \u2022 reduced NADP \u2013 this provides the hydrogen ions for a key reduction reaction. NADP is very similar to NAD that is used in respiration and it has the same function \u2013 transporting hydrogen ions.",
+        "page_number": 172
+    },
+    {
+        "_id": "rec_136",
+        "topic": "Photosystem I and photosystem II",
+        "chunk_text": "1. Electrons (e\u2013) in chlorophyll molecules in photosystem II are excited by the energy in photons of light \u2013 they become more energetic. Because of the extra energy, they escape from the chlorophyll and pass to an electron acceptor (the primary electron acceptor). 2. The conditions created in the chloroplast cause the following reaction to occur: 2H O \u2192 O + 4H+ + 4e\u2013 This light-dependent splitting of water is called photolysis. The electrons replace those lost from the chlorophyll molecule. 3. The primary electron acceptor passes the electrons to the next molecule in an electron transport chain (plastoquinone or \u2018Pq\u2019). The electrons then pass along a series of cytochromes (similar to those in the mitochondrial electron transport chain) and finally to plastocyanin (Pc) \u2013 the last carrier in the chain. The electrons lose energy as they are passed from one carrier to the next. 4. One of the molecules in the cytochromes complex is a proton (hydrogen ion) pump. As electrons are transferred to and then transferred from this molecule, the energy they lose powers the pump which moves protons from the stroma of the chloroplast to the space inside the thylakoid. This leads to an accumulation of protons inside the thylakoid, which drives the chemiosmotic synthesis of ATP. 5. Electrons in chlorophyll molecules in photosystem I are excited (as this photosystem absorbs photons of light) and escape from the molecule. They are replaced by the electrons that have passed down the electron transport chain from photosystem II. 6. The electrons then pass along a second electron transport chain involving ferredoxin (Fd) and NADP reductase. At the end The main events in the light-dependent reactions are summarised in figure 5.32.",
+        "page_number": 173
+    },
+    {
+        "_id": "rec_137",
+        "topic": "A summary of the light-dependent reactions",
+        "chunk_text": "Light energy is used to excite electrons which then:\n\u2022 cause the transfer of protons to the inside of the thylakoid membrane as they pass along the first electron transport chain; this eventually leads to the formation of ATP, and\n\u2022 react with hydrogen ions and NADP at the end of the second electron transport chain to form reduced NADP; this reaction could only happen because of the extra energy possessed by the electrons.\nThe ATP and reduced NADP are used to drive the synthesis of carbohydrates in the light-independent reactions of photosynthesis.",
+        "page_number": 175
+    },
+    {
+        "_id": "rec_138",
+        "topic": "How is carbohydrate synthesised in the light-independent reactions?",
+        "chunk_text": "The light-independent reactions of photosynthesis occur in the stroma of the chloroplasts. They comprise a complex cycle of reactions that involves the addition of carbon dioxide to a preexisting five-carbon molecule (a molecule containing five carbon atoms) within the chloroplast. The resulting molecules are modified to regenerate the original molecule whilst, at the same time, synthesising glucose. The sequence of reactions was discovered by Melvin Calvin, an American biologist. Because of his work, the light-independent reactions are also referred to as the Calvin cycle.\nThe main stages of the light-independent reactions are:\n\u2022 carbon dioxide reacts with ribulose bisphosphate (RuBP) \u2013 a five-carbon compound in the stroma; the reaction is catalysed by the enzyme Rubisco.\n\u2022 two molecules of the three-carbon compound GP are formed from this reaction as figure 5.36 shows\n\u2022 each molecule of GP is converted to TP (triose phosphate \u2013 another three-carbon compound); this is a reduction reaction using hydrogen ions from reduced NADP and energy from ATP\n\u2022 some of the TP formed is used to regenerate the RuBP (ATP is again required) whilst some is used to form glucose and other useful organic compounds\nFigure 5.37 summarises the light-independent reactions of photosynthesis. It shows how three \u2018turns of the cycle\u2019 result in an output of one molecule of TP. Six turns of the cycle would give an output of two molecules of TP \u2013 enough to make one molecule of glucose.\nTP can also be converted to lipids, amino acids and from these into nucleotides and all the other organic molecules found in plants. TP is the basis for the synthesis of all organic molecules.",
+        "page_number": 176
+    },
+    {
+        "_id": "rec_139",
+        "topic": "What factors affect the rate of photosynthesis?",
+        "chunk_text": "Photosynthesis is dependent on a number of factors. The main ones, and their effects, are shown in the table below.",
+        "page_number": 177
+    },
+    {
+        "_id": "rec_140",
+        "topic": "What is the effect of light intensity on the rate of photosynthesis?",
+        "chunk_text": "This is shown as a graph in figure 5.39. The graph is divided into three regions: a) very low light intensities \u2013 respiration is still occurring and is taking in oxygen faster than photosynthesis is producing it b) medium light intensities \u2013 photosynthesis is producing more oxygen than respiration uses, the rate of photosynthesis increases with increasing light intensity c) very high light intensities \u2013 the rate of photosynthesis is beginning to level out, even though the light intensity is still increasing; some other factor is probably limiting the rate",
+        "page_number": 178
+    },
+    {
+        "_id": "rec_141",
+        "topic": "What is the effect of the concentration of carbon dioxide on the rate of photosynthesis?",
+        "chunk_text": "Again, it is convenient to show this as a graph (figure 5.40). The graph is similar to that in figure 5.39. At very low concentrations of carbon dioxide, little photosynthesis takes place, although respiration is still using up oxygen. As the carbon dioxide concen- tration increases, so does the rate of photosynthesis. Again, however, it begins to level off at higher concentrations. This may be due to some other factor, or it could be due to the saturation of Rubisco.",
+        "page_number": 178
+    },
+    {
+        "_id": "rec_142",
+        "topic": "How does temperature affect the rate of photosynthesis?",
+        "chunk_text": "Many of the reactions in both the light-dependent stage and the light-independent stage are controlled by enzymes, which are affected by temperature. Once the temperature exceeds the optimum, the enzyme denatures and the rate of photosynthesis decreases rapidly.",
+        "page_number": 178
+    },
+    {
+        "_id": "rec_143",
+        "topic": "How can all the factors interact to influence the rate of photosynthesis?",
+        "chunk_text": "Increasing the light intensity should increase the rate at which ATP and reduced NADP are produced in the light-dependent reactions and, as a result, increase the rate at which the Calvin cycle can take place. However, the rate at which the Calvin cycle can \u2018turn\u2019 could be limited by: \u2022 a low temperature (limiting the rate at which enzymes such as Rubisco can operate) \u2022 a low concentration of carbon dioxide This limits the rate at which reduced NADP and ATP can be used, which, in turn, limits the amount of NADP and ADP + P that can i be reused by the light-dependent reactions. The whole process is therefore limited, even though the light intensity continues to increase. This is shown in figure 5.42. C B A In the region of the graphs where light is non-limiting (horizontal lines), the factors that are limiting are: A \u2013 both temperature and carbon dioxide; increasing either produces an increase in the rate of photosynthesis to level B B \u2013 temperature or carbon dioxide concentration (the factor that hasn\u2019t been increased from A); increasing the temperature increases the rate to level C As well as the major factors discussed above, a number of other factors influence the rate of photosynthesis. These include: \u2022 the wavelength of the light; photosynthesis takes place faster in \u2018red\u2019 and \u2018blue\u2019 wavelengths than in other wavelengths because these wavelengths are absorbed more efficiently than others; leaves are green because green wavelengths are reflected \u2022 the amount of chlorophyll present",
+        "page_number": 178
+    },
+    {
+        "_id": "rec_144",
+        "topic": "C3 photosynthesis and photorespiration",
+        "chunk_text": "What we have just described is the method of photosynthesis that takes place in plants living in temperate environments, such as those found in Europe. It is called C3 photosynthesis \u2013 because the first compound formed in the light-independent reactions of the Calvin cycle is GP, which contains three carbon atoms. C3 plants have leaves that are adapted to this method of photosynthesis. These leaves are generally broad, to catch as much sunlight as possible. The cells that contain most chloroplasts (the palisade cells) are nearest the upper surface of the leaf (to absorb as much light as possible). The stomata are mainly on the lower surface, to minimise water loss. During the day, the stomata are open for most of the time to allow the entry of carbon dioxide, but they can be closed if the water loss is too great on a hot day. The spongy mesophyll has air spaces that allow easy diffusion of carbon dioxide and oxygen between the palisade layer and the stomata. However, plants in the tropics have a problem. Here, it can be very hot and the leaves close their stomata to minimise water loss. When C3 plants do this, the concentration of carbon dioxide in the leaves falls and the enzyme Rubisco starts to behave in an unusual way. In the low concentrations of carbon dioxide, Rubisco binds with oxygen, not carbon dioxide. This means that RuBP is oxidised to one molecule of GP (not two) and a molecule of phosphoglycolate. In addition, carbon dioxide is produced in the process. The process is called photorespiration because it involves oxidation of carbon. The one molecule of GP formed in photorespiration can re-enter the Calvin cycle, but the phosphoglycolate must be converted into GP for use in the Calvin cycle by a complex series of reactions. These reactions (involving a chloroplast, an organelle called a peroxisome and a mitochondrion) are summarised in figure 5.46 It is not necessary to try to remember all these reactions. Instead, think of the two phases of photorespiration: 1. Rubisco catalyses a reaction between oxygen and RuBP to form one molecule of GP (not two) and one molecule of phosphoglycolate. 2. The phosphoglycolate is converted to GP in reactions in the chloroplast, peroxisome and mitochondrion. Photorespiration reduces the efficiency of photosynthesis for several reasons, including: \u2022 the carbon is oxidised, which is the reverse of photosynthesis \u2013 the reduction of carbon to carbohydrate \u2022 the ribulose bisphosphate must be resynthesised and the phosphoglycolate removed \u2022 ATP is used in the resynthesis of RuBP.",
+        "page_number": 180
+    },
+    {
+        "_id": "rec_145",
+        "topic": "C4 photosynthesis",
+        "chunk_text": "To get round the problem of photorespiration reducing the efficiency of photosynthesis, plants that grow in tropical areas like Ethiopia (such as maize, crabgrass, sorghum and sugar cane) have evolved a different photosynthetic pathway called C4 photosynthesis. As the name suggests, the first compound formed in the light-independent reactions is a C4 compound (contains four carbon atoms) not GP (a C3 compound). The light-dependent reactions are the same as in the C3 plants, but there is a difference in how glucose is synthesised in the light-independent reactions. First, look at the structure of the leaf of a C4 plant in figure 5.47. The structure is essentially similar to that of a C3 plant, but there is one important difference. The cells of the bundle sheath contain chloroplasts, which they don\u2019t in C3 plants. Having no thylakoids means that the light-dependent reactions cannot occur here and so oxygen is not produced in these chloroplasts. This helps to prevent photorespiration and allows the Calvin cycle to take place in these cells. The light-dependent reactions in the C4 pathway also involve a set of reactions not found in C3 plants. These reactions take place in the mesophyll cells, which have chloroplasts with thylakoids and so can carry out the light-dependent reactions. However, they do not have the enzymes to catalyse the reactions of the Calvin cycle. Instead, the following reactions take place: 1. Carbon dioxide reacts with a C3 compound called PEP to form the C4 compound oxaloacetate. This is catalysed by the enzyme PEP carboxylase. 2. Oxaloacetate is converted into another C4 compound (malate), which then passes from the mesophyll cell into a bundle sheath cell.",
+        "page_number": 181
+    }
+]

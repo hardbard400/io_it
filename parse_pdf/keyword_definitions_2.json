@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "chunk text": "covalently bonded hydrocarbon chain means a chain of carbon atoms, covalently bonded to each other and to one, or more, hydrogen atoms.",
+        "topic": "What are lipids?",
+        "page_number": 63
+    },
+    {
+        "id": 2,
+        "chunk text": "carboxyl group is acid radical -COOH. It releases H+ into aqueous solution to make the solution acidic.",
+        "topic": "What are lipids?",
+        "page_number": 63
+    },
+    {
+        "id": 3,
+        "chunk text": "saturated fatty acid means all the carbon\u2013carbon bonds in the hydrocarbon chain are single bonds.",
+        "topic": "Triglycerides",
+        "page_number": 64
+    },
+    {
+        "id": 4,
+        "chunk text": "monounsaturated fatty acid means one of the carbon\u2013carbon bonds is a double bond.",
+        "topic": "Triglycerides",
+        "page_number": 64
+    },
+    {
+        "id": 5,
+        "chunk text": "polyunsaturated fatty acid means more than one carbon\u2013carbon bond is a double bond.",
+        "topic": "Triglycerides",
+        "page_number": 64
+    },
+    {
+        "id": 6,
+        "chunk text": "ester bond is the bond that forms between a carboxyl group and a hydroxyl group.",
+        "topic": "Triglycerides",
+        "page_number": 64
+    },
+    {
+        "id": 7,
+        "chunk text": "hydrophilic means water-loving.",
+        "topic": "Phospholipids",
+        "page_number": 65
+    },
+    {
+        "id": 8,
+        "chunk text": "hydrophobic means water-hating.",
+        "topic": "Phospholipids",
+        "page_number": 65
+    },
+    {
+        "id": 9,
+        "chunk text": "bilayer means two layers sandwiched together.",
+        "topic": "Phospholipids",
+        "page_number": 65
+    },
+    {
+        "id": 10,
+        "chunk text": "amino acids are the building blocks of proteins and have two functional groups \u2013 the amino group and the carboxyl group. This allows them to behave both as a base and as an acid.",
+        "topic": "Why do we need proteins?",
+        "page_number": 66
+    },
+    {
+        "id": 11,
+        "chunk text": "peptide bond is the bond that links two amino acids.",
+        "topic": "Why do we need proteins?",
+        "page_number": 66
+    },
+    {
+        "id": 12,
+        "chunk text": "polypeptide means a linear polymer consisting of amino acid residues bonded together in a chain forming a part or all of a protein molecule.",
+        "topic": "Why do we need proteins?",
+        "page_number": 66
+    },
+    {
+        "id": 13,
+        "chunk text": "primary structure is the sequence formed by amino acids.",
+        "topic": "Why do we need proteins?",
+        "page_number": 66
+    },
+    {
+        "id": 14,
+        "chunk text": "secondary structure is formed when a polypeptide chain folds itself into another structure.",
+        "topic": "Why do we need proteins?",
+        "page_number": 67
+    },
+    {
+        "id": 15,
+        "chunk text": "\u03b1-helix is a coiled secondary structure of a polypeptide.",
+        "topic": "Why do we need proteins?",
+        "page_number": 67
+    },
+    {
+        "id": 16,
+        "chunk text": "\u03b2-pleated sheet is a folded pleated sheet secondary structure of a polypeptide.",
+        "topic": "Why do we need proteins?",
+        "page_number": 67
+    },
+    {
+        "id": 17,
+        "chunk text": "tertiary structure means folding of the secondary structure of a polypeptide by the formation of new bonds to hold it in place.",
+        "topic": "Why do we need proteins?",
+        "page_number": 67
+    },
+    {
+        "id": 18,
+        "chunk text": "quaternary structure means structures formed when two or more polypeptide chains (folded into a tertiary structure) become associated in the final structure of the protein.",
+        "topic": "Why do we need proteins?",
+        "page_number": 67
+    },
+    {
+        "id": 19,
+        "chunk text": "haemoglobin is the oxygen-carrying molecule in the blood.",
+        "topic": "Why do we need proteins?",
+        "page_number": 68
+    },
+    {
+        "id": 20,
+        "chunk text": "collagen is fibrous protein found in many tissues in mammals.",
+        "topic": "Why do we need proteins?",
+        "page_number": 68
+    },
+    {
+        "id": 21,
+        "chunk text": "DNA is a huge molecule made up of two strands of nucleotides wound into a double helix.",
+        "topic": "Why do we need proteins?",
+        "page_number": 68
+    },
+    {
+        "id": 22,
+        "chunk text": "RNA is a molecule made up of one strand of nucleotides.",
+        "topic": "Why do we need proteins?",
+        "page_number": 68
+    },
+    {
+        "id": 23,
+        "chunk text": "active site is the part of an enzyme molecule that binds with its substrate so that the enzyme can catalyse the chemical reaction.",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 84
+    },
+    {
+        "id": 24,
+        "chunk text": "substrate is a substance upon which an enzyme acts in a biochemical reaction.",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 84
+    },
+    {
+        "id": 25,
+        "chunk text": "enzyme\u2013substrate complex is the intermediate formed, temporarily, when an enzyme binds to its substrate.",
+        "topic": "What are enzyme molecules like?",
+        "page_number": 84
+    },
+    {
+        "id": 26,
+        "chunk text": "catalyst is a substance that speeds up a chemical reaction and remains unchanged at the end of the reaction.",
+        "topic": "What are catalysts?",
+        "page_number": 85
+    },
+    {
+        "id": 27,
+        "chunk text": "Enzyme Commission is a body set up to produce a systematic way of naming enzymes.",
+        "topic": "How do we name and classify enzymes?",
+        "page_number": 86
+    },
+    {
+        "id": 28,
+        "chunk text": "activation energy is the energy required to start off a chemical reaction.",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 88
+    },
+    {
+        "id": 29,
+        "chunk text": "lock-and-key model proposes that the shapes of the substrate molecules are complementary to that of the active site.",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 88
+    },
+    {
+        "id": 30,
+        "chunk text": "induced-fit model means the active site and substrate do not complement each other but the binding of substrate molecules produces a change in shape in the active site, allowing the substrate to fit the active site.",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 88
+    },
+    {
+        "id": 31,
+        "chunk text": "turnover rate is the number of molecules of reactants that form enzyme\u2013substrate complexes with each molecule of an enzyme, per second.",
+        "topic": "How do enzymes lower activation energy?",
+        "page_number": 89
+    },
+    {
+        "id": 32,
+        "chunk text": "denature means the alteration of the tertiary structure of a protein; in living cells this is reversible.",
+        "topic": "3.3 Factors affecting the functions of enzymes",
+        "page_number": 93
+    },
+    {
+        "id": 33,
+        "chunk text": "optimum temperature is the temperature at which an enzyme works most efficiently.",
+        "topic": "3.3 Factors affecting the functions of enzymes",
+        "page_number": 94
+    },
+    {
+        "id": 34,
+        "chunk text": "pH scale is the measure of the hydrogen ion concentration of a solution.",
+        "topic": "3.3 Factors affecting the functions of enzymes",
+        "page_number": 94
+    },
+    {
+        "id": 35,
+        "chunk text": "competitive inhibitor is a molecule that inhibits enzyme activity by competing with the substrate for the active site.",
+        "topic": "How do other substances affect enzyme activity?",
+        "page_number": 99
+    },
+    {
+        "id": 36,
+        "chunk text": "non-competitive inhibitor is a molecule that alters the conformation of the active site by binding with the allosteric site of the enzyme; it prevents the substrate from binding and inhibits enzyme activity.",
+        "topic": "How do other substances affect enzyme activity?",
+        "page_number": 99
+    },
+    {
+        "id": 37,
+        "chunk text": "end-product inhibition is when an end product inhibits the enzyme controlling the first stage of a reaction sequence.",
+        "topic": "How do inhibitors control enzyme activity in living cells?",
+        "page_number": 104
+    },
+    {
+        "id": 38,
+        "chunk text": "activator is a substance that removes an inhibitor.",
+        "topic": "How do inhibitors control enzyme activity in living cells?",
+        "page_number": 104
+    },
+    {
+        "id": 39,
+        "chunk text": "calibrating means to correlate the readings of an instrument with a standard.",
+        "topic": "How big are cells?",
+        "page_number": 120
+    },
+    {
+        "id": 1,
+        "chunk text": "principle of limiting factors means limitation by a factor that is present in a limiting quantity.",
+        "topic": "What factors affect the rate of photosynthesis?",
+        "page_number": 183
+    },
+    {
+        "id": 2,
+        "chunk text": "photorespiration is a process involving the oxidation of carbon.",
+        "topic": "C3 photosynthesis and photorespiration",
+        "page_number": 185
+    },
+    {
+        "id": 3,
+        "chunk text": "C4 photosynthesis means light-dependent reactions are the same as in C3 photosynthesis but the first compound formed in the light-independent reactions contains four carbons, not three.",
+        "topic": "C4 photosynthesis",
+        "page_number": 186
+    }
+]

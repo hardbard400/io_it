@@ -1,0 +1,50 @@
+[
+    {
+        "id": "rec_1",
+        "ex_name": "Unit 1 Example 2",
+        "ex_prob": "Write a formula for the general term of each of the sequences.\na $1, 4, 9, 16, 25, 36, 49, 64, 81, 100, \\dots$\nb $-\\frac{1}{2}, \\frac{1}{4}, -\\frac{1}{8}, \\frac{1}{16}, \\dots$\nc $2, 0, 2, 0, 2, 0, \\dots$\nd $2, 7, 24, 77, \\dots$\ne $1, 3, 6, 10, \\dots$",
+        "solution": "To write a formula for the nth term of a sequence, examine the terms and look for the pattern. Each of you may come with several formulae; the following are few of them.\na $a_n = n^2$\nb $a_n = \\left( -\\frac{1}{2} \\right)^n$\nc $a_n = 1 - (-1)^n$\nd $a_n = 3^n - n$\ne $a_n = \\frac{n(n+1)}{2}$",
+        "topic": "1.1.2 Number Sequences",
+        "page_number": 13
+    },
+    {
+        "id": "rec_2",
+        "ex_name": "Unit 1 Example 5",
+        "ex_prob": "Find the first six terms of the sequence $\\{ a_n \\}$ defined recursively by $a_1=2$ and $a_n = \\frac{a_{n-1}}{n}$ for $n \\ge 2$.",
+        "solution": "$a_1=2$, $a_2 = \\frac{a_1}{2} = \\frac{2}{2} = 1$, $a_3 = \\frac{a_2}{3} = \\frac{1}{3}$, $a_4 = \\frac{a_3}{4} = \\frac{1/3}{4} = \\frac{1}{12}$, $a_5 = \\frac{a_4}{5} = \\frac{1/12}{5} = \\frac{1}{60}$, $a_6 = \\frac{a_5}{6} = \\frac{1/60}{6} = \\frac{1}{360}$.\nThus, the first six terms of the sequence $\\{ a_n \\}$ are $2,1, \\frac{1}{3}, \\frac{1}{12}, \\frac{1}{60}, \\frac{1}{360}$.",
+        "topic": "Recursion Formula",
+        "page_number": 15
+    },
+    {
+        "id": "rec_3",
+        "ex_name": "Unit 1 Example 6",
+        "ex_prob": "The Fibonacci sequence $f_n$ is defined recursively by the conditions $f_1=1, f_2=1, f_n = f_{n-1} + f_{n-2}$ for $n\\ge3$.",
+        "solution": "Each term is the sum of the two preceding terms.\nThe sequence described by its first few terms is $\\{1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \\dots\\}$.",
+        "topic": "Recursion Formula",
+        "page_number": 15
+    },
+    {
+        "id": "rec_4",
+        "ex_name": "Unit 1 Example 1",
+        "ex_prob": "Given an arithmetic sequence with first term $5$ and common difference $4$, find the first five terms and the twentieth term.",
+        "solution": "The first term of the arithmetic sequence is $5$; hence $A_1=5$.\n$A_2 = A_1+d = 5+4 =9$\n$A_3 = A_1+2d = 5+2\\times4=13$\n$A_4 = A_1+3d = 5+3\\times4=17$\n$A_5 = A_1+4d = 5+4\\times4=21$\nThus, the first five terms are $5, 9, 13, 17$, and $21$.\nTo find the twentieth term, we can use the formula $A_n = A_1+(n-1)d$\n$A_{20} = A_1+19d = 5+19\\times4=81$.",
+        "topic": "1.2.1 Arithmetic Sequences",
+        "page_number": 18
+    },
+    {
+        "id": "rec_5",
+        "ex_name": "Unit 1 Example 2",
+        "ex_prob": "Given an arithmetic sequence whose first two terms are $-3$ and $7$, find the next three terms and the fourteenth term.",
+        "solution": "Since the first two terms of the sequence are $-3$ and $7$, we have $A_1=-3$ and $A_2=7$; because the sequence is arithmetic\n$d = A_2-A_1 = 7-(-3)=10$\nSince $A_n = A_1+( n-1 ) d$, $A_3 = A_1+2d = -3+2\\times10=17$\n$A_4 = A_1+3d = -3+3\\times10=27$\n$A_5 = A_1+4d = -3+4\\times10=37$",
+        "topic": "1.2.1 Arithmetic Sequences",
+        "page_number": 18
+    },
+    {
+        "id": "rec_6",
+        "ex_name": "Unit 1 Example 3",
+        "ex_prob": "Suppose a substance loses half of its radioactive mass per year. If we start with 100 grams of a radioactive substance, how much is left after 10 years?",
+        "solution": "Solution Let us record the amount of the radioactive substance left after each year starting with $G_0=100$. Note that each term is half of the previous term and hence,\n$G_1 = \\frac{1}{2}(100)=50g$ is the amount left at the end of year 1.\n$G_2 = \\frac{1}{2}(50)=25g$ is the amount left at the end of year 2.\nIf you continue in this way, you see that the ratio of any two consecutive terms is a constant, which is $\\frac{1}{2}$, and hence this sequence is a geometric sequence.\nTherefore, after ten years, the amount of the substance left is given by\n$$G_{10} = \\left(\\frac{1}{2}\\right)^{10} G_1 = \\left(\\frac{1}{2}\\right)^{10} (100)= \\frac{100}{1,024} =0.09765625g.$$",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 41
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "topic": "Table 1.1 How a biologist would follow the scientific method",
+        "chunk_text": "Table 1.1 outlines how a biologist would follow the scientific method using the example of tomato seed germination. The process begins by asking a question, such as why tomato seeds don't grow inside tomatoes. Next, the biologist would do background research by checking scientific sources to discover existing knowledge, like the existence of plant growth regulators. This leads to constructing a testable hypothesis, for instance, that chemicals in tomatoes prevent seeds from growing whilst they are still in the tomatoes themselves, predicting that seeds covered in tomato juice will not germinate as well as seeds covered in water. The design and execution of an experiment involves blending and filtering tomatoes to obtain juice, washing seeds, then comparing the germination of 20 seeds covered in tomato juice versus 20 seeds covered in the same volume of distilled water (acting as a control group), keeping conditions like temperature and lighting constant, leaving them for four days, checking germination numbers, and repeating the experiment 50 times. For analyzing results and drawing conclusions, an experiment might show that out of 1000 seeds, 668 germinated in distilled water compared to only 265 in tomato juice, indicating a chemical in the juice (not cells, as they were filtered) affects germination. Based on this, the biologist can accept or reject the hypothesis, noting that while the juice reduces germination supporting the hypothesis, further work is needed since no seeds germinate inside actual tomatoes. Finally, the biologist reports results to the scientific community, potentially leading to further research to isolate the specific chemical.",
+        "page_number": 5,
+        "_id": "rec_1"
+    },
+    {
+        "topic": "Table 2.1 Examples of inorganic and organic molecules",
+        "chunk_text": "Table 2.1 provides examples of inorganic and organic molecules. Examples of inorganic molecules include Calcium carbonate (CaCO3), Carbon dioxide (CO2), Water (H2O), and Iron III oxide (Fe3O4). Conversely, the organic molecules listed are Glucose (C6H12O6), Glycine (an amino acid) (C2H5NO2), Linoleic acid (a fatty acid) (C18H32O2), and Methane (CH4).",
+        "page_number": 43,
+        "_id": "rec_2"
+    },
+    {
+        "topic": "Table 2.2 The number of bonds (valencies) of atoms of the elements most commonly used to build biological molecules.",
+        "chunk_text": "Table 2.2 details the number of bonds, or valencies, formed by atoms of elements most commonly used in biological molecules. Carbon (C) forms 4 bonds, Hydrogen (H) forms 1 bond, Oxygen (O) forms 2 bonds, and Nitrogen (N) forms 3 bonds. Sulphur (S) typically forms 2 bonds, but can also form 4 or 6 bonds. Phosphorus (P) forms 5 bonds.",
+        "page_number": 44,
+        "_id": "rec_3"
+    },
+    {
+        "topic": "Table 2.3 How the structure of nucleic acids relates to their functions",
+        "chunk_text": "This table compares the structural features of DNA and RNA in relation to their functions. In terms of size, DNA is huge, which allows it to carry the code for many different proteins in its genes. In contrast, RNA is much smaller, needing only to code for one protein, and its small size enables it to move out of the nucleus. Regarding stability, DNA is very stable, ensuring that genes remain consistent across generations. Conversely, RNA is less stable and is degraded quite quickly, thus not continuously coding for a protein. Finally, DNA consists of two strands, which facilitates the coding of genes and replication during cell division, while RNA is single-stranded and does not replicate.",
+        "page_number": 66,
+        "_id": "rec_4"
+    },
+    {
+        "topic": "Table 3.1 Examples of enzymes and the reactions they catalyse",
+        "chunk_text": "This table provides examples of enzymes and the specific reactions they catalyze. Lipase catalyzes the hydrolysis of lipids, while ATPase catalyzes the hydrolysis of ATP. Succinate dehydrogenase is responsible for the removal of hydrogen ions from succinate during respiration. DNA polymerase facilitates the joining of nucleotides to form DNA. Lastly, Pepsin catalyzes the digestion of proteins in the stomachs of mammals.",
+        "page_number": 82,
+        "_id": "rec_5"
+    },
+    {
+        "topic": "Table 3.2 Classification of enzymes",
+        "chunk_text": "This table classifies enzymes into six main groups based on the type of reactions they catalyze. The first class, oxidoreductases, catalyzes the transfer of hydrogen, oxygen atoms, or electrons between substrates, with examples including dehydrogenases and oxidases. Transferases, the second class, are responsible for transferring specific groups like phosphate or methyl from one substrate to another, exemplified by transaminase and kinases. Hydrolases, the third class, catalyze the hydrolysis of a substrate, such as esterases and various digestive enzymes. The fourth class, isomerases, mediates changes in the molecular form of a substrate, including phosphohexoisomerase and fumerase. Lyases, the fifth class, involve the nonhydrolytic removal or addition of a group to a substrate, as seen in decarboxylases and aldolases. Finally, the sixth class, Ligases (also known as Synthetases), join two molecules by forming new bonds, with citric acid synthetase as an example.",
+        "page_number": 83,
+        "_id": "rec_6"
+    },
+    {
+        "topic": "Table 3.3 Some industrial uses of enzyme technology",
+        "chunk_text": "This table outlines various industrial applications of enzyme technology and their associated benefits across several sectors. In the dairy sector, biochymosin is used for cheese production to overcome the limited supply of natural rennet from calves' livers, while lactase produces lactose-free milk, reducing cramps for lactose-intolerant individuals. Detergents utilize proteases, lipases, and amylases in biological washing powders to efficiently remove many biological stains at low temperatures, saving energy; these enzymes also remove food particles in dishwasher detergents at lower temperatures, requiring fewer bleaching products. In textiles, proteases and lipases remove hair and degrease animal hides faster than traditional methods, and cellulase is used to 'bio-polish' cotton fabrics for a smoother, glossier finish and to 'bio-stone' denim for the stone-washed effect more easily. Food processing benefits from pectinase to clarify fruit juice and invertase to produce liquid-centre chocolates by liquefying sucrose paste. The pulp and paper industry employs amylases for starch conversion, reducing starch quantity and improving paper quality; xylanase enzymes for pre-bleaching pulp, yielding whiter paper; and esterases to control 'stickies' that would otherwise clog machinery and reduce paper quality. In medicine, glucose oxidase in Clinistix strips allows for easy diagnosis of diabetes through urine testing, and testing for high levels of liver enzymes confirms liver damage. Pulmozyme is used to treat cystic fibrosis by reducing mucus viscosity. Finally, in the pharmaceutical sector, streptokinase dissolves clots in heart-attack patients, restoring blood supply to heart muscle, and enzymes control the production of abacavir sulphate, an important anti-AIDS drug.",
+        "page_number": 85,
+        "_id": "rec_7"
+    },
+    {
+        "topic": "Table 3.4 The rate enhancement of some enzymes",
+        "chunk_text": "This table, 'The rate enhancement of some enzymes,' quantifies how much faster certain enzyme-catalyzed reactions proceed compared to uncatalyzed reactions. Ketosteroid isomerase and MP decarboxylase demonstrate the highest rate enhancements, at 3.9 x 10^17 and 1.4 x 10^17, respectively. Carboxypeptidase A also shows a very high enhancement of 1.9 x 10^17. Staphylococcal nuclease provides a significant rate enhancement of 5.6 x 10^14. Enzymes such as Adenosine deaminase, AMP nucleosidase, and Cytidine deaminase exhibit enhancements in the order of 10^12, specifically 2.1 x 10^12, 6.0 x 10^12, and 1.2 x 10^12. Phosphotriesterase has a rate enhancement of 2.8 x 10^11. Triosephosphate isomerase shows an enhancement of 1.0 x 10^9. Carbonic anhydrase and Chorismate mutase have enhancements of 7.7 x 10^6 and 1.9 x 10^6, respectively. The lowest enhancement listed is for Cyclophilin, human, at 4.6 x 10^5.",
+        "page_number": 90,
+        "_id": "rec_8"
+    },
+    {
+        "topic": "Table 3.5 Common coenzymes and their functions",
+        "chunk_text": "This table, 'Common coenzymes and their functions,' details two crucial coenzymes, their vitamin sources, the enzymes they bind with, and their functions. Nicotinamide adenine dinucleotide (NAD), derived from Niacin, binds with oxidoreductase enzymes in respiration to facilitate oxidation or hydrogen transfer. Similarly, Flavin adenine dinucleotide (FAD), which comes from Riboflavin, also binds with oxidoreductase enzymes in respiration to perform oxidation or hydrogen transfer.",
+        "page_number": 91,
+        "_id": "rec_9"
+    },
+    {
+        "topic": "Table 3.6 Enzymes that require mineral ions as cofactors",
+        "chunk_text": "This table, 'Enzymes that require mineral ions as cofactors,' provides examples of enzymes that necessitate specific mineral ions for their catalytic activity. Carbonic anhydrase requires Zinc ions (Zn++) to catalyze the reaction of carbon dioxide with water to form hydrogen carbonate. Alcohol dehydrogenase also utilizes Zinc ions (Zn++) to oxidize alcohol. Cytochrome oxidase depends on Copper ions (Cu++ or Cu+) to transfer electrons to oxygen during respiration.",
+        "page_number": 91,
+        "_id": "rec_10"
+    },
+    {
+        "topic": "Table 3.7 Improving the investigation",
+        "chunk_text": "This table, 'Improving the investigation,' outlines strategies to enhance the reliability of an experiment by controlling various factors. To control temperature, a water bath set at the desired temperature should be used, with potato pieces and hydrogen peroxide separately placed in it for 10 minutes for equilibration. To control pH, buffer solutions at the required pH should be added to the potato pieces at the start, as these solutions resist pH changes and maintain constancy. To improve reliability and allow for the identification and elimination of anomalous results, the experiment should be repeated three or five times, with an odd number of trials being preferable.",
+        "page_number": 97,
+        "_id": "rec_11"
+    },
+    {
+        "topic": "Table 4.1 Key events in cell biology",
+        "chunk_text": "This table lists key events in the study of cell biology chronologically. The timeline begins in 1595 with Jansen building the first compound microscope. In 1626, Redi postulated that living things do not arise from spontaneous generation. Key observations followed, including Hooke describing 'cells' in cork in 1665 and Leeuwenhoek discovering protozoa in 1674. Brown described the cell nucleus in orchid cells in 1833, leading to Schleiden and Schwann proposing a cell theory in 1839. Later developments include Kolliker describing mitochondria in 1857, Virchow stating 'omnis cellula e cellula' in 1858, Miescher isolating DNA in 1869, and Fleming describing chromosome behaviour during mitosis in 1879. The progression continued with Golgi describing the Golgi apparatus in cells in 1898, the invention of the first transmission electron microscope in 1939, Watson and Crick proposing the double-helix structure of DNA in 1953, the advent of the first scanning electron microscope in 1965, and the draft of the human genome DNA sequence in 2000.",
+        "page_number": 115,
+        "_id": "rec_12"
+    },
+    {
+        "topic": "Table 4.2 A summary of the main differences between prokaryotic and eukaryotic cells",
+        "chunk_text": "This table summarizes the main differences between prokaryotic and eukaryotic cells across several features. In terms of size, prokaryotic cells are typically 1\u201310 \u03bcm, while eukaryotic cells are larger at 10\u2013100 \u03bcm. A key distinction is the nucleus: prokaryotic cells lack a membrane-bound nucleus, whereas eukaryotic cells possess a nucleus surrounded by a nuclear envelope. Regarding DNA, prokaryotic cells have it in a continuous loop not associated with protein, while eukaryotic cells have linear DNA associated with histone proteins in chromosomes. Mitochondria are absent in prokaryotic cells but present in eukaryotic cells. Chloroplasts are absent in prokaryotic cells, though some can photosynthesize with a kind of chlorophyll, while they are present in some eukaryotic cells like plant and algal cells. Ribosomes are present in both, but are smaller (70S) in prokaryotic cells and larger (80S) in eukaryotic cells. Finally, a cell wall is always present in prokaryotic cells, typically made from peptidoglycan and not cellulose, whereas in eukaryotic cells, it is present in plant, algal, and fungal cells, made from cellulose in plants, and various materials in others.",
+        "page_number": 124,
+        "_id": "rec_13"
+    },
+    {
+        "topic": "Table 4.3 Key events",
+        "chunk_text": "This table outlines key historical events in the understanding of membrane structure, specifically the plasma membrane. The timeline begins in 1665 with Robert Hooke's discovery of cells, though without knowledge of cell membranes. In 1895, Charles Overton demonstrated the cell membrane's lipid composition, followed by Langmuir's 1905 proposal of a lipid monolayer as the basic structure. Between 1910 and 1920, evidence mounted for phospholipids in the membrane, leading E. Gorter and G. Grendel to suggest a phospholipid bilayer in 1925. By 1935, Davson and Danielli, knowing proteins are also present, suggested a 'sandwich' model. In 1959, J. D. Robertson developed the unit membrane model, based on electron microscope evidence, suggesting all membranes are fundamentally alike. The current and widely accepted fluid mosaic model of membrane structure was proposed in 1972 by S. J. Singer and G. L. Nicholson.",
+        "page_number": 126,
+        "_id": "rec_14"
+    },
+    {
+        "topic": "Table 4.4 The transport process",
+        "chunk_text": "This table describes various transport processes across plasma membranes, categorizing them into passive and active types. Passive processes, which rely on kinetic energy and concentration gradients without requiring cellular energy (ATP), include simple diffusion, where particles move from a high to a low concentration. Facilitated diffusion also involves particles moving from a high to a low concentration, but through an ion pore or carrier protein. Osmosis is the movement of water molecules from a high water potential to a lower one across a partially permeable membrane. In contrast, active processes require energy from the cell's metabolism in the form of ATP. These include active transport, where particles move from a low to a higher concentration using a carrier protein or pump. Endocytosis is a process where large particles are engulfed by the plasma membrane forming a vesicle through invagination. Conversely, exocytosis involves the secretion of large particles by a vesicle merging with the plasma membrane to release its substance.",
+        "page_number": 130,
+        "_id": "rec_15"
+    },
+    {
+        "topic": "Table 4.5 The transport processes compared",
+        "chunk_text": "This table compares six different transport processes based on their influence of concentration, ATP requirement, the type of particles moved, and whether transport proteins are needed. Simple diffusion, facilitated diffusion, and osmosis all occur from a high to a low concentration or water potential and do not require ATP. Specifically, simple diffusion moves lipid-soluble, small, non-polar particles without requiring transport proteins. Facilitated diffusion moves ions and medium-sized particles and also does not require transport proteins. Osmosis specifically moves water molecules and does not require transport proteins. In contrast, active transport, endocytosis, and exocytosis all require ATP. Active transport moves ions and medium-sized, non-lipid-soluble particles from a low to high concentration and requires transport proteins. Both endocytosis and exocytosis can occur in either direction to move very large particles, and both require transport proteins.",
+        "page_number": 137,
+        "_id": "rec_16"
+    },
+    {
+        "topic": "Table 5.1 Factors affecting the rate of photosynthesis",
+        "chunk_text": "This table outlines factors affecting the rate of photosynthesis. Light intensity can limit light-dependent reactions when low, by reducing the number of photo-excited electrons in chlorophyll molecules. Carbon dioxide concentration can limit light-independent reactions by influencing the rate of the initial reaction with RuBP. Temperature can limit the rate of enzyme action, affecting enzymes such as ATP synthase in light-dependent reactions and Rubisco in light-independent reactions.",
+        "page_number": 177,
+        "_id": "rec_18"
+    },
+    {
+        "topic": "Table 5.2 A comparison of C3 and C4 photosynthesis",
+        "chunk_text": "This table provides a comparison of C3 and C4 photosynthesis across several features. Regarding bundle sheath cells, C3 plants lack chloroplasts in these cells, while C4 plants possess chloroplasts there, notably without thylakoids. The enzyme used to fix carbon dioxide is Rubisco for C3 photosynthesis, contrasting with PEP carboxylase (Pepco) for C4 photosynthesis. C3 plants have an optimum temperature range of 15\u201325 \u00b0C, whereas C4 plants perform optimally at 30\u201340 \u00b0C. For carbon dioxide concentration, the optimum for C3 photosynthesis is 700 ppm, while for C4 photosynthesis, it is 400 ppm. In both C3 and C4 processes, the fixation of carbon dioxide occurs in mesophyll cells. However, the Calvin cycle takes place in mesophyll cells for C3 plants, but in bundle sheath cells for C4 plants.",
+        "page_number": 185,
+        "_id": "rec_19"
+    }
+]

@@ -1,0 +1,1268 @@
+[
+    {
+        "id": "rec_1",
+        "chunk_text": "biotechnology is the use of micro-organisms to make things that people want, often involving industrial production.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "microbiology is the study of micro-organisms and their effect on humans.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "bacteria are unicellular micro-organisms.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "viruses are sub-microscopic infectious agents that are unable to grow or reproduce outside a host cell.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "fungi are simple organisms, often microscopic, that cannot photosynthesise and feed as parasites or saprophytes.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "protoctista are unicellular organisms.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 1
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "anaerobically means without oxygen.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 2
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "fermentation is anaerobic respiration in yeast that produces ethanol.",
+        "topic": "1.1 What is biotechnology?",
+        "page_number": 2
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "lactic acid is the product of anaerobic respiration in animal cells.",
+        "topic": "Food production using bacteria",
+        "page_number": 5
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "genetic engineering/genetic modification is the process of inserting new genetic information into existing cells in order to modify a specific organism for the purpose of changing its characteristics.",
+        "topic": "1.2 New applications of biotechnology",
+        "page_number": 7
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "mycoprotein is fungal protein.",
+        "topic": "Applications of biology in food",
+        "page_number": 9
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "biogas generator/digester takes in waste material or plants, and biogas and useful fertilisers come out the other end.",
+        "topic": "What is biogas?",
+        "page_number": 12
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "exothermic reaction is that which produces heat energy.",
+        "topic": "What is biogas?",
+        "page_number": 12
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "carbohydrase is enzyme which breaks down carbohydrates.",
+        "topic": "More biofuels",
+        "page_number": 14
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "distillation is process of purifying a liquid by boiling it and condensing its vapours.",
+        "topic": "More biofuels",
+        "page_number": 14
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "carbon-neutral process is whereby the amount of carbon emitted is matched by the amount absorbed.",
+        "topic": "More biofuels",
+        "page_number": 15
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "red blood cell is type of blood cell that carries oxygen around the body.",
+        "topic": "2.1 Mitosis and meiosis",
+        "page_number": 19
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "chromosome is a strand of DNA carrying genetic information.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 20
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "DNA is nucleic acid containing the genetic instructions used in the development and functioning of all known living organisms and some viruses.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 21
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "homologous chromosomes are a pair of chromosomes having the same gene sequences, each derived from one parent.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 21
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "karyotype is map of the chromosomes in the nucleus of a single cell.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 21
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "autosomes are chromosomes that are not sex chromosomes.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 21
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "double helix is pair of parallel helices intertwined about a common axis.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 21
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "adenine is one of the four bases that comprise DNA which pairs with thymine.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "thymine is one of the four bases that comprise DNA which pairs with adenine.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "guanine is one of the four bases that comprise DNA which pairs with cytosine.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "cytosine is one of the four bases that comprise DNA which pairs with guanine.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "nucleotide is a building block of DNA or RNA which consists of a sugar, a phosphate, and one of the four bases.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "polynucleotide is long chains of linked nucleotides.",
+        "topic": "Chromosomes, genes and DNA",
+        "page_number": 22
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "somatic cells are any of the cells of a plant or animal except the reproductive cells.",
+        "topic": "Mitosis",
+        "page_number": 23
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "mitosis is cell division in which the nucleus divides into nuclei containing the same number of identical chromosomes.",
+        "topic": "Mitosis",
+        "page_number": 23
+    },
+    {
+        "id": "rec_15",
+        "chunk_text": "chromatids are the two strands of a chromosome that separate during mitosis.",
+        "topic": "Mitosis",
+        "page_number": 23
+    },
+    {
+        "id": "rec_16",
+        "chunk_text": "daughter cells are the two identical cells that are formed when a cell reproduces itself by splitting into two.",
+        "topic": "Mitosis",
+        "page_number": 23
+    },
+    {
+        "id": "rec_17",
+        "chunk_text": "stem cells are cells that have the ability to grow into other kinds of cells.",
+        "topic": "UNIT 2: Heredity",
+        "page_number": 25
+    },
+    {
+        "id": "rec_18",
+        "chunk_text": "differentiated means made different.",
+        "topic": "UNIT 2: Heredity",
+        "page_number": 25
+    },
+    {
+        "id": "rec_19",
+        "chunk_text": "ovary is the female sex organ that produces ova.",
+        "topic": "UNIT 2: Heredity",
+        "page_number": 25
+    },
+    {
+        "id": "rec_20",
+        "chunk_text": "testes are the male sex organ that produces sperm.",
+        "topic": "UNIT 2: Heredity",
+        "page_number": 25
+    },
+    {
+        "id": "rec_21",
+        "chunk_text": "ova are egg cells (reproductive cells) produced by the ovary.",
+        "topic": "UNIT 2: Heredity",
+        "page_number": 25
+    },
+    {
+        "id": "rec_22",
+        "chunk_text": "sperm are male reproductive cells produced by the testes.",
+        "topic": "Meiosis",
+        "page_number": 26
+    },
+    {
+        "id": "rec_23",
+        "chunk_text": "meiosis is the type of cell division that creates egg and sperm cells.",
+        "topic": "Meiosis",
+        "page_number": 26
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "dominant is an allele where the characteristic is expressed in the phenotype even if only one copy of the allele is present.",
+        "topic": "Mendel’s discoveries",
+        "page_number": 31
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "recessive is an allele where the characteristic is only expressed in the phenotype if two copies of the allele are present.",
+        "topic": "Mendel’s discoveries",
+        "page_number": 31
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "alleles are different forms of the same gene.",
+        "topic": "How inheritance works",
+        "page_number": 33
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "monohybrid is hybrid between two parents that have a difference of only one gene.",
+        "topic": "How inheritance works",
+        "page_number": 33
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "homozygous means having two identical alleles for a particular feature.",
+        "topic": "Dominant and recessive alleles (genes)",
+        "page_number": 34
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "heterozygous means having two different alleles for a particular feature.",
+        "topic": "Dominant and recessive alleles (genes)",
+        "page_number": 34
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "genotypes are a description of the alleles of an individual for a given genetic trait.",
+        "topic": "Mendelian genetics in people",
+        "page_number": 37
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "phenotype is a description of the physical appearance of an individual relating to a given genetic trait.",
+        "topic": "Mendelian genetics in people",
+        "page_number": 37
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "albinism is a genetic condition in which no melanin pigment is formed in the cells.",
+        "topic": "More human inheritance",
+        "page_number": 42
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "spinal cord is a column of neurons within the backbone.",
+        "topic": "3.1 The nervous system",
+        "page_number": 54
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "neurons are nerve cells.",
+        "topic": "3.1 The nervous system",
+        "page_number": 54
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "sensory receptors are nerve endings that can sense stimuli, e.g. pressure, pain, temperature, and start a nerve impulse that sends this information back to the brain.",
+        "topic": "3.1 The nervous system",
+        "page_number": 54
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "affector (afferent) neuron is that sends impulses from organs to the spinal cord and brain.",
+        "topic": "3.1 The nervous system",
+        "page_number": 54
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "effector (efferent) neuron is that sends impulses from the brain and spinal cord to organs.",
+        "topic": "3.1 The nervous system",
+        "page_number": 54
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "dendrites are tree-like branches from nerve cell bodies that receive signals from other nerve cells at synapses.",
+        "topic": "3.1 The nervous system",
+        "page_number": 55
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "axon is a long process from nerve cell that carries the nerve impulse.",
+        "topic": "3.1 The nervous system",
+        "page_number": 55
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "myelin sheath is a fatty insulating sheath that grows around many nerves.",
+        "topic": "3.1 The nervous system",
+        "page_number": 55
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "action potential is a short-term change in the electrical potential on the surface of a cell when it is stimulated.",
+        "topic": "3.1 The nervous system",
+        "page_number": 56
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "synapse is the junction between two neurons (axon-to-dendrite) or between a neuron and a muscle.",
+        "topic": "3.1 The nervous system",
+        "page_number": 56
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "neurotransmitters are chemicals that transmit nerve impulses across synapses.",
+        "topic": "3.1 The nervous system",
+        "page_number": 56
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "neuromuscular junctions are the junction between an axon terminal of a motor neuron and a muscle fibre.",
+        "topic": "3.1 The nervous system",
+        "page_number": 56
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "cranium is the part of the skull that encloses the brain.",
+        "topic": "3.1 The nervous system",
+        "page_number": 56
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "cranial nerves are 12 pairs of nerves that emerge directly from the brain stem.",
+        "topic": "3.1 The nervous system",
+        "page_number": 57
+    },
+    {
+        "id": "rec_15",
+        "chunk_text": "spinal nerves are mixed nerves containing both sensory and motor neurons.",
+        "topic": "3.1 The nervous system",
+        "page_number": 57
+    },
+    {
+        "id": "rec_16",
+        "chunk_text": "grey matter is areas in the brain and spinal cord that consist of unmyelinated nerve cells.",
+        "topic": "3.1 The nervous system",
+        "page_number": 58
+    },
+    {
+        "id": "rec_17",
+        "chunk_text": "fore brain is the large frontal area of the human brain.",
+        "topic": "3.1 The nervous system",
+        "page_number": 58
+    },
+    {
+        "id": "rec_18",
+        "chunk_text": "relay neurons are neurons which are activated by other neurons.",
+        "topic": "3.1 The nervous system",
+        "page_number": 59
+    },
+    {
+        "id": "rec_19",
+        "chunk_text": "mental illness is a general term referring to psychological, emotional, or behavioural disorders.",
+        "topic": "3.1 The nervous system",
+        "page_number": 59
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "reflexes are automatic, instinctive, unlearned reactions to stimuli.",
+        "topic": "Voluntary and reflex control",
+        "page_number": 61
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "reflex arc is the neural path of a reflex.",
+        "topic": "A reflex action",
+        "page_number": 62
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "reflex action is an automatic, instinctive, unlearned reaction to a stimulus.",
+        "topic": "A reflex action",
+        "page_number": 62
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "dorsal root is the root at the back of the spinal cord.",
+        "topic": "How reflexes work in detail",
+        "page_number": 63
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "ventral root is the root at the front of the spinal cord.",
+        "topic": "How reflexes work in detail",
+        "page_number": 63
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "addicted means compulsively or physiologically dependent on something habit-forming.",
+        "topic": "Drug abuse",
+        "page_number": 65
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "withdrawal symptoms are a set of unpleasant effects upon the body caused by a sudden stopping of using a drug.",
+        "topic": "Drug abuse",
+        "page_number": 65
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "alcoholics are people who are addicted to alcohol.",
+        "topic": "How does alcohol affect your body?",
+        "page_number": 68
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "cirrhosis of the liver is endstage liver disease.",
+        "topic": "How does alcohol affect your body?",
+        "page_number": 68
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "binge drinking means consuming excessive amounts of alcohol in a short period of time.",
+        "topic": "The effects of drinking on society",
+        "page_number": 69
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "cannabis/marijuana is a drug made from the cannabis plant.",
+        "topic": "UNIT 3: Human biology and health",
+        "page_number": 70
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "ganja/weed is a drug made from the cannabis plant.",
+        "topic": "UNIT 3: Human biology and health",
+        "page_number": 70
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "hallucinogens are psychotoxic drugs that affect the mind in a way that produces distorted sensations.",
+        "topic": "UNIT 3: Human biology and health",
+        "page_number": 70
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "sensory organ is an organ that receives and relays information about the body’s senses to the brain.",
+        "topic": "3.2 Sense organs",
+        "page_number": 77
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "sclera is the tough, opaque tissue that serves as the eye’s protective outer layer.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "cornea is a transparent structure over the front of the eye that allows light to enter. A cornea resembles a contact lens in size and appearance.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "choroid is the middle layer filled with blood vessels that nourish the retina.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "pupil is a hole in the centre of the iris that changes size in response to changes in lighting.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "iris is a membrane in the eye, responsible for controlling the amount of light reaching the retina.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "dilated means becomes wider.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "constricted means becomes smaller.",
+        "topic": "3.2 Sense organs",
+        "page_number": 78
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "lens is a flexible disc that helps focus light on the retina.",
+        "topic": "3.2 Sense organs",
+        "page_number": 79
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "suspensory ligaments are elastic-like structures that suspend the lens and pull it into shape for focusing distant objects onto the retina.",
+        "topic": "3.2 Sense organs",
+        "page_number": 79
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "ciliary muscles are eye muscles that automatically contract or relax the shape of the lens of the eye to help focus light on the retina.",
+        "topic": "3.2 Sense organs",
+        "page_number": 79
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "retina is a light-sensitive tissue lining the inner surface of the eye.",
+        "topic": "How the retina works",
+        "page_number": 80
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "rods are cells in the retina that perceive light and movement and work well in dim light.",
+        "topic": "How the retina works",
+        "page_number": 80
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "cones are cells in the retina that perceive light and movement and only work in bright light.",
+        "topic": "How the retina works",
+        "page_number": 80
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "diverging means spreading apart.",
+        "topic": "Focusing the light",
+        "page_number": 81
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "distant means far away.",
+        "topic": "Focusing the light",
+        "page_number": 81
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "convex means curving or bulging outwards.",
+        "topic": "Focusing the light",
+        "page_number": 81
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "converging means two or more things coming together.",
+        "topic": "Focusing the light",
+        "page_number": 81
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "concave means curving or bulging inwards.",
+        "topic": "Focusing the light",
+        "page_number": 81
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "astigmatism is an optical defect in which vision is blurred due to the inability of the optics of the eye to focus a point object into a sharp focused image on the retina.",
+        "topic": "Common eye defects",
+        "page_number": 84
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "outer ear is the part of the ear visible externally.",
+        "topic": "The ear as a sense organ",
+        "page_number": 84
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "middle ear is the main cavity of the ear, between the eardrum and the inner ear.",
+        "topic": "The ear as a sense organ",
+        "page_number": 84
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "inner ear is a complex system of interconnecting cavities, concerned with hearing and equilibrium.",
+        "topic": "The ear as a sense organ",
+        "page_number": 84
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "eardrum is the membrane in the ear that vibrates to sound.",
+        "topic": "The ear as a sense organ",
+        "page_number": 84
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "malleus (hammer) is the ossicle attached to the eardrum.",
+        "topic": "The senses of balance and movement",
+        "page_number": 86
+    },
+    {
+        "id": "rec_15",
+        "chunk_text": "incus (anvil) is the ossicle between the malleus and the stapes.",
+        "topic": "The senses of balance and movement",
+        "page_number": 86
+    },
+    {
+        "id": "rec_16",
+        "chunk_text": "stapes (stirrup) is the stirrup-shaped ossicle that transmits sound from the incus to the cochlea.",
+        "topic": "The senses of balance and movement",
+        "page_number": 86
+    },
+    {
+        "id": "rec_17",
+        "chunk_text": "ampullae is the swelling at the base of each semicircular canal, containing sensory cells which detect movement of the fluid within the canals.",
+        "topic": "The senses of balance and movement",
+        "page_number": 86
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "hormones are chemicals produced in one part of an organism which produce specific effects on a different part of the organism.",
+        "topic": "Iodine deficiency and goitre",
+        "page_number": 94
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "thyroxine is hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.",
+        "topic": "Iodine deficiency and goitre",
+        "page_number": 94
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "pancreas is a gland that produces digestive enzymes and manufactures hormones, including insulin and glucagon.",
+        "topic": "Insulin, controlling the blood sugar levels and diabetes mellitus",
+        "page_number": 96
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "insulin is a hormone that lowers the blood glucose level.",
+        "topic": "Insulin, controlling the blood sugar levels and diabetes mellitus",
+        "page_number": 96
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "glucagon is a hormone that raises the blood glucose level.",
+        "topic": "Insulin, controlling the blood sugar levels and diabetes mellitus",
+        "page_number": 96
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "glycogen is a form of carbohydrate stored primarily in the liver and broken down into glucose when needed by the body.",
+        "topic": "Insulin, controlling the blood sugar levels and diabetes mellitus",
+        "page_number": 96
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "adrenaline is a hormone produced by the adrenal glands that elevates heart and respiration rates; also called ‘epinephrine’.",
+        "topic": "3.3 The endocrine glands",
+        "page_number": 98
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "testosterone is the primary male hormone responsible for the development of masculine traits.",
+        "topic": "The role of the testes",
+        "page_number": 99
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "secondary sexual characteristics distinguish between the two sexes; includes facial hair of the human male and enlarged hips and breasts of the female.",
+        "topic": "The role of the testes",
+        "page_number": 99
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "corpus luteum is the cell mass that remains after the release of an egg. It secretes both progesterone and oestrogen.",
+        "topic": "The menstrual cycle",
+        "page_number": 104
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "progesterone is a hormone that prepares the uterus for the implantation of a fertilised ovum and to maintain pregnancy.",
+        "topic": "The menstrual cycle",
+        "page_number": 104
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "implant means fix or set securely.",
+        "topic": "The menstrual cycle",
+        "page_number": 104
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "FSH (follicle stimulating hormone) is a hormone produced by the pituitary gland that stimulates the growth of eggs in the ovaries.",
+        "topic": "The hormones of the menstrual cycle",
+        "page_number": 105
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "LH (luteinising hormone) is a hormone that triggers the onset of ovulation. Works in concert with FSH.",
+        "topic": "The hormones of the menstrual cycle",
+        "page_number": 105
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "oestrogen is the primary female hormone responsible for the development of feminine traits.",
+        "topic": "The hormones of the menstrual cycle",
+        "page_number": 105
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "sexual intercourse is the erect penis of the male entering the vagina of the female.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 108
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "ejaculation is the release of semen from the penis.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 108
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "fertilisation is a single sperm combining with an ovum.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 109
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "conception is a single sperm combining with an ovum.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 109
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "zygote is a fertilised ovum.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 109
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "contraceptive is the prevention of conception.",
+        "topic": "3.4 Reproductive health",
+        "page_number": 109
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "homeostasis is the body’s ability to maintain normal function and stability.",
+        "topic": "3.5 Homeostasis",
+        "page_number": 121
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "homoios means like, or the same.",
+        "topic": "3.5 Homeostasis",
+        "page_number": 121
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "stasis means state.",
+        "topic": "3.5 Homeostasis",
+        "page_number": 121
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "poikilotherms are animals whose internal temperature varies along with that of the ambient environmental temperature.",
+        "topic": "Controlling temperature",
+        "page_number": 123
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "homoiotherms are animals whose internal temperature is relatively constant and independent of the environmental temperature.",
+        "topic": "Controlling temperature",
+        "page_number": 123
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "dilate means to become wider or larger; expand.",
+        "topic": "Physiological methods of temperature regulation in homoiotherms",
+        "page_number": 124
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "constrict means squeeze, or press together.",
+        "topic": "Physiological methods of temperature regulation in homoiotherms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "vasoconstriction is the constriction of a blood vessel.",
+        "topic": "Physiological methods of temperature regulation in homoiotherms",
+        "page_number": 125
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "thermoregulatory centre is the area of the brain responsible for controlling body temperature.",
+        "topic": "Controlling the core body temperature",
+        "page_number": 127
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "excretion is the bodily process of discharging waste matter.",
+        "topic": "Homeostasis and the kidney",
+        "page_number": 129
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "excretory organs are organs involved in excretion.",
+        "topic": "Homeostasis and the kidney",
+        "page_number": 129
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "nitrogenous waste is a nitrogen-rich chemical waste of several cellular processes, excreted via urine.",
+        "topic": "The kidneys",
+        "page_number": 130
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "osmoregulation is the control of the water and electrolyte balance in the body.",
+        "topic": "The kidneys",
+        "page_number": 130
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "Bowman’s capsule is the expanded end of a kidney tubule or nephron that acts as a filter to produce urine.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 132
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "ultrafiltration is the removal of excess water and other substances from the blood.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 132
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "glomerular filtrate is the liquid resulting from filtration in the Bowman’s capsule.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 132
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "antidiuretic hormone (ADH) is a hormone produced by the pituitary gland that reduces the production of urine in the kidneys and thereby prevents water loss.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 133
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "sphincter is a ring of muscle that contracts to close an opening.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 133
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "urethra is a duct through which urine is discharged.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 133
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "osmoreceptors are specialised nerve cells responsible for monitoring the osmotic pressure of the blood and extracellular fluid.",
+        "topic": "The roles of the different areas of a single kidney tubule in the production of urine are described below:",
+        "page_number": 133
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "deamination is the removal of an amine group from a molecule.",
+        "topic": "The liver and homeostasis",
+        "page_number": 135
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "waxy cuticle is a waterproof upper surface layer found in many types of leaf.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "palisade mesophyll is the main photosynthetic tissue of a leaf.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "spongy mesophyll is the main gas exchange tissue of a leaf.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "lower epidermis is a surface layer of a leaf containing stomata.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "stomata are pores mostly on the lower surface of leaves that can be opened or closed to control gas exchange and water loss.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "guard cells are pairs of cells which surround and control the size of stomata by altering their shape.",
+        "topic": "4.1 The leaf",
+        "page_number": 143
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "vascular bundles are part of the transport system in vascular plants, containing xylem and phloem.",
+        "topic": "4.1 The leaf",
+        "page_number": 145
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "xylem are the hollow cells of a plant that transport water and minerals to plant cells.",
+        "topic": "4.1 The leaf",
+        "page_number": 145
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "phloem is the food-conducting living tissue of a plant.",
+        "topic": "4.1 The leaf",
+        "page_number": 145
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "chloroplast is the organelle in the cytoplasm of plant cells where chlorophyll is stored, and photosynthesis takes place.",
+        "topic": "4.1 The leaf",
+        "page_number": 145
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "photosynthesis is a plant chemical process of making food (sugars) and oxygen, from carbon dioxide and water, in the presence of light.",
+        "topic": "4.2 Photosynthesis",
+        "page_number": 146
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "heterotrophs are organisms that obtain their energy through consuming other organisms.",
+        "topic": "4.2 Photosynthesis",
+        "page_number": 146
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "autotrophs are organisms that make their own food from inorganic substances, via photosynthesis.",
+        "topic": "4.2 Photosynthesis",
+        "page_number": 146
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "destarching is the process of eliminating starch reserves from a plant by depriving it of light.",
+        "topic": "Demonstrating the need for light",
+        "page_number": 150
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "radioactive tracers are radioactive molecules that can be sent through a vascular system (animal or plant) with their progress followed by a radiation-sensitive machine.",
+        "topic": "The need for water",
+        "page_number": 153
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "resurrection plants are plants with the habit of reviving after seeming to be dead.",
+        "topic": "The need for water",
+        "page_number": 153
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "transpiration is the process by which water absorbed by plants, usually through the roots, is evaporated into the atmosphere from the plant surface, principally from the leaves.",
+        "topic": "The need for transport in plants",
+        "page_number": 160
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "passive means requires no energy from the plant.",
+        "topic": "The need for transport in plants",
+        "page_number": 160
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "adhesive forces are forces of attraction between different types of molecule.",
+        "topic": "Moving water through the plant",
+        "page_number": 164
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "cohesive forces are forces of attraction between similar types of molecule.",
+        "topic": "Moving water through the plant",
+        "page_number": 164
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "cuticle is a waterproof upper surface layer found in many types of leaf.",
+        "topic": "Reducing water loss",
+        "page_number": 167
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "hormones are chemicals produced in one part of an organism which produce specific effects on a different part of the organism.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "endosperm is the nutritive tissue of a seed, consisting of carbohydrates, proteins and lipids.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "plumule is the bud, or growing point, of the embryo, above the cotyledons.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "radicle is the first part of a seedling (a growing plant embryo) to emerge from the seed during the process of germination.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "cotyledons are the first leaves sent out by the germinating seed – the seed leaves.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "testa is the hard external coating of a seed.",
+        "topic": "4.4 Response in plants",
+        "page_number": 170
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "hypocotyl is the first leaf-like structure that appears on a germinating seed. It grows upward in response to light.",
+        "topic": "Epigeal (dicot) and hypogeal (monocot) germination",
+        "page_number": 172
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "epigeal germination is when cotyledons are carried above the ground.",
+        "topic": "Epigeal (dicot) and hypogeal (monocot) germination",
+        "page_number": 172
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "hypogeal germination is when cotyledons remain below the ground.",
+        "topic": "Epigeal (dicot) and hypogeal (monocot) germination",
+        "page_number": 172
+    },
+    {
+        "id": "rec_10",
+        "chunk_text": "auxins are plant growth hormones.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_11",
+        "chunk_text": "gibberellic acid is a growth-stimulating and dormancy-breaking plant hormone.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_12",
+        "chunk_text": "cytokinin is plant hormones that promote cell division.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_13",
+        "chunk_text": "ethylene is a gaseous plant hormone that stimulates fruit ripening and the dropping of leaves.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_14",
+        "chunk_text": "abscisic acid (ABA) is a growth-inhibiting hormone.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_15",
+        "chunk_text": "apical dominance is growth concentrated in the terminal bud, allowing it to grow taller, thereby increasing its exposure to sunlight.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_16",
+        "chunk_text": "tropisms are the reactions of plants to stimuli.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_17",
+        "chunk_text": "gibberellins are a group of hormones that regulate plant growth.",
+        "topic": "Plant hormones and growth",
+        "page_number": 173
+    },
+    {
+        "id": "rec_18",
+        "chunk_text": "phototropism is the tendency of plants to move or grow towards light.",
+        "topic": "Tropic responses",
+        "page_number": 174
+    },
+    {
+        "id": "rec_19",
+        "chunk_text": "hydrotropism is the tendency of plants to move or grow towards water.",
+        "topic": "Tropic responses",
+        "page_number": 176
+    },
+    {
+        "id": "rec_20",
+        "chunk_text": "indole-3-acetic acid (IAA) is a plant growth hormone.",
+        "topic": "How are tropic responses brought about?",
+        "page_number": 176
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "natural resources are resources (actual and potential) supplied by nature.",
+        "topic": "5.1 Definition of resources",
+        "page_number": 184
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "renewable means capable of being produced indefinitely, not used up.",
+        "topic": "5.1 Definition of resources",
+        "page_number": 184
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "non-renewable means once used, cannot be easily made or replaced.",
+        "topic": "5.1 Definition of resources",
+        "page_number": 184
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "extinct means no longer in existence.",
+        "topic": "5.1 Definition of resources",
+        "page_number": 184
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "conservation is the act of preserving, guarding or protecting.",
+        "topic": "5.1 Definition of resources",
+        "page_number": 184
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "monocultures are the cultivation of single crops.",
+        "topic": "5.2 Conservation and biodiversity",
+        "page_number": 186
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "endemic means unique to a particular geographic location.",
+        "topic": "The history of Ethiopian vegetation",
+        "page_number": 190
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "sustainable resource means capable of being maintained and/or replaced.",
+        "topic": "The history of Ethiopian vegetation",
+        "page_number": 190
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "pollution is the contamination of the natural environment by harmful substances as a result of human activities.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "pollutant is a harmful substance.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_5",
+        "chunk_text": "hydrocarbons are substances containing only hydrogen and carbon. Fossil fuels are made of hydrocarbons.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_6",
+        "chunk_text": "particles are very small pieces of solid or liquid matter.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_7",
+        "chunk_text": "global dimming is a worldwide reduction of the sunlight reaching the Earth’s surface, caused by particulate air pollution.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_8",
+        "chunk_text": "carbon dioxide is a gas produced by living organisms as a waste product of respiration, and as a result of burning wood and fossil fuels.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_9",
+        "chunk_text": "carbon cycle is the global cycle of movement of carbon, in all of its forms, involving all living things and all parts of the environment.",
+        "topic": "5.5 Air",
+        "page_number": 198
+    },
+    {
+        "id": "rec_1",
+        "chunk_text": "carbon monoxide is a pollutant gas produced as a result of burning fossil fuels.",
+        "topic": "Air pollution",
+        "page_number": 200
+    },
+    {
+        "id": "rec_2",
+        "chunk_text": "sulphur dioxide is a pollutant gas produced as a result of burning fossil fuels.",
+        "topic": "Air pollution",
+        "page_number": 200
+    },
+    {
+        "id": "rec_3",
+        "chunk_text": "nitrogen oxides are pollutant gases produced as a result of burning fossil fuels.",
+        "topic": "Air pollution",
+        "page_number": 200
+    },
+    {
+        "id": "rec_4",
+        "chunk_text": "acid rain is rain with a low pH containing sulphuric acid and nitric acid as a result of dissolving airborne pollutant gases.",
+        "topic": "Air pollution",
+        "page_number": 200
+    }
+]

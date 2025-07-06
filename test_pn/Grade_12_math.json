@@ -1,0 +1,1311 @@
+[
+    {
+        "id": "rec_1",
+        "type": "Example",
+        "content": "A water reservoir is being filled with water at the rate of $4000 \text{ m}^3/\text{hr}$ for the first hour, $5000 \text{ m}^3/\text{hr}$ for the second hour, $6,000 \text{ m}^3/\text{hr}$ for the third hour and it increases by $1000 \text{ m}^3/\text{hr}$ at the end of every hour. It is completely filled in 8 hours. Find the capacity of the reservoir.\n**Solution**\nObserve the sequence of the volumes of water being filled at the end of every hour $4,000 \text{ m}^3$, $5,000 \text{ m}^3$, $6,000 \text{ m}^3$, \u2026, form an arithmetic sequence with $A_1 = 4,000$ and $d = 1,000$.\nThe volume of water being filled in 8 hours is $$S_8 = \\frac{8}{2}(2 \\times 4,000 + 7 \\times 1,000) \\text{ m}^3 = 60,000 \\text{ m}^3.$$\nThus, the capacity of the reservoir is $60,000 \text{ m}^3$.",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 24
+    },
+    {
+        "id": "rec_2",
+        "type": "Theorem",
+        "content": "Let ${G_n}_{n=1}^\\infty$ be a geometric sequence with common ratio $r$. Then the sum of the first $n$ terms $S_n$ is given by, $$S_n = \\begin{cases} nG_1, & \\text{if } r=1 \\\\ G_1\\frac{(1-r^n)}{1-r} = G_1\\frac{(r^n-1)}{r-1}, & \\text{if } r \\neq 1. \\end{cases}$$",
+        "topic": "1.3.2 Sum of Geometric Progressions",
+        "page_number": 24
+    },
+    {
+        "id": "rec_3",
+        "type": "Example",
+        "content": "Given the geometric sequence: $1, 3, 9, 27, \\dots$, find\na $S_5$\nb $S_{10}$\n**Solution**\na From the given sequence $G_1=1$ and $r=3$, thus using the formula $S_n = \\frac{G_1(1-r^n)}{1-r}$, you get $S_5 = \\frac{1(1-3^5)}{1-3} = \\frac{-242}{-2} = 121$.\nb By using the same formula as in a, $S_n = \\frac{G_1(1-r^n)}{1-r}$, we get $S_{10} = \\frac{1(1-3^{10})}{1-3} = \\frac{-59048}{-2} = 29,524$",
+        "topic": "1.3.2 Sum of Geometric Progressions",
+        "page_number": 24
+    },
+    {
+        "id": "rec_4",
+        "type": "Example",
+        "content": "Example 3 Write $0.\\overline{6}$ as a rational number.\n**Solution**\n$0.\\overline{6} = 0.6 + 0.06 + 0.006 + \\dots = \\frac{6}{10} + \\frac{6}{100} + \\frac{6}{1000} + \\dots$\nwhich is an infinite geometric series with $r = \\frac{1}{10}$ and $G_1 = \\frac{6}{10}$.\nThus, $S_\\infty = \\frac{G_1}{1-r} = \\frac{\\frac{6}{10}}{1-\\frac{1}{10}} = \\frac{\\frac{6}{10}}{\\frac{9}{10}} = \\frac{6}{9} = \\frac{2}{3}$.",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 30
+    },
+    {
+        "id": "rec_5",
+        "type": "Example",
+        "content": "Example 4 A ball is dropped from a height of $30\\text{m}$ above a flat surface. In each bounce, it rebounds to $0.3$ of the distance it fell. Find the maximum possible vertical distance the ball could travel.\n**Solution**\nEach time, the ball travels $0.3$ times the distance it fell, as shown in Figure 1.5. Assuming that the ball never comes to rest, the total distance is $S = 30+2\\left(\\frac{9}{1-0.3}\\right)\\text{m}=55.7\\text{m}$.",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 30
+    },
+    {
+        "id": "rec_6",
+        "type": "Example",
+        "content": "Example 5 In Figure 1.6, an infinite number of rectangles are constructed under the graph of $f(x) =2^{-x}$. Find the sum of the areas of all the rectangles.\n**Solution**\nThe $n$-th rectangle has unit length and height $2^{-n}$ units. Hence, the area of the $n$-th rectangle is $A_n = 2^{-n}$ square unit.\n$\\Rightarrow \\sum_{n=1}^\\infty A_n = \\frac{2^{-1}}{1-2^{-1}} = \\frac{0.5}{1-0.5} = 1$ unit square.",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 30
+    },
+    {
+        "id": "rec_7",
+        "type": "Example",
+        "content": "Example 1 A job applicant finds that a firm offers a starting annual salary of Birr $32,500$ with a guaranteed raise of Birr $1,400$ per year.\na What would the annual salary be in the tenth year?\nb Over the first $10$ years, how much would be earned at the firm?\n**Solution**\na The annual salary at the firm forms the arithmetic sequence;\n$32,500, 33,900, 35,300, \\dots$ with first term $A_1 =32,500$\nand common difference $d =1,400$.\nThus,$A_n = A_1 +(n-1)d$, substituting the values we obtain;\n$A_{10} =32,500+(10-1)1,400= \\text{Birr } 45,100$\nb To determine the amount that would be earned over the first $10$ years, we need to add the first $10$ annual salaries;\n$S_{10} = A_1 +A_2 +A_3 +\\dots+A_{10} =10\\left(\\frac{A_1 +A_{10}}{2}\\right)$\n(It is $10$ times the average of the first and the last term.)\n$S_{10} = \\frac{10}{2} (32,500+45,100)= \\text{Birr } 388,000$.\nTherefore, over the first $10$ years a total of Birr $388,000$ would be earned at the firm.",
+        "topic": "1.5 APPLICATIONS OF ARITHMETIC PROGRESSIONS AND GEOMETRIC PROGRESSIONS",
+        "page_number": 32
+    },
+    {
+        "id": "rec_8",
+        "type": "Example",
+        "content": "Suppose a substance loses half of its radioactive mass per year. If we start with 100 grams of a radioactive substance, how much is left after 10 years?\nSolution Let us record the amount of the radioactive substance left after each year starting with $G_0=100$. Note that each term is half of the previous term and hence,\n$G_1 = \\frac{1}{2}(100)=50g$ is the amount left at the end of year 1.\n$G_2 = \\frac{1}{2}(50)=25g$ is the amount left at the end of year 2.\nIf you continue in this way, you see that the ratio of any two consecutive terms is a constant, which is $\\frac{1}{2}$, and hence this sequence is a geometric sequence.\nTherefore, after ten years, the amount of the substance left is given by\n$$G_{10} = \\left(\\frac{1}{2}\\right)^{10} G_1 = \\left(\\frac{1}{2}\\right)^{10} (100)= \\frac{100}{1,024} = 0.09765625g.$$",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 33
+    },
+    {
+        "id": "rec_9",
+        "type": "Theorem",
+        "content": "You remember that the binomial theorem states\n$$(a + bx)^n = a^n + nan^{n-1} (bx) + \\frac{n(n-1)}{2!} a^{n-2} (bx)^2 + \\frac{n(n-1)(n-2)}{3!} a^{n-3} (bx)^3 + \\dots + (bx)^n$$\nfor any positive integer $n$.\nIn particular for $a = 1$ and $b = 1$, you have\n$$(1 + x)^n = 1 + nx + \\frac{n(n-1)}{2!} x^2 + \\frac{n(n-1)(n-2)}{3!} x^3 + \\dots + x^n$$",
+        "topic": "Binomial series",
+        "page_number": 33
+    },
+    {
+        "id": "rec_10",
+        "type": "Definition",
+        "content": "Now, if you consider the infinite series $1 - x + x^2 - x^3 +\\dots$, then it is a geometric series with common ratio $-x$. Moreover, for $|x| < 1$, it converges to $\\frac{1}{1+x} = (1 + x)^{-1}$\nIn general, for any value of $n$,\n$$(1 + x)^n = 1 + nx + \\frac{n(n-1)}{2!} x^2 + \\frac{n(n-1)(n-2)}{3!} x^3 + \\dots (*)$$\nand this type of series is called a binomial series. This series converges for $|x|< 1$. The binomial series generalizes the binomial theorem to any real values of $n$. If $n$ is a positive integer the binomial series reduces to binomial theorem.",
+        "topic": "Binomial series",
+        "page_number": 33
+    },
+    {
+        "id": "rec_11",
+        "type": "Example",
+        "content": "Expand each of the following expressions.\na $(1 + x)^{1/2}$ b $(1 \u2013 3x)^{-5}$ c $(3x + 2)^{-4}$\nSolution\na Replacing $n$ by $\\frac{1}{2}$ in $(*)$ gives you,\n$$(1 + x)^{1/2}=1+ \\frac{1}{2}x+ \\frac{\\frac{1}{2}(\\frac{1}{2}-1)}{2!}x^2 + \\frac{\\frac{1}{2}(\\frac{1}{2}-1)(\\frac{1}{2}-2)}{3!}x^3 + \\dots$$\n$$= 1 + \\frac{1}{2}x - \\frac{1}{8}x^2 + \\frac{1}{16}x^3 - \\frac{5}{128}x^4 + \\dots \\text{ provided that } |x|< 1.$$\nb Replacing $n$ by $-5$ and $x$ by $(-3x)$ in $(*)$ gives you.\n$$(1 \u2013 3x)^{-5} = 1 + (-5) (-3x) + \\frac{(-5)(-5-1)}{2!}(-3x)^2 + \\frac{-5(-5-1)(-5-2)}{3!}(-3x)^3 + \\dots$$\n$$= 1 + 15x +135x^2 + 945x^3 + 5670x^4 + \\dots \\text{ provided that } |x|< \\frac{1}{3}.$$\nc Observe that $(2x + 3)^{-4} = \\left(3\\left(\\frac{2}{3}x+1\\right)\\right)^{-4} =3^{-4} \\left( \\frac{2}{3}x+1\\right)^{-4}$\nHence,\n$$( 2x+3 )^{-4} =3^{-4}\\left( 1+(-4 )\\left( \\frac{2}{3} x \\right) + \\frac{(-4)(-4-1)\\left(\\frac{2}{3} x\\right)^2}{2!} + \\frac{(-4)(-4-1)(-4-2)\\left(\\frac{2}{3} x\\right)^3}{3!} +\\dots \\right)$$\n$$= \\frac{1}{81} - \\frac{8}{243}x+ \\frac{40}{729}x^2- \\frac{160}{2187}x^3+ \\frac{560}{6561}x^4 -\\dots$$",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 34
+    },
+    {
+        "id": "rec_12",
+        "type": "Example",
+        "content": "Find the approximate value of $\\sqrt[3]{6}$ correct to four decimal places.\nSolution: You know that $6$ is not a perfect cube but using the perfect cube $8$, rewrite $\\sqrt[3]{6}$ as\n$$\\sqrt[3]{6}=\\sqrt[3]{8-2}=\\sqrt[3]{8 \\left(1- \\frac{2}{8}\\right)}=\\sqrt[3]{8} \\sqrt[3]{1- \\frac{1}{4}} = 2 \\left(1- \\frac{1}{4}\\right)^{1/3}.$$\nHence replacing $n$ by $\\frac{1}{3}$ and $x$ by $-\\frac{1}{4}$ in $(*)$, you have\n$$\\sqrt[3]{6} =2 \\left(1- \\frac{1}{4}\\right)^{1/3} =2 \\left( 1+ \\frac{1}{3}\\left( - \\frac{1}{4}\\right) + \\frac{\\frac{1}{3}(\\frac{1}{3}-1)}{2!}\\left( - \\frac{1}{4}\\right)^2 + \\frac{\\frac{1}{3}(\\frac{1}{3}-1)(\\frac{1}{3}-2)}{3!}\\left( - \\frac{1}{4}\\right)^3 +\\dots \\right)$$\n$$= 2 \\left(1- \\frac{1}{12} - \\frac{1}{144} - \\frac{5}{5184} -\\dots\\right)$$\n$$= 1.817515430988$$\n$$\\Rightarrow \\sqrt[3]{6}= 1.8175 \\text{ correct to four decimal places.}$$",
+        "topic": "Unit 1 Sequences and Series",
+        "page_number": 34
+    },
+    {
+        "id": "rec_13",
+        "type": "Example",
+        "content": "Find the glb and lub for each of the following sequences.\na $\\left\\{2^n\\right\\}$\nb $\\left\\{(0.01)^n\\right\\}$\n**Solution**\nThese sequences need a calculator or a computer to list as many terms as possible; alternatively plot the corresponding function graph.\na The lub is $2$ and the glb is $1$.\nb The lub is $1$ and the glb is $0.01$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 48
+    },
+    {
+        "id": "rec_14",
+        "type": "Definition",
+        "content": "Let $\\{a_n\\}$ be a sequence of numbers. Then,\ni $\\{a_n\\}$ is said to be an increasing sequence, if $a_n \\leq a_{n+1}$ for all $n \\in \\mathbb{N}$.\ni.e. $\\{a_n\\}$ is increasing, if and only if\n$$a_1 \\leq a_2 \\leq a_3 \\leq \\dots \\leq a_n \\leq a_{n+1} \\leq \\dots$$\nii $\\{a_n\\}$ is said to be strictly increasing if $a_n < a_{n+1}$, for all $n \\in \\mathbb{N}$.\niii $\\{a_n\\}$ is said to be a decreasing sequence, if $a_n \\geq a_{n+1}$ for all $n \\in \\mathbb{N}$. i.e., $\\{a_n\\}$ is decreasing, if and only if\n$$a_1 \\geq a_2 \\geq a_3 \\geq \\dots \\geq a_n \\geq a_{n+1} \\geq \\dots$$\niv $\\{a_n\\}$ is said to be strictly decreasing, if $a_n > a_{n+1}$, for all $n \\in \\mathbb{N}$.",
+        "topic": "Monotonic sequences",
+        "page_number": 48
+    },
+    {
+        "id": "rec_15",
+        "type": "Example",
+        "content": "Show that the sequence $\\left\\{3-\\frac{1}{n}\\right\\}$ is strictly increasing.\n**Solution**\nThis can be seen directly from the order of the terms:\n$$3-1 < 3-\\frac{1}{2} < 3-\\frac{1}{3} < 3-\\frac{1}{4}$$\nAlso, $n < n+1 \\Rightarrow \\frac{1}{n} > \\frac{1}{n+1} \\Rightarrow -\\frac{1}{n} < -\\frac{1}{n+1}$\n$\\Rightarrow 3 - \\frac{1}{n} < 3 - \\frac{1}{n+1}$, for all $n \\in \\mathbb{N} \\Rightarrow \\left\\{3 - \\frac{1}{n}\\right\\}$ is strictly increasing.",
+        "topic": "Monotonic sequences",
+        "page_number": 48
+    },
+    {
+        "id": "rec_16",
+        "type": "Example",
+        "content": "Show that $\\left\\{3+\\frac{1}{n}\\right\\}$ is strictly decreasing.\n**Solution**\nNote that $3+1 > 3+\\frac{1}{2} > 3+\\frac{1}{3} > \\dots > 3+\\frac{1}{n} > 3+\\frac{1}{n+1} > \\dots$\n$\\Rightarrow 3 + \\frac{1}{n} > 3 + \\frac{1}{n+1}$, $\\forall n \\in \\mathbb{N}$\n$\\Rightarrow \\left\\{3 + \\frac{1}{n}\\right\\}$ is strictly decreasing.",
+        "topic": "Monotonic sequences",
+        "page_number": 49
+    },
+    {
+        "id": "rec_17",
+        "type": "Definition",
+        "content": "A sequence $\\{a_n\\}$ is said to be monotonic or a monotone sequence, if it is either increasing or decreasing.",
+        "topic": "Monotonic sequences",
+        "page_number": 49
+    },
+    {
+        "id": "rec_18",
+        "type": "Example",
+        "content": "Show that $\\left\\{\\frac{(-1)^n}{n}\\right\\}$ is not monotonic.\n**Solution**\nIt suffices to list the first few terms of the sequence.\nThe terms $-1, \\frac{1}{2}, -\\frac{1}{3}, \\frac{1}{4}, \\dots$ are neither in an increasing order nor in a decreasing order. Thus, $\\left\\{\\frac{(-1)^n}{n}\\right\\}$ is not monotonic.",
+        "topic": "Monotonic sequences",
+        "page_number": 49
+    },
+    {
+        "id": "rec_19",
+        "type": "Example",
+        "content": "Decide whether or not each of the following sequences is monotonic.\na $\\left\\{8-\\frac{1}{n}\\right\\}$\nb $\\left\\{8+\\frac{1}{n}\\right\\}$\nc $\\left\\{1-\\frac{(-1)^n}{n}\\right\\}$\n**Solution**\na In $\\left\\{8-\\frac{1}{n}\\right\\}$, since $\\left\\{-\\frac{1}{n}\\right\\}$ is increasing to $0$, $\\left\\{8-\\frac{1}{n}\\right\\}$ is increasing to $8$.\nHence, it is monotonic.\nb $\\left\\{\\frac{1}{n}\\right\\}$ is a decreasing sequence; it is decreasing to $0$. Hence $\\left\\{8+\\frac{1}{n}\\right\\}$ decreases to $8$.\nHence, it is monotonic.\nc You can write the terms of the sequence as:\n$1+\\frac{1}{n}$, if $n$ is odd; $\\rightarrow 2, \\frac{4}{3}, \\frac{6}{5}, \\dots$\n$1-\\frac{1}{n}$, if $n$ is even; $\\rightarrow \\frac{1}{2}, \\frac{3}{4}, \\frac{5}{6}, \\dots$\nThis shows that $\\left\\{1-\\frac{(-1)^n}{n}\\right\\}$ is not monotonic.",
+        "topic": "Monotonic sequences",
+        "page_number": 49
+    },
+    {
+        "id": "rec_20",
+        "type": "Example",
+        "content": "Example 12 Evaluate $\\lim_{x \\to 2} \\frac{x^2-1}{x^3-8}$.\nSolution: The provided solution in the text appears to be for a different problem, specifically $\\lim_{x \\to 2} \\frac{x}{x^3-8}$. The steps shown are:\n$\\lim_{x \\to 2} \\frac{x}{x^3-8} = -\\lim_{x \\to 2} \\frac{1}{x(x^2+2x+4)} = -\\frac{1}{24}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 66
+    },
+    {
+        "id": "rec_21",
+        "type": "Example",
+        "content": "Example 13 Let $f(x) = \\sqrt{2-x}$. Simplify the expression $\\frac{f(x)-f(1)}{x-1}$ and evaluate $\\lim_{x \\to 1} \\frac{f(x)-f(1)}{x-1}$.\nSolution:\nWe have $f(1) = \\sqrt{2-1} = 1$.\n$\\lim_{x \\to 1} \\frac{f(x)-f(1)}{x-1} = \\lim_{x \\to 1} \\frac{\\sqrt{2-x}-1}{x-1}$\n$= \\lim_{x \\to 1} \\frac{(\\sqrt{2-x}-1)(\\sqrt{2-x}+1)}{(x-1)(\\sqrt{2-x}+1)}$\n$= \\lim_{x \\to 1} \\frac{(2-x)-1}{(x-1)(\\sqrt{2-x}+1)}$\n$= \\lim_{x \\to 1} \\frac{1-x}{(x-1)(\\sqrt{2-x}+1)}$\n$= \\lim_{x \\to 1} \\frac{-(x-1)}{(x-1)(\\sqrt{2-x}+1)}$\n$= \\lim_{x \\to 1} \\frac{-1}{\\sqrt{2-x}+1}$\n$= -\\frac{1}{\\sqrt{2-1}+1} = -\\frac{1}{1+1} = -\\frac{1}{2}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 66
+    },
+    {
+        "id": "rec_22",
+        "type": "Example",
+        "content": "Example 14 If $\\lim_{x \\to x_0}(f(x)+g(x))$ exists, do the limit $\\lim_{x \\to x_0} f(x)$ and $\\lim_{x \\to x_0} g(x)$ exist?\nSolution: Take, for example, $f(x) = \\frac{1}{x-1}$ and $g(x) = \\frac{2}{1-x^2}$.\nDo $\\lim_{x \\to 1} f(x)$ and $\\lim_{x \\to 1} g(x)$ exist? Evaluate $\\lim_{x \\to 1} (f+g)(x)$.\n$\\lim_{x \\to 1} f(x)$ does not exist (as it approaches $\\pm\\infty$).\n$\\lim_{x \\to 1} g(x)$ does not exist (as it approaches $\\pm\\infty$).\nBut $\\lim_{x \\to 1} (f(x)+g(x)) = \\lim_{x \\to 1} \\left( \\frac{1}{x-1} + \\frac{2}{1-x^2} \\right)$\n$= \\lim_{x \\to 1} \\left( \\frac{1}{x-1} - \\frac{2}{x^2-1} \\right)$\n$= \\lim_{x \\to 1} \\left( \\frac{1}{x-1} - \\frac{2}{(x-1)(x+1)} \\right)$\n$= \\lim_{x \\to 1} \\frac{x+1-2}{(x-1)(x+1)}$\n$= \\lim_{x \\to 1} \\frac{x-1}{(x-1)(x+1)}$\n$= \\lim_{x \\to 1} \\frac{1}{x+1} = \\frac{1}{1+1} = \\frac{1}{2}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 66
+    },
+    {
+        "id": "rec_23",
+        "type": "Example",
+        "content": "Example 15 Find $\\lim_{x \\to 4} \\frac{x-4}{\\sqrt{x}-2}$.\nSolution:\n$\\lim_{x \\to 4} \\frac{x-4}{\\sqrt{x}-2} = \\lim_{x \\to 4} \\frac{(\\sqrt{x}-2)(\\sqrt{x}+2)}{\\sqrt{x}-2}$\n$= \\lim_{x \\to 4} (\\sqrt{x}+2)$\n$= \\sqrt{4}+2 = 2+2 = 4$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 66
+    },
+    {
+        "id": "rec_24",
+        "type": "Example",
+        "content": "Example 16 Let $f(x) = \\sqrt{x}$. Find $\\lim_{h \\to 0} \\frac{f(4+h)-f(4)}{h}$.\nSolution:\n$\\lim_{h \\to 0} \\frac{f(4+h)-f(4)}{h} = \\lim_{h \\to 0} \\frac{\\sqrt{4+h}-\\sqrt{4}}{h}$\n$= \\lim_{h \\to 0} \\frac{\\sqrt{4+h}-2}{h}$\n$= \\lim_{h \\to 0} \\left[ \\frac{\\sqrt{4+h}-2}{h} \\cdot \\frac{\\sqrt{4+h}+2}{\\sqrt{4+h}+2} \\right]$\n$= \\lim_{h \\to 0} \\frac{(4+h)-4}{h(\\sqrt{4+h}+2)}$\n$= \\lim_{h \\to 0} \\frac{h}{h(\\sqrt{4+h}+2)}$\n$= \\lim_{h \\to 0} \\frac{1}{\\sqrt{4+h}+2}$\n$= \\frac{1}{\\sqrt{4+0}+2} = \\frac{1}{2+2} = \\frac{1}{4}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 66
+    },
+    {
+        "id": "rec_25",
+        "type": "Example",
+        "content": "Example 17 Evaluate $\\lim_{x \\to 1} \\sqrt{x^3+x^2-6x+5}$.\nSolution:\nFor $x$ near $1$, the expression inside the square root is $x^3 + x^2 - 6x + 5$.\nLet's evaluate $x^3 + x^2 - 6x + 5$ at $x=1$: $1^3 + 1^2 - 6(1) + 5 = 1+1-6+5 = 1$.\nSince the function inside the square root is continuous, we can take the limit inside the square root:\n$\\lim_{x \\to 1} \\sqrt{x^3+x^2-6x+5} = \\sqrt{\\lim_{x \\to 1} (x^3+x^2-6x+5)}$\n$= \\sqrt{1^3+1^2-6(1)+5} = \\sqrt{1} = 1$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 67
+    },
+    {
+        "id": "rec_26",
+        "type": "Example",
+        "content": "Example 18 Find $\\lim_{x \\to 0} \\frac{\\sqrt{5-x}-\\sqrt{5}}{x}$.\nSolution:\n$\\lim_{x \\to 0} \\frac{\\sqrt{5-x}-\\sqrt{5}}{x} = \\lim_{x \\to 0} \\frac{(\\sqrt{5-x}-\\sqrt{5})(\\sqrt{5-x}+\\sqrt{5})}{x(\\sqrt{5-x}+\\sqrt{5})}$\n$= \\lim_{x \\to 0} \\frac{(5-x)-5}{x(\\sqrt{5-x}+\\sqrt{5})}$\n$= \\lim_{x \\to 0} \\frac{-x}{x(\\sqrt{5-x}+\\sqrt{5})}$\n$= -\\lim_{x \\to 0} \\frac{1}{\\sqrt{5-x}+\\sqrt{5}}$\n$= -\\frac{1}{\\sqrt{5-0}+\\sqrt{5}} = -\\frac{1}{\\sqrt{5}+\\sqrt{5}} = -\\frac{1}{2\\sqrt{5}}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 67
+    },
+    {
+        "id": "rec_27",
+        "type": "Example",
+        "content": "Example 19 Find $\\lim_{x \\to 7} \\frac{\\frac{1}{x+7} - \\frac{1}{14}}{x-7}$.\nSolution:\nFirst, combine the fractions in the numerator:\n$\\frac{1}{x+7} - \\frac{1}{14} = \\frac{14 - (x+7)}{14(x+7)} = \\frac{14-x-7}{14(x+7)} = \\frac{7-x}{14(x+7)}$.\nNow substitute this back into the limit expression:\n$\\lim_{x \\to 7} \\frac{\\frac{7-x}{14(x+7)}}{x-7} = \\lim_{x \\to 7} \\frac{7-x}{14(x+7)(x-7)}$\n$= \\lim_{x \\to 7} \\frac{-(x-7)}{14(x+7)(x-7)}$\n$= \\lim_{x \\to 7} \\frac{-1}{14(x+7)}$\n$= -\\frac{1}{14(7+7)} = -\\frac{1}{14 \\cdot 14} = -\\frac{1}{196}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 67
+    },
+    {
+        "id": "rec_28",
+        "type": "Example",
+        "content": "Example 20 Evaluate $\\lim_{x \\to -3} \\frac{1+\\sqrt{4+x}-2}{x+3}$.\nSolution:\nFirst, simplify the numerator: $1+\\sqrt{4+x}-2 = \\sqrt{4+x}-1$.\nSo the expression becomes $\\frac{\\sqrt{4+x}-1}{x+3}$.\nNow, multiply the numerator and denominator by the conjugate of the numerator:\n$\\frac{\\sqrt{4+x}-1}{x+3} = \\frac{(\\sqrt{4+x}-1)(\\sqrt{4+x}+1)}{(x+3)(\\sqrt{4+x}+1)}$\n$= \\frac{(4+x)-1}{(x+3)(\\sqrt{4+x}+1)}$\n$= \\frac{x+3}{(x+3)(\\sqrt{4+x}+1)}$\n$= \\frac{1}{\\sqrt{4+x}+1}$.\nNow, evaluate the limit:\n$\\lim_{x \\to -3} \\frac{1}{\\sqrt{4+x}+1} = \\frac{1}{\\sqrt{4+(-3)}+1} = \\frac{1}{\\sqrt{1}+1} = \\frac{1}{1+1} = \\frac{1}{2}$.\nThe original text states the final answer as $\\frac{2}{8}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 67
+    },
+    {
+        "id": "rec_29",
+        "type": "Definition",
+        "content": "Let f be a function and L be a real number.\nIf f (x) gets closer to L as x increases without bound, then L is said to be the limit of f (x) as x approaches to infinity.\nThis statement is expressed symbolically by $\\lim_{x\\to\\infty} f(x) = L$.",
+        "topic": "Limits at infinity",
+        "page_number": 69
+    },
+    {
+        "id": "rec_30",
+        "type": "Example",
+        "content": "Evaluate $\\lim_{x\\to\\infty} \\frac{3x^2-5x+4}{2x^2+4}$\nSolution You apply the technique which are used in evaluating limits of number sequences. i.e. divide the numerator and denominator by $x^2$ (the highest power monomial).\n$$\\lim_{x\\to\\infty} \\left( \\frac{3x^2-5x+4}{2x^2+4} \\right) = \\lim_{x\\to\\infty} \\left( \\frac{\\frac{3x^2}{x^2}-\\frac{5x}{x^2}+\\frac{4}{x^2}}{\\frac{2x^2}{x^2}+\\frac{4}{x^2}} \\right)$$\n$$= \\lim_{x\\to\\infty} \\left( \\frac{3- \\frac{5}{x} + \\frac{4}{x^2}}{2+ \\frac{4}{x^2}} \\right) = \\frac{3-0+0}{2+0} = \\frac{3}{2}$$",
+        "topic": "Limits at infinity",
+        "page_number": 69
+    },
+    {
+        "id": "rec_31",
+        "type": "Example",
+        "content": "Evaluate $\\lim_{x\\to\\infty}\\left(\\frac{1-3x}{6x+5} + \\frac{2x+1}{x^2+7x+1}\\right)$\nSolution\n$$\\lim_{x\\to\\infty}\\left(\\frac{1-3x}{6x+5} + \\frac{2x+1}{x^2+7x+1}\\right) = \\lim_{x\\to\\infty}\\left(\\frac{1-3x}{6x+5}\\right) + \\lim_{x\\to\\infty}\\left(\\frac{2x+1}{x^2+7x+1}\\right)$$\n$$= \\lim_{x\\to\\infty}\\left(\\frac{\\frac{1}{x}-3}{6+\\frac{5}{x}}\\right) + \\lim_{x\\to\\infty}\\left(\\frac{\\frac{2}{x}+\\frac{1}{x^2}}{1+\\frac{7}{x}+\\frac{1}{x^2}}\\right)$$\n$$= \\frac{0-3}{6+0} + \\frac{0+0}{1+0+0} = -\\frac{3}{6} + 0 = -\\frac{1}{2}$$",
+        "topic": "Limits at infinity",
+        "page_number": 69
+    },
+    {
+        "id": "rec_32",
+        "type": "Definition",
+        "content": "1 Right Hand Limit\nLet f be defined on some open interval (a, c). Suppose f (x) approaches a number L as x approaches a from the right, then L is said to be the right hand limit of f at x = a.\nThis is abbreviated as: $\\lim_{x\\to a^+} f(x) = L$",
+        "topic": "One side limits",
+        "page_number": 71
+    },
+    {
+        "id": "rec_33",
+        "type": "Definition",
+        "content": "2 Left Hand Limit\nLet f be defined on some open interval (c, b). Suppose f (x) approaches a number L as x approaches b from the left. Then L is said to be the left hand limit of f at x = b.\nThis is abbreviated by $\\lim_{x\\to b^-} f(x) = L$",
+        "topic": "One side limits",
+        "page_number": 71
+    },
+    {
+        "id": "rec_34",
+        "type": "Example",
+        "content": "Let $f(x) = \\sqrt{x-4}$. Find $\\lim_{x\\to4^+} f(x)$.\nSolution $\\lim_{x\\to4^+} \\sqrt{x-4} = 0$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 72
+    },
+    {
+        "id": "rec_35",
+        "type": "Example",
+        "content": "Evaluate\na $\\lim_{x\\to3^+} \\sqrt{9-x^2}$ b $\\lim_{x\\to3^-} \\sqrt{9-x^2}$\nc $\\lim_{x\\to-3^+} \\sqrt{9-x^2}$ d $\\lim_{x\\to-3^-} \\sqrt{9-x^2}$\nSolution Look at the following orders:\n$3^- < 3 < 3^+$ and $-3^- < -3 < -3^+$\n$(3^-)^2 = 9^-$ and $(3^+)^2 = 9^+$\n$(-3^-)^2 = 9^+$ and $(-3^+)^2 = 9^-$\nAs $x \\to 3^+$, $9 - x^2 \\to 0^-$ and, as $x \\to 3^-$, $9 - x^2 \\to 0^+$\nTherefore,\na $\\lim_{x\\to3^+} \\sqrt{9-x^2}$ doesn't exist b $\\lim_{x\\to3^-} \\sqrt{9-x^2} = 0$\nc $\\lim_{x\\to-3^+} \\sqrt{9-x^2} = 0$ d $\\lim_{x\\to-3^-} \\sqrt{9-x^2}$ doesn\u2019t exist.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 72
+    },
+    {
+        "id": "rec_36",
+        "type": "Example",
+        "content": "Evaluate\na $\\lim_{x\\to2^-} \\frac{3x-1}{x-2}$ b $\\lim_{x\\to-2^+} \\frac{4x-3}{x+2}$\nSolution Let us investigate these limits graphically.\nLet $f(x)=\\frac{3x-1}{x-2}$ and $g(x)=\\frac{4x-3}{x+2}$.\na $\\lim_{x\\to2^-} f(x)=-\\infty$ b $\\lim_{x\\to-2^+} g(x)=-\\infty$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 72
+    },
+    {
+        "id": "rec_37",
+        "type": "Definition",
+        "content": "Let $f$ be a function defined on an open interval about $a$, except possibly at $a$ itself.\nThen, $\\lim_{x\\to a} f(x)$ exists, if both $\\lim_{x\\to a^+} f(x)$ and $\\lim_{x\\to a^-} f(x)$ exist and are equal: That is,\n$\\lim_{x\\to a} f(x)$ exists, if $\\lim_{x\\to a^+} f(x)= \\lim_{x\\to a^-} f(x)$.\nIn this case, $\\lim_{x\\to a} f(x)= \\lim_{x\\to a^+} f(x)= \\lim_{x\\to a^-} f(x)$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 72
+    },
+    {
+        "id": "rec_38",
+        "type": "Example",
+        "content": "Evaluate each of the following limits.\na $\\lim_{x\\to2^-} \\frac{1}{4-x^2}$ b $\\lim_{x\\to2^+} \\frac{1}{4-x^2}$ c $\\lim_{x\\to-2^+} \\frac{1}{4-x^2}$ d $\\lim_{x\\to-2^-} \\frac{1}{4-x^2}$\nSolution Sketch the graph of $f(x)=\\frac{1}{4-x^2}$ in order to determine each limit at the same time.\nIf you try to substitute $x = 2$, the denominator equals $0$.\na $\\lim_{x\\to2^-} \\frac{1}{4-x^2} = \\infty$. The graph is going up indefinitely to $\\infty$.\nb $\\lim_{x\\to2^+} \\frac{1}{4-x^2} = -\\infty$.The graph is going indefinitely down to $-\\infty$.\nc $\\lim_{x\\to-2^+} \\frac{1}{4-x^2} = \\infty$\nd $\\lim_{x\\to-2^-} \\frac{1}{4-x^2} = -\\infty$\nRecall that the lines $x = 2$ and $x = -2$ are vertical asymptotes of the rational function $f(x) = \\frac{1}{4-x^2}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 73
+    },
+    {
+        "id": "rec_39",
+        "type": "Definition",
+        "content": "The vertical line $x = a$ is a vertical asymptote to the graph of $y = f(x)$, if one of the following is true.\n1 $\\lim_{x\\to a^-} f(x)=\\infty$\n2 $\\lim_{x\\to a^+} f(x)=\\infty$\n3 $\\lim_{x\\to a^-} f(x)=-\\infty$\n4 $\\lim_{x\\to a^+} f(x)=-\\infty$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 73
+    },
+    {
+        "id": "rec_40",
+        "type": "Definition",
+        "content": "A function $f$ is said to be continuous at $x_o$, if\ni) $x_o \\in D_f$ (domain of $f$)\nii) $\\lim_{x \\to x_o} f(x)$ exists\niii) $\\lim_{x \\to x_o} f(x) = f(x_o)$",
+        "topic": "2.3.1 Continuity of a Function at a Point",
+        "page_number": 77
+    },
+    {
+        "id": "rec_41",
+        "type": "Definition",
+        "content": "A function $f$ is said to be discontinuous at $x_o$, if $f$ is defined on an open interval containing $x_o$ (except possibly at $x_o$) and $f$ is not continuous at $x_o$.",
+        "topic": "2.3.1 Continuity of a Function at a Point",
+        "page_number": 77
+    },
+    {
+        "id": "rec_42",
+        "type": "Example",
+        "content": "Let $f(x)=\\frac{x}{x}$. Is $f$ continuous at $x = -3$?, $x = 0$? and $x = 1$?\n**Solution**\n$f(x) = \\frac{x}{x} \\Rightarrow f(x) = \\begin{cases} 1, & \\text{if } x>0 \\\\ -1, & \\text{if } x<0 \\\\ \\text{undefined}, & \\text{if } x=0 \\end{cases}$",
+        "topic": "2.3.1 Continuity of a Function at a Point",
+        "page_number": 77
+    },
+    {
+        "id": "rec_43",
+        "type": "Example",
+        "content": "Let $f (x) = \\frac{x^2}{x}$. Is $f$ continuous at $x = 0$?\n**Solution**\n$$f(x) = \\frac{x^2}{x} = \\begin{cases} x, & \\text{if } x>0 \\\\ \\exists, & \\text{if } x=0 \\\\ -x, & \\text{if } x<0 \\end{cases}$$\n$f(0)$ is undefined. But $\\lim_{x\\to0} f(x) = 0$.\n$\\Rightarrow f$ is not continuous at $x = 0$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 78
+    },
+    {
+        "id": "rec_44",
+        "type": "Example",
+        "content": "Find out the condition that makes $f(x) = \\frac{1}{x-3}$ discontinuous at $x = 3$?\n**Solution**\n$f$ is discontinuous at $x = 3$ because\ni) $f(3)$ is undefined\nii) $\\lim_{x\\to3^+} f(x) = \\infty$\n$\\lim_{x\\to3^-} f(x) = -\\infty$\n$\\Rightarrow \\lim_{x\\to3} f(x)$ doesn't exist.\nNote that $f$ is unbroken on the interval $(3, \\infty)$ and on $(-\\infty, 3)$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 78
+    },
+    {
+        "id": "rec_45",
+        "type": "Example",
+        "content": "Consider the piecewise defined function $f(x) = \\begin{cases} 0, & \\text{if } x\\in\\mathbb{Z} \\\\ 1, & \\text{if } x\\notin\\mathbb{Z} \\end{cases}$.\nIs $f$ continuous at $x = 1$? $x = \\frac{1}{2}$?\nDetermine the set of numbers at which $f$ is discontinuous.\n**Solution**\na) $\\lim_{x\\to1} f(x) = 1$ and $f(1) = 0$\n$\\Rightarrow f$ is discontinuous at $x = 1$\nb) $\\lim_{x\\to1/2} f(x) = 1$ and $f(\\frac{1}{2}) = 1$\n$\\Rightarrow f$ is continuous at $x = \\frac{1}{2}$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 78
+    },
+    {
+        "id": "rec_46",
+        "type": "Example",
+        "content": "Show that $f(x) = \\frac{x^2 - 3x + 2}{x-5}$ is continuous at $x = 3$.\n**Solution**\nWhat is the domain of $f$? Is $3$ in the domain of $f$?\n$f(3) = \\frac{3^2 - 3(3) + 2}{3-5} \\Rightarrow f(3) = -\\frac{2}{2}$.\nAlso, $\\lim_{x\\to3} \\frac{x^2-3x+2}{x-5} = -\\frac{2}{2}$\n$\\Rightarrow f$ is continuous at $x = 3$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 79
+    },
+    {
+        "id": "rec_47",
+        "type": "Definition",
+        "content": "(One side continuity)\nA function $f$ is continuous from the right at $x = a$ provided that $\\lim_{x\\to a^+} f(x) = f(a)$.\nA function $f$ is continuous from the left at $x = b$ provided that $\\lim_{x\\to b^-} f(x) = f(b)$.",
+        "topic": "2.3.2 Continuity of a function on an Interval",
+        "page_number": 80
+    },
+    {
+        "id": "rec_48",
+        "type": "Example",
+        "content": "Let $f(x) = \\sqrt{1-x^2}$; show that $f$ is continuous from the right at $x = -1$ and continuous from the left at $x = 1$.\n**Solution**\na) $\\lim_{x\\to-1^+} \\sqrt{1-x^2} = 0$ and $f(-1) = 0$\nb) $\\lim_{x\\to1^-} \\sqrt{1-x^2} = 0$ and $f(1) = 0$",
+        "topic": "2.3.2 Continuity of a function on an Interval",
+        "page_number": 80
+    },
+    {
+        "id": "rec_49",
+        "type": "Example",
+        "content": "Show that $g(x) = \\sqrt{1-3x}$ is continuous from the left at $x = \\frac{1}{3}$.\n**Solution**\nFrom the graph one can see that $\\lim_{x\\to(1/3)^-} g(x) = 0 = g(\\frac{1}{3})$",
+        "topic": "2.3.2 Continuity of a function on an Interval",
+        "page_number": 80
+    },
+    {
+        "id": "rec_50",
+        "type": "Example",
+        "content": "Determine the value of a so that the piecewise defined function\n$f(x)= \begin{cases}\nx+3, & \\text{if } x>2\n\\\nax-1, & \\text{if } x\\leq2\n\\end{cases}$\nis continuous on $(-\\infty, \\infty)$.\n**Solution**\nIf f is continuous on $(-\\infty, \\infty)$, then f must be continuous at $x = 2$.\n$\\Rightarrow \\lim_{x\\to2^+} f ( x )= f ( 2 ) \\Rightarrow \\lim_{x\\to2^+} ( x+3 )=a ( 2 )\u22121\\Rightarrow5=2a\u22121\\Rightarrow a=3$\n$\\Rightarrow f(x)= \\begin{cases}\nx+3, & \\text{if } x>2\n\\\n3x-1, & \\text{if } x\\leq2\n\\end{cases}$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 84
+    },
+    {
+        "id": "rec_51",
+        "type": "Example",
+        "content": "Let $f ( x )= \\begin{cases}\nax+b, & \\text{if } x\\leq-2\n\\\n2x+a, & \\text{if } -2<x\\leq3\n\\\nax^2-bx+4, & \\text{if } x>3\n\\end{cases}$\nIf f is a continuous function, find the values of a and b.\n**Solution**\nf should be continuous at $x = -2$ and $x = 3$ because f is a continuous\nfunction.\ni f is continuous at $x = -2$\n$\\Rightarrow \\lim_{x\\to-2^+}f(x)= f(-2)\\Rightarrow \\lim_{x\\to-2^+}(2\\times(-2)+a)=(a(-2)+b)\\Rightarrow -4+a=-2a+b$\n$\\Rightarrow 3a \u2013 b = 4 . . . . . . . . . . . . . . . . . . . equation (1)\nii f is continuous at $x = 3$\n$\\Rightarrow \\lim_{x\\to3^+}f(x)= f(3)\\Rightarrow\\lim_{x\\to3^+}(ax^2-bx+4)=2(3)+a$\n$\\Rightarrow 9a \u2013 3b + 4 = 6 + a$\n$\\Rightarrow 8a \u2013 3b = 2 . . . . . . . . . . . . . . . . . . equation (2)\nSolving the system of equations\n$\\begin{cases}\n3a-b=4\n\\\n8a-3b=2\n\\end{cases}$ gives $a = 10$ and $b = 26$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 84
+    },
+    {
+        "id": "rec_52",
+        "type": "Example",
+        "content": "Discuss the continuity of the function\n$f(x)= 3-\\sqrt{x^2-16}$\n**Solution**\nIn $\\sqrt{x^2-16}$, $x^2 -16 \\geq0\\Rightarrow x^2 \\geq16\\Rightarrow |x| \\geq 4$.\nIn $3-\\sqrt{x^2-16}$, $3-\\sqrt{x^2-16} \\geq0\\Rightarrow3\\geq \\sqrt{x^2-16} \\Rightarrow 25 \\geq x^2 \\Rightarrow |x| \\leq 5$.\nThus, $|x| \\geq 4$ and $|x| \\leq 5$\n$\\Rightarrow$ f is continuous on $[-5, -4]$ and $[4, 5]$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 84
+    },
+    {
+        "id": "rec_53",
+        "type": "Example",
+        "content": "A library that rents books allows its customers to keep a book up to\n5 days at a fee of Birr 10. Customers who keep a book more than\n5 days pay Birr 2 penalty plus Birr 1.25 per day for being late beyond the\nfirst 5 days. If c(x) represents the cost of keeping a book for x days,\ndiscuss the continuity of c on [0, 20].\n**Solution**\nWe first determine a formula for c(x). From\nthe given information, the fee for the first 5\ndays is Birr 10.\n$\\Rightarrow c (x) = 10$, if $0 < x \\leq 5$.\nFor $x > 5$, $c (x) = 10 + 2 + (x \u2013 5) (1.25)$. Explain!\n$= 1.25x + 5.75$\n$\\Rightarrow c(x)= \\begin{cases}\n10, & \\text{if } 0<x\\leq5\n\\\n1.25x+5.75, & \\text{if } x>5\n\\end{cases}$\nThe constant 10, and the polynomial $1.25x + 5.75$ are continuous on $(0, 5]$ and\n$(5, 20]$ respectively. Thus, c is continuous on $(0, 5]$ and $(5, 20]$.\nBut $\\lim_{x\\to5^+}c ( x )=1.25(5)+5.75=12$\n$\\lim_{x\\to5^-}c ( x )=10 \\Rightarrow \\lim_{x\\to5}c ( x )$ doesn't exist $\\Rightarrow$ c is not continuous at $x = 5$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 84
+    },
+    {
+        "id": "rec_54",
+        "type": "Theorem",
+        "content": "If f and g are continuous at $x = x_o$, then the following functions are continuous at $x = x_o$.\n1 $f + g$\n2 $f \u2013 g$\n3 $kg$, $k\\in\\mathbb{R}$\n4 $fg$\n5 $\\frac{f}{g}$, provided that $g (x_o) \\neq 0$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 85
+    },
+    {
+        "id": "rec_55",
+        "type": "Example",
+        "content": "Let $f (x) = x$, $g (x) = \\sin x$. Discuss the continuity of the combinations\nof f and g at $x = 0$.\n**Solution**\nf and g are continuous at $x = 0$. Hence, $f + g$, $f \u2013 g$, $kf$ and $fg$ are continuous\nat $x = 0$.\n$\\lim_{x\\to0} \\frac{f(x)}{g(x)} = \\lim_{x\\to0} \\frac{x}{\\sin x} = 1$\nBut, $(\\frac{f}{g})(0)$ is undefined. Hence, $\\frac{f}{g}$ is not continuous at $x = 0$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 85
+    },
+    {
+        "id": "rec_56",
+        "type": "Theorem",
+        "content": "If a function f is continuous at $x = x_o$ and the function g is continuous at $y = f (x_o)$,\nthen the composition function $g\\circ f$ is continuous at $x = x_o$.\ni.e., $\\lim_{x\\to x_o}g ( f ( x )) = \\lim_{y\\to f(x_o)} g ( y )=g ( f ( x_o )) =( g\\circ f )( x_o )$.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 86
+    },
+    {
+        "id": "rec_57",
+        "type": "Example",
+        "content": "Let $f (x) = x^2 - 3x + 2$ and $g (x) = x$.\nShow that $gof$ is continuous at $x = -1$.\n**Solution**\n$x = -1$, $f$ is continuous at $x = -1$. Explain!\n$f(-1) = (-1)^2 - 3(-1) + 2 = 1 + 3 + 2 = 6 \\Rightarrow g$ is continuous at $y = 6$.\nIn short, $\\lim_{x\\to-1} (gof)(x) = \\lim_{x\\to-1} (x^2 - 3x + 2) = \\lim_{x\\to-1} (x^2 - 3x + 2) = 6$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 87
+    },
+    {
+        "id": "rec_58",
+        "type": "Example",
+        "content": "Find the maximum and minimum values on the closed interval.\na $f (x) = 3x - 1$ on $[-2, 3]$.\nb $f (x) = -x^2 + 3x - 4$ on $[1, 5]$.\n**Solution**\nFor a: $-7 \\le f (x) \\le 8 \\quad \\forall x \\in [-2, 3]$\nThe maximum value is 8. The minimum value is $-7$.\nFor b: $-14 \\le f (x) \\le -1/4 \\quad \\forall x \\in [1, 5]$\nThe maximum value is $-1/4$. The minimum value is $-14$.",
+        "topic": "Maximum and minimum values of a continuous function on a closed interval",
+        "page_number": 87
+    },
+    {
+        "id": "rec_59",
+        "type": "Theorem",
+        "content": "The intermediate value theorem\nSuppose $f$ is a continuous function on the closed interval $[a, b]$ and $k$ is any real number with either $f (a) \\le k \\le f (b)$ or $f (b) \\le k \\le f (a)$, then there exists $c$ in $[a, b]$ such that $f (c) = k$.",
+        "topic": "The intermediate value theorem",
+        "page_number": 88
+    },
+    {
+        "id": "rec_60",
+        "type": "Example",
+        "content": "Show that $f (x) = x^3 + x + 1$ has a zero between $x = -1$ and $x = 0$.\n**Solution**\nUsing the intermediate value theorem, $k = 0$, $a = -1$, $b = 0$,\n$f (-1) = (-1)^3 - 1 + 1 = -1 < 0$.\n$f (0) = 0 + 0 + 1 = 1 \\Rightarrow f (-1) < 0 < f (0)$\n$\\Rightarrow \\exists c\\in [-1, 0]$ such that $f (c) = 0$.",
+        "topic": "The intermediate value theorem",
+        "page_number": 88
+    },
+    {
+        "id": "rec_61",
+        "type": "Example",
+        "content": "Show that the graph of $f(x) = x^5 - 2x^3 + x - 7$ crosses the line $y = 7.3$\n**Solution**\n$f (1) = 1 - 2 + 1 - 7 = -7$\n$f (2) = 32 - 16 + 2 - 7 = 11$\n$\\Rightarrow f (1) < 7.3 < f (2)$\n$\\Rightarrow$ The graph crosses the line $y = 7.3$",
+        "topic": "The intermediate value theorem",
+        "page_number": 88
+    },
+    {
+        "id": "rec_62",
+        "type": "Example",
+        "content": "Use the intermediate value theorem to locate the zeros of the function $f (x) = x^4 - x^3 - 5x^2 + 2x + 1$.\n**Solution**\nEvery polynomial function is continuous.\n$f (0) = 1 > 0$\n$f (1) = 1 - 1 - 5 + 2 + 1 = -2 < 0$\n$\\Rightarrow f$ has a zero between $x = 0$ and $x = 1$.\n$f (2) = 16 - 8 - 20 + 4 + 1 = -7 < 0$ and\n$f (3) = 81 - 27 - 45 + 6 + 1 = 16 > 0$\n$\\Rightarrow f$ has a zero between $x = 2$ and $x = 3$\n$f (-1) = 1 + 1 - 5 - 2 + 1 = -4 < 0$\n$\\Rightarrow f$ has a zero between $x = 0$ and $x = -1$\n$f (-2) = 16 + 8 - 20 - 4 + 1 = 1 > 0$\n$\\Rightarrow f$ has a zero between $x = -1$ and $x = -2$",
+        "topic": "The intermediate value theorem",
+        "page_number": 88
+    },
+    {
+        "id": "rec_63",
+        "type": "Example",
+        "content": "Approximate the real root of $f (x) = x^3 + x - 1$ with an error less than $\\frac{1}{16}$.\n**Solution**\nUsing a calculator, you can fill in the following table and get a number as required.\n\nOpposite sign Sign of $f$\nMid-point $c$\ninterval $(a, b)$ $f (a)$ $f (c)$ $f (b)$\n$(0, 1)$ $0.5$ $-$ $-$ $+$\n$(0.5, 1)$ $0.75$ $-$ $+$ $+$\n$(0.5, 0.75)$ $0.625$ $-$ $-$ $+$\n$(0.625, 0.75)$ $0.6875$ $-$ $+$ $+$\n$f (0.6875) = 0.012451172 < 0.0625 = \\frac{1}{16}$\n$\\Rightarrow 0.6875$ is a root of $f$ with an error less than $\\frac{1}{16}$",
+        "topic": "Approximating real zeros by bisection",
+        "page_number": 89
+    },
+    {
+        "id": "rec_64",
+        "type": "Example",
+        "content": "Use the bisection method to find an approximation of $\\sqrt[3]{7}$ with an error less than $\\frac{1}{20}$.\n**Solution**\nLet $x= \\sqrt[3]{7}$, then $x^3 = 7 \\Rightarrow x^3 - 7 = 0$. Define a function $f$ by\n$f (x) = x^3 - 7$, $f (1) = -6 < 0$ and $f (2) = 1 > 0$\n$\\Rightarrow f$ has a real root in $(1, 2)$.",
+        "topic": "Approximating real zeros by bisection",
+        "page_number": 89
+    },
+    {
+        "id": "rec_65",
+        "type": "Theorem",
+        "content": "Let $f$ be a continuous function on $[a, b]$. Then there are two numbers $x_1$ and $x_2$ in $[a, b]$ such that $f(x_1) \\le f(x) \\le f(x_2)$ $\\forall x \\in [a, b]$. $f(x_2)$ is the maximum value and $f(x_1)$ is the minimum value.",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 90
+    },
+    {
+        "id": "rec_66",
+        "type": "Theorem",
+        "content": "Theorem 2.7\n$$\\lim_{x\\to0} \\frac{\\sin x}{x} = 1\\text{, where } x \\text{ is in radians.}$$",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 93
+    },
+    {
+        "id": "rec_67",
+        "type": "Example",
+        "content": "Evaluate each of the following limits.\na) $\\lim_{x\\to0} \\frac{\\sin 3x}{x}$\nb) $\\lim_{x\\to\\infty} x\\sin\\left(\\frac{1}{x}\\right)$\nc) $\\lim_{x\\to\\infty} x^2\\sin\\left(\\frac{1}{x^2}\\right)$\nd) $\\lim_{x\\to0} \\frac{x}{\\sin x}$\n**Solution**\na) $\\lim_{x\\to0} \\frac{\\sin 3x}{x} = \\lim_{x\\to0} \\frac{3\\sin 3x}{3x} = 3\\lim_{x\\to0} \\frac{\\sin 3x}{3x} = 3$\nb) $\\lim_{x\\to\\infty} x\\sin\\left(\\frac{1}{x}\right) = \\lim_{x\\to\\infty} \\frac{\\sin\\left(\\frac{1}{x}\right)}{\\frac{1}{x}} = \\lim_{y\\to0}\\left(\\frac{\\sin y}{y}\right) = 1$, where $y=\\frac{1}{x}$\nc) $\\lim_{x\\to\\infty} x^2\\sin\\left(\\frac{1}{x^2}\right) = \\lim_{x\\to\\infty} \\frac{\\sin\\left(\\frac{1}{x^2}\right)}{\\frac{1}{x^2}} = \\lim_{y\\to0} \\left(\\frac{\\sin y}{y}\right) = 1$. Why?\nd) $\\lim_{x\\to0} \\frac{x}{\\sin x} = \\lim_{x\\to0} \\frac{1}{\\frac{\\sin x}{x}} = 1$. Why?",
+        "topic": "Unit 2 Introduction to Limits and Continuity",
+        "page_number": 93
+    },
+    {
+        "id": "rec_68",
+        "type": "Definition",
+        "content": "A number $L$ is the limit of a function $f$ at $x = a$, if and only if $f(x)$ approaches to $L$ as $x$ approaches $a$ but $f$ need not be defined at $a$. This is expressed by\n$$\\lim_{x\\to a} f(x) = L$$",
+        "topic": "Limit of a function",
+        "page_number": 99
+    },
+    {
+        "id": "rec_69",
+        "type": "Definition",
+        "content": "A number $L$ is said to be the right side limit of a function $f$ at $x = a$, if and only if $f(x)$ approaches to $L$ as $x$ approaches to $a$ from the right. This is expressed as:\n$$\\lim_{x\\to a^+} f(x) = L$$",
+        "topic": "One side limits",
+        "page_number": 99
+    },
+    {
+        "id": "rec_70",
+        "type": "Definition",
+        "content": "Likewise, we can define the left hand side limit and express it as:\n$$\\lim_{x\\to a^-} f(x) = L$$",
+        "topic": "One side limits",
+        "page_number": 99
+    },
+    {
+        "id": "rec_71",
+        "type": "Theorem",
+        "content": "$\\lim_{x \\to a} f(x) = L$, if and only if $\\lim_{x \\to a^+} f(x) = \\lim_{x \\to a^-} f(x) = L$.",
+        "topic": "One side limits",
+        "page_number": 99
+    },
+    {
+        "id": "rec_72",
+        "type": "Theorem",
+        "content": "If $\\lim_{x\\to a} f(x) = L$ and $\\lim_{x\\to a} g(x) = M$, then\ni $\\lim_{x\\to a} (f(x) \\pm g(x)) = L \\pm M$\nii $\\lim_{x\\to a} cf(x) = cL$ for a constant $c$.\niii $\\lim_{x\\to a} (f(x) \\cdot g(x)) = LM$\niv $\\lim_{x\\to a} \\frac{f(x)}{g(x)} = \\frac{L}{M}$ provided that $M \\neq 0$.",
+        "topic": "Basic limit theorems",
+        "page_number": 99
+    },
+    {
+        "id": "rec_73",
+        "type": "Definition",
+        "content": "A function $f$ is said to be continuous at $x = x_0$, if the following three conditions are met.\na $f(x_0)$ is defined\nb $\\lim_{x\\to x_0} f(x)$ exists\nc $\\lim_{x\\to x_0} f(x) = f(x_0)$",
+        "topic": "Continuity",
+        "page_number": 99
+    },
+    {
+        "id": "rec_74",
+        "type": "Definition",
+        "content": "A function is continuous on an open interval $(a, b)$, if it is continuous at each number in the interval.",
+        "topic": "Continuity",
+        "page_number": 99
+    },
+    {
+        "id": "rec_75",
+        "type": "Definition",
+        "content": "A function $f$ is continuous on a closed interval $[a, b]$, if it is continuous on $(a, b)$ and $\\lim_{x\\to a^+} f(x) = f(a)$ and $\\lim_{x\\to b^-} f(x) = f(b)$.",
+        "topic": "Continuity",
+        "page_number": 99
+    },
+    {
+        "id": "rec_76",
+        "type": "Definition",
+        "content": "A function $f$ is said to be continuous, if it is continuous on its entire domain.",
+        "topic": "Continuity",
+        "page_number": 99
+    },
+    {
+        "id": "rec_77",
+        "type": "Theorem",
+        "content": "If $f$ and $g$ are functions that are continuous at $x = x_0$ and $c$ is a real number, then the following functions are continuous at $x_0$.\ni scalar multiple: $cf$\nii sum and difference $f \\pm g$\niii product: $fg$\niv quotient: $\\frac{f}{g}$ provided that $g(x_0) \\neq 0$.",
+        "topic": "Properties of continuous functions",
+        "page_number": 99
+    },
+    {
+        "id": "rec_78",
+        "type": "Theorem",
+        "content": "If $g$ is continuous at $x = x_0$ and $f$ is continuous at $y = g(x_0)$, then the composite function given by $(f \\circ g)(x) = f(g(x))$ is continuous at $x = x_0$.",
+        "topic": "Continuity of composite functions",
+        "page_number": 100
+    },
+    {
+        "id": "rec_79",
+        "type": "Theorem",
+        "content": "If $f$ is continuous on $[a, b]$ and $k$ is any real number between $f(a)$ and $f(b)$, then there is at least one number $c$ between $a$ and $b$ such that $f(c) = k$.",
+        "topic": "Intermediate value theorem",
+        "page_number": 100
+    },
+    {
+        "id": "rec_80",
+        "type": "Theorem",
+        "content": "Let $f$ be a continuous function on the closed interval $[a, b]$. Then there exist two real numbers $x_1$ and $x_2$ in $[a, b]$ such that $f(x_2) \\leq f(x) \\leq f(x_1)$ for all $x \\in [a,b]$. In this case $f(x_2)$ is the minimum value of the function $f$ on $[a, b]$ and $f(x_1)$ is the maximum value of $f$ on $[a, b]$.",
+        "topic": "Extreme value theorem",
+        "page_number": 100
+    },
+    {
+        "id": "rec_81",
+        "type": "Theorem",
+        "content": "i $\\lim_{x\\to 0} \\frac{\\sin x}{x} = 1$\nii $\\lim_{x\\to \\pm\\infty} \\left(1 + \\frac{1}{x}\\right) = e$",
+        "topic": "Two important limits",
+        "page_number": 100
+    },
+    {
+        "id": "rec_82",
+        "type": "Definition",
+        "content": "The average speed for the whole journey is the constant speed that would be required to cover the total distance in the same time.",
+        "topic": "Average rate of change and instantaneous rates of change.",
+        "page_number": 105
+    },
+    {
+        "id": "rec_83",
+        "type": "Example",
+        "content": "Suppose a particle moves along a straight line from point O on that line. The position $d$ of the particle from point O at a given instant of time $t$ are shown below.\nt (seconds) 1 2 3 4 5\nposition (m) 1 4 9 16 25\na Draw a position - time graph.\nb Let A, B, C, D, E, and F be points on the graph when $t = 0, 1, 2, 3, 4, 5$ respectively.\nFind the gradients of the chords AB, BC, CD, DE and EF.\nc Find the average speeds over these intervals of time\ni $t = 0$ to $t = 1$\nii $t = 1$ to $t = 2$\niii $t = 2$ to $t = 3$\niv $t = 3$ to $t = 4$\nv $t = 4$ to $t = 5$\n**Solution**\nFrom the table, it is observed that different distances are covered in equal intervals of time. Thus the position - time graph is not a straight line.\n[Figure 3.1: Position-time graph representation, implicitly defining point A at $(0,0)$]\nChord        AB   BC   CD   DE   EF\nGradient     1    3    5    7    9\nAverage speed(m/s) 1    3    5    7    9",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 105
+    },
+    {
+        "id": "rec_84",
+        "type": "Example",
+        "content": "A particle moves along a straight line from a fixed-point O on that line. The position $d$ in metres of the particle from point O as a function of time $t$ in second is given by $d = (t + 2) (4 \u2013 t)$.\na Draw the position-time graph for the interval of time $t = 0$ to $t = 5$.\nb Using the graph, find the average speed of the particle over the intervals $t = 0$ to $t = 1$, $t = 1$ to $t = 2$, $t = 2$ to $t = 3$, $t = 3$ to $t = 4$, $t = 4$ to $t = 5$.\nc Find the time at which the speed is 0.\nd Approximate the gradient of the graph at $t = 2$.\n**Solution**\nt (s) 0 1 2 3 4 5\n$d = (t + 2) (4 \u2013 t)$ 8 9 8 5 0 -7\n[Figure 3.2: Position-time graph representation]\nb\ntime interval  0 to 1     1 to 2      2 to 3      3 to 4      4 to 5\n$t = a$ to $t = b$\nchord          AB         BC          CD          DE          EF\ngradient       $\\frac{9-8}{1}$     $\\frac{8-9}{1} = -1$  $\\frac{5-8}{1} = -3$  $\\frac{0-5}{1} = -5$  $\\frac{-7-0}{1} = -7$\nAverage speed  1 m/s      -1 m/s      -3 m/s      -5 m/s      -7 m/s\nc From the graph one can see that the gradient at B, when $t = 1$, is zero. i.e., the graph has a horizontal tangent line at $t = 1$.\nd There will be a very good approximation, if you consider very small intervals of time. Let $\\Delta t$ be the increase in time and $\\Delta d$ be the increase in distance.\nIf $t = 2 + \\Delta t$, then\n$\\Delta d = (2 + \\Delta t + 2) (4 \u2013 (2 + \\Delta t)) = (4 + \\Delta t) (2 \u2013 \\Delta t)$.\nSince at $t = 2, d = 8$,\nthe gradient at c is\n$$ \\frac{(4+\\Delta t)(2-\\Delta t)-8}{2+\\Delta t-2} $$\n$$ = \\frac{8 - 4\\Delta t + 2\\Delta t - (\\Delta t)^2 - 8}{\\Delta t} $$\n$$ = \\frac{-2\\Delta t - (\\Delta t)^2}{\\Delta t} $$\n$$ = \\frac{\\Delta t(-2 - \\Delta t)}{\\Delta t} $$\n$$ = -2 - \\Delta t $$\nAs $\\Delta t \\to 0$, $-2 - \\Delta t \\to -2$.\nThe gradient when $t = 2$ is $-2$.\n[Figures 3.3]\nBy a similar technique, we can find that the velocity, $v(t) = 2 - 2t$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 106
+    },
+    {
+        "id": "rec_85",
+        "type": "Definition",
+        "content": "A line which intersects a (continuous) graph in exactly two points is said to be a secant line.\nA line which touches a graph at exactly one point is said to be a tangent line at that point. The intersection point is said to be the point of tangency.\nThe slope of the graph of a function at a point $P$ is the slope of the tangent line at point $P$.",
+        "topic": "3.1.2 Graphical Definition of Derivative",
+        "page_number": 108
+    },
+    {
+        "id": "rec_86",
+        "type": "Example",
+        "content": "Consider the graph of $y = x^2$.\na Find the slope of the secant line passing through $(1, 1)$ and $(2, 4)$.\nb Find the slope of the tangent line at $(1, 1)$.\n**Solution**\na the slope of the secant line = $\\frac{4 - 1}{2 - 1} = 3$.\nThis is the average rate of change of $y$ on the interval $[1, 2]$.\nIn general, the average rate of change of a function $f$ on $[x_1, x_2]$, $x_1 < x_2$, is the slope (or gradient) of the secant line passing through the two points $(x_1, f(x_1))$ and $(x_2, f(x_2))$.\nSo average rate of change = $\\frac{f(x_2) - f(x_1)}{x_2 - x_1}$.\nLet $Q$ be another point on the graph of $y = x^2$ such that the increase in the $x$-coordinate in moving from $P$ to $Q$ is $\\delta x$.\nThen $Q$ has coordinates $(1 + \\delta x, (1 + \\delta x)^2)$.\nHence, the slope of the secant line is\n$$\\frac{(1 + \\delta x)^2 - 1}{1 + \\delta x - 1} = \\frac{1 + 2\\delta x + (\\delta x)^2 - 1}{\\delta x} = 2 + \\delta x$$\nNotice that the tangent line is the limit of the secant lines through $(1 + \\delta x, (1 + \\delta x)^2)$ as $\\delta x \\to 0$.\nThus, the slope of the tangent line at $(1, 1)$ is\n$$\\lim_{\\delta x \\to 0} (2 + \\delta x) = 2$$\nIn general, the instantaneous rate of change of $f(x)$ at $(x_0, f(x_0))$ is represented by the slope of the tangent line at $(x_0, f(x_0))$.",
+        "topic": "3.1.2 Graphical Definition of Derivative",
+        "page_number": 109
+    },
+    {
+        "id": "rec_87",
+        "type": "Example",
+        "content": "Find the equation of the line tangent to the graph of $f(x) = x^{1/3}$ at $x = 0$.\n**Solution**\nLook at the graph of $f$. It is continuous on $\\mathbb{R}$. So it is continuous at $0$.\nBut, $\\lim_{x\\to0} \\frac{x^{1/3} - 0}{x - 0} = \\infty$.\n$\\Rightarrow$ The line $x = 0$ (the y-axis) is tangent to the graph of $f$ at $(0, 0)$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 5
+    },
+    {
+        "id": "rec_88",
+        "type": "Definition",
+        "content": "Let $x_o$ be in the domain of a function $f$.\nIf $\\lim_{x\\to x_o} \\frac{f(x) - f(x_o)}{x - x_o}$ exists, then we call this limit the derivative of $f$ at $x_o$.",
+        "topic": "The derivative",
+        "page_number": 114
+    },
+    {
+        "id": "rec_89",
+        "type": "Notation",
+        "content": "The derivative of $f$ at $x_o$ is denoted by $f'(x_o)$, which is read as \u2018f prime of $x_o$\u2019.\nIf $f'(x_o)$ exists, then we say that $f$ has a derivative at $x_o$ or $f$ is differentiable at $x_o$.\nDifferentiation is the process of finding the derivative of a function.",
+        "topic": "The derivative",
+        "page_number": 114
+    },
+    {
+        "id": "rec_90",
+        "type": "Theorem",
+        "content": "Let $f$ be a function defined at $a$. If $f'(a)$ exists, then the graph of $f$ has a tangent line at $(a, f(a))$ and the equation of the tangent line is $y \u2013 f(a) = f'(a) (x \u2013 a)$.",
+        "topic": "The derivative",
+        "page_number": 114
+    },
+    {
+        "id": "rec_91",
+        "type": "Example",
+        "content": "Find the derivative of each of the following functions at the given number.\na $f(x) = 4x + 5$; $x_o = 2$\nb $f(x) = \\frac{1}{4}x^2 + x$; $x_o = -1$\nc $f(x) = x^3 \u2013 9x$; $x_o = \\frac{1}{3}$\nd $f(x) = \\sqrt{x}$; $x_o = 4$\n**Solution**\nUsing the Definition,\n$f'(x_o) = \\lim_{x\\to x_o} \\frac{f(x) - f(x_o)}{x - x_o}$, you obtain,\na $f'(2) = \\lim_{x\\to2} \\frac{(4x+5) - (4(2)+5)}{x-2} =\\lim_{x\\to2} \\frac{4x-8}{x-2} =\\lim_{x\\to2} \\frac{4(x-2)}{x-2} =4$.\nb $f'(-1) = \\lim_{x\\to -1} \\frac{\\frac{1}{4}x^2+x - (\\frac{1}{4}(-1)^2+(-1))}{x-(-1)} = \\lim_{x\\to -1} \\frac{\\frac{1}{4}x^2+x + \\frac{3}{4}}{x+1}$\n$= \\lim_{x\\to -1} \\frac{1}{4} \\frac{(x+3)(x+1)}{x+1} = \\frac{1}{4}\\lim_{x\\to -1} (x+3) = \\frac{1}{4}(-1+3) = \\frac{1}{2}$.\nc $f'(\\frac{1}{3}) = \\lim_{x\\to \\frac{1}{3}} \\frac{x^3-9x - ((\\frac{1}{3})^3-9(\\frac{1}{3}))}{x-\\frac{1}{3}}$\n$= \\lim_{x\\to\\frac{1}{3}} \\frac{(x^2+\\frac{1}{3}x-\\frac{80}{9})(x-\\frac{1}{3})}{x-\\frac{1}{3}}$\n$= (\\frac{1}{3})^2 + \\frac{1}{3}(\\frac{1}{3}) - \\frac{80}{9} = \\frac{1}{9} + \\frac{1}{9} - \\frac{80}{9} = \\frac{2}{9} - \\frac{80}{9} = -\\frac{78}{9} = -\\frac{26}{3}$.\nd $f'(4) = \\lim_{x\\to4} \\frac{\\sqrt{x}-2}{x-4} = \\lim_{x\\to4} \\frac{\\sqrt{x}-2}{(\\sqrt{x}-2)(\\sqrt{x}+2)} = \\lim_{x\\to4} \\frac{1}{\\sqrt{x}+2} = \\frac{1}{\\sqrt{4}+2} = \\frac{1}{2+2} = \\frac{1}{4}$.",
+        "topic": "The derivative",
+        "page_number": 114
+    },
+    {
+        "id": "rec_92",
+        "type": "Example",
+        "content": "Find the equation of the line tangent to the graph of $f(x) = x^2$ at\na $x = 1$, b $x = 0$, c $x = -5$\n**Solution**\n$f(x) = x^2 \\Rightarrow f'(x) = 2x$\na $f(1) = 1$ and $f'(1) = 2$\n$\\Rightarrow$ The equation of the tangent line is:\n$y \u2013 f(1) = f'(1) (x \u2013 1) \\Rightarrow y \u2013 1 = 2(x \u20131) \\Rightarrow y = 2x \u2013 1$\nb $y \u2013 f(0) = f'(0) (x \u2013 0) \\Rightarrow y = 0$\nc $y \u2013 f(-5) = f'(-5) (x \u2013 (-5))$\n$\\Rightarrow y \u2013 25 = -10 (x + 5) \\Rightarrow y = -10x \u2013 25$",
+        "topic": "The derivative",
+        "page_number": 114
+    },
+    {
+        "id": "rec_93",
+        "type": "Example",
+        "content": "Find the equations of the lines tangent to the graph of $f(x) = x^3 + 1$ at\na $x = -2$ b $x = -1$ c $x = 2$\n**Solution**\n$f'(a) = \\lim_{x\\to a} \\frac{f(x) - f(a)}{x - a} = \\lim_{x\\to a} \\frac{x^3+1 - (a^3+1)}{x - a} = \\lim_{x\\to a} \\frac{x^3-a^3}{x - a}$\n$= \\lim_{x\\to a} \\frac{(x-a)(x^2+ax+a^2)}{x - a} = \\lim_{x\\to a} (x^2+ax+a^2)$\n$= a^2 + a^2 + a^2 = 3a^2$\nTherefore,\na $f'(-2) = 3(-2)^2 = 12$\n$\\Rightarrow$ The equation of the line tangent to the graph of $f$ at $x = -2$ is\n$y \u2013 f(-2) = 12 (x \u2013 (-2))$\n$f(-2) = (-2)^3 + 1 = -8 + 1 = -7$\n$\\Rightarrow y \u2013 (-7) = 12 (x + 2) \\Rightarrow y = 12x + 17$\nb $f'(-1) = 3(-1)^2 = 3$\n$\\Rightarrow$ The equation of the line tangent to the graph of $f$ at $x = -1$ is\n$y \u2013 f(-1) = 3(x \u2013 (-1))$\n$f(-1) = (-1)^3 + 1 = 0$\n$\\Rightarrow y \u2013 0 = 3x + 3 \\Rightarrow y = 3x + 3$\nc $f'(2) = 3(2)^2 = 12$\n$f(2) = (2)^3 + 1 = 9$\nThe equation of the tangent line at $x = 2$ is\n$y \u2013 f(2) = 12 (x \u2013 2) \\Rightarrow y \u2013 9 = 12x \u2013 24$\n$\\Rightarrow y = 12x \u2013 15$",
+        "topic": "The derivative",
+        "page_number": 115
+    },
+    {
+        "id": "rec_94",
+        "type": "Example",
+        "content": "Let $f(x)= \\begin{cases} x^2, & \\text{if } x\\ge0 \\\\ x^3, & \\text{if } x<0 \\end{cases}$\nDetermine the equation of the line tangent to the graph of $f$ at $x = 0$.\n**Solution**\n$f'(0) = \\lim_{x\\to 0} \\frac{f(x) - f(0)}{x - 0} = \\lim_{x\\to 0} \\frac{f(x)}{x}$\nHere, we consider the one-side limits\n$f(0) = 0^2 = 0$\n$\\lim_{x\\to 0^+} \\frac{f(x)}{x} = \\lim_{x\\to 0^+} \\frac{x^2}{x} = \\lim_{x\\to 0^+} x = 0$\n$\\lim_{x\\to 0^-} \\frac{f(x)}{x} = \\lim_{x\\to 0^-} \\frac{x^3}{x} = \\lim_{x\\to 0^-} x^2 = 0$\n$\\Rightarrow$ The slope of the graph of $f$ at $0$ is $0$.\nThe equation of the tangent line is\n$y \u2013 f(0) = 0(x \u2013 0) \\Rightarrow y = 0$.",
+        "topic": "The derivative",
+        "page_number": 116
+    },
+    {
+        "id": "rec_95",
+        "type": "Example",
+        "content": "Let $f(x) = x^{-7}$, evaluate\na $f'(1)$\nb $f'\\left( -\\frac{1}{2} \\right)$\nc $f'(c)$\n**Solution**\nBy Corollary 3.1, $f'(x) = (x^{-7})' = -7(x^{-8})$. Hence,\na $f'(1) = -7(1)^{-8} = -7$\nb $f'\\left( -\\frac{1}{2} \\right) = -7\\left( -\\frac{1}{2} \\right)^{-8} = -7((-2)^8) = -7(256) = -1792$\nc $f'(c) = -7c^{-8}$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 123
+    },
+    {
+        "id": "rec_96",
+        "type": "Theorem",
+        "content": "Let $f(x) = cx^n$, then $f'(x) = cnx^{n-1}$; where $n$ is any non-zero integer.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 123
+    },
+    {
+        "id": "rec_97",
+        "type": "Example",
+        "content": "Find the derivative of each of the following functions:\na $f(x) = 4x^7$\nb $f(x) = -11x^6$\nc $f(x) = \\frac{6}{x^{10}}$\nd $f(x) = \\frac{-\\pi}{x^{13}}$\n**Solution**\nBy Corollary 3.2, we have\na $f'(x) = 4(x^7)' = 4(7x^6) = 28x^6$\nb $f'(x) = (-11x^6)' = -11(x^6)' = -11(6x^5) = -66x^5$\nc $f'(x) = \\left( \\frac{6}{x^{10}} \\right)' = 6(x^{-10})' = 6(-10x^{-11}) = -60x^{-11}$\nd $f'(x) = \\left( \\frac{-\\pi}{x^{13}} \\right)' = -\\pi(-13x^{-14}) = 13\\pi x^{-14}$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 123
+    },
+    {
+        "id": "rec_98",
+        "type": "Theorem",
+        "content": "Theorem 3.2 Derivatives of power functions\nLet $f(x) = x^r$; where $r$ is a real number. Then, $f'(x) = rx^{r-1}$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 123
+    },
+    {
+        "id": "rec_99",
+        "type": "Example",
+        "content": "Find the derivatives of each of the following functions\na $f(x) = x^{\\frac{1}{2}}$\nb $f(x) = x^{\\frac{3}{5}}$\nc $f(x) = x^{\\pi}$\nd $f(x) = x^{-4.05}$\ne $f(x) = x^2$\nf $f(x) = x^{e-3}$\n**Solution**\nBy using Theorem 3.2, we obtain,\na $f'(x) = \\frac{1}{2}x^{\\frac{1}{2}-1} = \\frac{1}{2}x^{-\\frac{1}{2}} = \\frac{1}{2\\sqrt{x}}$\nb $f'(x) = \\frac{3}{5}x^{\\frac{3}{5}-1} = \\frac{3}{5}x^{-\\frac{2}{5}} = \\frac{3}{5x^{\\frac{2}{5}}}$\nc $f'(x) = \\pi x^{\\pi-1}$\nd $f'(x) = -4.05x^{-4.05-1} = -4.05x^{-5.05}$\ne $f'(x) = 2x^{2-1} = 2x$\nf $f'(x) = (e-3)x^{e-3-1} = (e-3)x^{e-4}$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 123
+    },
+    {
+        "id": "rec_100",
+        "type": "Theorem",
+        "content": "Theorem 3.3 Derivatives of sine and cosine functions\n1 If $f(x) = \\sin x$, then $f'(x) = \\cos x$.\n2 If $f(x) = \\cos x$, then $f'(x) = -\\sin x$.",
+        "topic": "Derivatives of simple trigonometric functions",
+        "page_number": 124
+    },
+    {
+        "id": "rec_101",
+        "type": "Theorem",
+        "content": "Theorem 3.4 Derivatives of exponential functions\nIf $f(x) = a^x$; $a > 0$, then $f'(x) = a^x \\ln a$.\nIf $f(x) = e^x$, then $f'(x) = \\lim_{t \\to x} \\frac{e^t - e^x}{t - x}$.",
+        "topic": "Derivatives of exponential function",
+        "page_number": 125
+    },
+    {
+        "id": "rec_102",
+        "type": "Example",
+        "content": "Find the derivative of each of the following exponential functions.\na $f(x) = 4^x$\nb $f(x) = 5^x$\nc $f(x) = \\pi^x$\nd $f(x) = e^{x+3}$\ne $f(x) = 3^{ex}$\nf $f(x) = 2^{3x+5}$\n\n**Solution**\na $f(x) = 4^x \\Rightarrow f'(x) = 4^x \\ln 4$\nb $f(x) = 5^x \\Rightarrow f'(x) = 5^x \\ln 5$\nc $f(x) = \\pi^x \\Rightarrow f'(x) = \\pi^x \\ln\\pi$\nd $f(x) = e^{x+3} \\Rightarrow f(x) = e^3 \\cdot e^x \\Rightarrow f'(x) = e^3 e^x = e^{x+3}$\ne $f(x) = 3^{ex} \\Rightarrow f'(x) = 3^{ex} \\ln(3e) = \\frac{1}{e} 3^{ex} \\ln e = \\frac{1}{e} e^{3x}$\nf $f(x) = 2^{3x+5} \\Rightarrow f'(x) = 2^5 \\times 8^x \\ln 8$\n$\\Rightarrow f'(x) = 2^5 \\times 2^{3x} (3\\ln 2) \\Rightarrow f'(x) = 96 (2^{3x}) \\ln 2$.",
+        "topic": "Mathematics Grade 12",
+        "page_number": 126
+    },
+    {
+        "id": "rec_103",
+        "type": "Theorem",
+        "content": "**Theorem 3.5 Derivatives of logarithmic functions**\nIf $f(x) = \\ln x$, $x > 0$, then $f'(x) = \\frac{1}{x}$.\n\n**Proof:**\nLet $f(x) = \\ln x$.\n$\\Rightarrow f'(x)=\\lim_{h\\to 0} \\frac{f(x+h) - f(x)}{h} = \\lim_{h\\to 0} \\frac{\\ln(x+h) - \\ln x}{h} = \\lim_{h\\to 0} \\frac{\\ln\\left(\\frac{x+h}{x}\\right)}{h} = \\lim_{h\\to 0} \\frac{1}{h} \\ln\\left(1+\\frac{h}{x}\\right)$\n$\\Rightarrow \\lim_{h\\to 0} \\ln \\left(1+\\frac{h}{x}\\right)^{\\frac{1}{h}} = \\ln \\left( \\lim_{h\\to 0} \\left(1+\\frac{h}{x}\\right)^{\\frac{1}{h}} \\right) = \\ln \\left(e^{\\frac{1}{x}}\\right) = \\frac{1}{x}$.",
+        "topic": "Derivatives of logarithmic functions",
+        "page_number": 126
+    },
+    {
+        "id": "rec_104",
+        "type": "Theorem",
+        "content": "**Corollary 3.3**\nIf $f(x) = \\log_a x$, $x > 0$, $a > 0$ and $a \\neq 1$, then $f'(x) = \\frac{1}{x \\ln a}$.\n\n**Proof:**\n$f(x)=\\log_a x=\\frac{\\ln x}{\\ln a} \\Rightarrow f'(x)=\\frac{1}{\\ln a} (\\ln x)' = \\frac{1}{\\ln a} \\times \\frac{1}{x} = \\frac{1}{x \\ln a}$.",
+        "topic": "Derivatives of logarithmic functions",
+        "page_number": 126
+    },
+    {
+        "id": "rec_105",
+        "type": "Example",
+        "content": "Find the derivatives of each of the following logarithmic functions\na $f(x) = \\log_2 x$\nb $f(x) = \\log x$\nc $f(x) = \\log_{\\frac{1}{5}} x$\nd $f(x) = \\log (x^3)$\ne $f(x)=\\ln\\sqrt[5]{x}$\nf $f(x)=\\log_5 x^3$\n\n**Solution**\na $f(x) = \\log_2 x \\Rightarrow f'(x) = \\frac{1}{x \\ln 2}$\nb $f(x) = \\log x \\Rightarrow f'(x) = \\frac{1}{x \\ln 10}$\nc $f(x) = \\log_{\\frac{1}{5}} x \\Rightarrow f'(x)=\\frac{1}{x \\ln\\left(\\frac{1}{5}\\right)} = -\\frac{1}{x \\ln 5}$\nd $f(x) = \\log (x^3) \\Rightarrow f(x) = 3\\log x \\Rightarrow f'(x) = \\frac{3}{x\\ln 10}$\ne $f(x) = \\ln\\sqrt[5]{x} \\Rightarrow f(x) = \\frac{1}{5}\\ln x \\Rightarrow f'(x) = \\frac{1}{5x}$\nf $f(x) = \\log_5 x^3 \\Rightarrow f(x) = 3 \\log_5 x \\Rightarrow f'(x) = \\frac{3}{2x\\ln 5}$",
+        "topic": "Derivatives of logarithmic functions",
+        "page_number": 126
+    },
+    {
+        "id": "rec_106",
+        "type": "Theorem",
+        "content": "If $f$ is differentiable at $a$, then $f$ is continuous at $a$.\n**Proof:**\nSuppose $f$ is differentiable at $a$. Then, $f'(a) = \\lim_{x\\to a} \\frac{f(x) - f(a)}{x - a}$ exists.\nObserve that, for $x \\neq a$, $f(x) - f(a) = \\left( \\frac{f(x) - f(a)}{x - a} \\right) (x-a)$\nHence, $\\lim_{x\\to a}(f(x)-f(a))=\\lim_{x\\to a}\\left(\\frac{f(x)-f(a)}{x-a}\\right)(x-a)=\\lim_{x\\to a}\\frac{f(x)-f(a)}{x-a} \\cdot \\lim_{x\\to a}(x-a)$\n$= f'(a) \\times 0= 0$\n$\\Rightarrow \\lim_{x\\to a} (f(x)-f(a)) =0 \\Rightarrow \\lim_{x\\to a} f(x) - \\lim_{x\\to a} f(a) = 0$\n$\\Rightarrow \\lim_{x\\to a} f(x) = f(a) \\Rightarrow f$ is continuous at $a$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 129
+    },
+    {
+        "id": "rec_107",
+        "type": "Example",
+        "content": "Show that each of the following functions is continuous but not differentiable at the indicated numbers.\na $f (x) = |x|; x = 0$\nb $f (x) = |3x \u2212 1|; x = \\frac{1}{3}$\nc $f(x)= \\begin{cases}\\sin x, & \\text{if } x>0 \\\\ -x, & \\text{if } x\\leq 0 \\end{cases}$ at $x=0$\n**Solution**\na $\\lim_{x\\to 0^+} f(x)=\\lim_{x\\to 0}|x|=0= f(0)\\Rightarrow f$ is continuous at $(0, 0)$.\n$f'(0) =\\lim_{x\\to 0} \\frac{f(x)-f(0)}{x-0} = \\lim_{x\\to 0} \\frac{|x|}{x}$\nHere, we have $\\lim_{x\\to 0^+} \\frac{|x|}{x} = \\lim_{x\\to 0^+} \\frac{x}{x} = 1$.\nBut $\\lim_{x\\to 0^-} \\frac{|x|}{x} = \\lim_{x\\to 0^-} \\frac{-x}{x} = -1$\n$\\Rightarrow \\lim_{x\\to 0} \\frac{f(x)-f(0)}{x-0}$ doesn't exist.\nHence, $f$ is not differentiable at $x = 0$.\nb $f (x) = |3x \u2212 1|$\n$\\lim_{x\\to 1/3} f (x) = \\lim_{x\\to 1/3} |3x \u2212 1| = 0 = f \\left( \\frac{1}{3} \\right) \\Rightarrow f$ is continuous at $x = \\frac{1}{3}$\n$f' \\left( \\frac{1}{3} \\right) =\\lim_{x\\to 1/3} \\frac{f(x)-f \\left( \\frac{1}{3} \\right)}{x- \\frac{1}{3}} = \\lim_{x\\to 1/3} \\frac{|3x\u22121|}{x-\\frac{1}{3}}$\nHere, $\\lim_{x\\to (1/3)^+} \\frac{|3x\u22121|}{x-\\frac{1}{3}}=3$.\nBut $\\lim_{x\\to (1/3)^-} \\frac{-(3x\u22121)}{x-\\frac{1}{3}}=-3$.\n$\\Rightarrow f$ is not differentiable at $x = \\frac{1}{3}$.\nc $\\lim_{x\\to 0^+} f(x) = \\lim_{x\\to 0^+} \\sin x = 0$ and Also, $f (0) = 0$\nThus, $f$ is continuous at $x = 0$.\n$f'(x)= \\begin{cases}\\cos x, & \\text{if } x>0 \\\\ -1, & \\text{if } x<0 \\end{cases}$. But $f '(0)$ doesn't exist.\n$\\Rightarrow f$ is not differentiable at $x = 0$",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 129
+    },
+    {
+        "id": "rec_108",
+        "type": "Theorem",
+        "content": "If $f$ and $g$ are differentiable at $x_o$, then $f + g$ and $f \u2212 g$ are also differentiable at $x_o$, and their derivatives are given as follows:\n1. $(f + g)' (x_o) = f '(x_o) + g '(x_o)$. The sum rule.\n2. $(f \u2212 g)' (x_o) = f ' (x_o) \u2212 g '(x_o)$. The difference rule.\n**Proof:**\n1. $(f+g)'(x_o)= \\lim_{x\\to x_o} \\frac{(f+g)(x)-(f+g)(x_o)}{x-x_o}$\n$= \\lim_{x\\to x_o} \\frac{f(x)+g(x)-f(x_o)-g(x_o)}{x-x_o}$\n$= \\lim_{x\\to x_o} \\left(\\frac{f(x)-f(x_o)}{x-x_o} + \\frac{g(x)-g(x_o)}{x-x_o}\\right)$\n$= \\lim_{x\\to x_o} \\frac{f(x)-f(x_o)}{x-x_o} +\\lim_{x\\to x_o} \\frac{g(x)-g(x_o)}{x-x_o}$\n$= f' (x_o)+g' (x_o)$\n2. The proof follows a similar argument to 1 above.",
+        "topic": "3.3.1 Derivative of a Sum or Difference of Two Functions",
+        "page_number": 130
+    },
+    {
+        "id": "rec_109",
+        "type": "Example",
+        "content": "Let $f (x) = 4x^3 + \\sin x$. Evaluate\na $f '(0)$\nb $f '(\\frac{\\pi}{4})$\n**Solution** From the above Theorem we have,\n$f'(x) = (4x^3 + \\sin x)' = (4x^3)' + (\\sin x)' = 12x^2 + \\cos x$\na $f '(0) = 12 (0^2) + \\cos 0 = 1$\nb $f '(\\frac{\\pi}{4}) =12\\left(\\frac{\\pi}{4}\\right)^2 +\\cos\\left(\\frac{\\pi}{4}\\right) =12\\frac{\\pi^2}{16} + \\frac{\\sqrt{2}}{2} = \\frac{3\\pi^2}{4} + \\frac{\\sqrt{2}}{2} = \\frac{3\\pi^2 + 2\\sqrt{2}}{4}$",
+        "topic": "3.3.1 Derivative of a Sum or Difference of Two Functions",
+        "page_number": 130
+    },
+    {
+        "id": "rec_110",
+        "type": "Example",
+        "content": "Find the derivative of each of the following functions.\na $f (x) = \\sqrt{x} + 3^x$\nb $h (x) = x^3 + \\log_2 x$\nc $k(x) = e^x \u2212 \\cos x$\n**Solution**\na $f'(x) = (\\sqrt{x} + 3^x)' = (\\sqrt{x})' + (3^x)' = \\frac{1}{2\\sqrt{x}} + 3^x \\ln 3$.\nb $h'(x) = (x^3)' + (\\log_2 x)' = 3x^2 + \\frac{1}{x\\ln2}.$\nc $k'(x) = (e^x)' \u2212 (\\cos x)' = e^x \u2212 (-\\sin x) = e^x + \\sin x.$",
+        "topic": "3.3.1 Derivative of a Sum or Difference of Two Functions",
+        "page_number": 131
+    },
+    {
+        "id": "rec_111",
+        "type": "Example",
+        "content": "Example 15 In each of the following, find $\\frac{dy}{dx}$.\na. $y = \\frac{x^2}{3x + 1}$\nb. $y = \\frac{x^2 + 1}{x^3 + x - 1}$\nc. $y = \\frac{x^2 + 4}{\\cos x}$\nd. $y = \\frac{x + e^x}{2x + 1}$\ne. $y = \\frac{\\cos x}{1 - \\sin x}$\n\n**Solution** Applying the quotient rule,\na. $y = \\frac{x^2}{3x + 1} \\Rightarrow \\frac{dy}{dx} = \\frac{d}{dx} \\left( \\frac{x^2}{3x+1} \\right) = \\frac{(3x+1)\\frac{d}{dx}(x^2) - x^2\\frac{d}{dx}(3x+1)}{(3x+1)^2}$\n$= \\frac{(3x+1)(2x) - x^2(3)}{(3x+1)^2} = \\frac{6x^2 + 2x - 3x^2}{(3x+1)^2} = \\frac{3x^2 + 2x}{(3x+1)^2}$\n\nb. $y = \\frac{x^2 + 1}{x^3 + x - 1}$\n$\\Rightarrow \\frac{dy}{dx} = \\frac{d}{dx} \\left( \\frac{x^2+1}{x^3+x-1} \\right) = \\frac{(x^3+x-1)\\frac{d}{dx}(x^2+1) - (x^2+1)\\frac{d}{dx}(x^3+x-1)}{(x^3+x-1)^2}$\n$= \\frac{(x^3+x-1)(2x) - (x^2+1)(3x^2+1)}{(x^3+x-1)^2} = \\frac{2x^4+2x^2-2x - (3x^4+4x^2+1)}{(x^3+x-1)^2}$\n$= \\frac{-x^4 - 2x^2 - 2x - 1}{(x^3+x-1)^2}$\n\nc. $\\frac{d}{dx} \\left( \\frac{x^2+4}{\\cos x} \\right) = \\frac{\\cos x \\frac{d}{dx}(x^2+4) - (x^2+4)\\frac{d}{dx}(\\cos x)}{\\cos^2 x}$\n$= \\frac{\\cos x (2x) - (x^2+4)(-\\sin x)}{\\cos^2 x} = \\frac{2x \\cos x + (x^2+4) \\sin x}{\\cos^2 x}$\n\nd. $y = \\frac{x + e^x}{2x + 1}$\n$\\frac{dy}{dx} = \\frac{d}{dx} \\left( \\frac{x+e^x}{2x+1} \\right) = \\frac{(2x+1)\\frac{d}{dx}(x+e^x) - (x+e^x)\\frac{d}{dx}(2x+1)}{(2x+1)^2}$\n$= \\frac{(2x+1)(1+e^x) - (x+e^x)(2)}{(2x+1)^2} = \\frac{2x+2xe^x+1+e^x - 2x - 2e^x}{(2x+1)^2}$\n$= \\frac{2xe^x - e^x + 1}{(2x+1)^2}$\n\ne. $y = \\frac{\\cos x}{1 - \\sin x}$\n$\\frac{dy}{dx} = \\frac{d}{dx} \\left( \\frac{\\cos x}{1-\\sin x} \\right) = \\frac{(1-\\sin x)\\frac{d}{dx}(\\cos x) - \\cos x \\frac{d}{dx}(1-\\sin x)}{(1-\\sin x)^2}$\n$= \\frac{(1-\\sin x)(-\\sin x) - \\cos x (-\\cos x)}{(1-\\sin x)^2} = \\frac{-\\sin x + \\sin^2 x + \\cos^2 x}{(1-\\sin x)^2}$\n$= \\frac{-\\sin x + 1}{(1-\\sin x)^2} = \\frac{1 - \\sin x}{(1-\\sin x)^2} = \\frac{1}{1 - \\sin x}",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 138
+    },
+    {
+        "id": "rec_112",
+        "type": "Example",
+        "content": "For each of the following, find $\\frac{d^2y}{dx^2}$.\na. $y = x^4$\nb. $y = \\sqrt{x}$\nc. $y = \\frac{x}{x+1}$\nd. $y = \\frac{3}{\\sqrt{x-1}}$\ne. $y = \\sqrt{e^{4x+3}}$\nf. $y = e^{-x^2+2x+1}$\ng. $y = \\ln x$\nh. $y = \\frac{x+1}{x^2+1}$\ni. $y = \\frac{\\sin x}{\\sqrt{x}}$\nj. $y = \\frac{x}{\\sqrt{x^2+1}}$\nk. $y = \\frac{x^2}{x+\\ln x}$\nl. $y = \\ln\\left(\\frac{x}{\\cos x}\\right)$; $0 < x < \\frac{\\pi}{2}$\n\n**Solution**\na. $y = x^4 \\Rightarrow \\frac{dy}{dx} = 4x^3 \\Rightarrow \\frac{d^2y}{dx^2} = \\frac{d}{dx}(4x^3) = 12x^2$.\nb. $y = \\sqrt{x} \\Rightarrow \\frac{dy}{dx} = \\frac{1}{2\\sqrt{x}} = \\frac{1}{2}x^{-\\frac{1}{2}}$.\n$\\Rightarrow \\frac{d^2y}{dx^2} = \\frac{d}{dx}\\left(\\frac{1}{2}x^{-\\frac{1}{2}}\\right) = -\\frac{1}{4}x^{-\\frac{3}{2}} = -\\frac{1}{4x\\sqrt{x}}$.\nc. $y = \\frac{x}{x+1} \\Rightarrow \\frac{dy}{dx} = \\frac{(x)'(x+1)-x(x+1)'}{(x+1)^2}$. Quotient Rule\n$= \\frac{x+1-x}{(x+1)^2} = \\frac{1}{(x+1)^2} = (x+1)^{-2}$.\n$\\Rightarrow \\frac{d^2y}{dx^2} = \\frac{d}{dx}((x+1)^{-2}) = -2(x+1)^{-3} = -\\frac{2}{(x+1)^3}$.\nd. $y = \\frac{3}{\\sqrt{x-1}} = 3(x-1)^{-\\frac{1}{2}} \\Rightarrow \\frac{dy}{dx} = 3 \\left( -\\frac{1}{2} \\right) (x-1)^{-\\frac{3}{2}} = -\\frac{3}{2}(x-1)^{-\\frac{3}{2}}$.\n$\\Rightarrow \\frac{d^2y}{dx^2} = \\frac{d}{dx}\\left( -\\frac{3}{2}(x-1)^{-\\frac{3}{2}} \\right) = -\\frac{3}{2}\\left( -\\frac{3}{2} \\right) (x-1)^{-\\frac{5}{2}}$.\n$= \\frac{9}{4} (x-1)^{-\\frac{5}{2}} = \\frac{9}{4(x-1)^2\\sqrt{x-1}}$.\ne. $y = \\sqrt{e^{4x+3}} \\Rightarrow \\frac{dy}{dx} = \\frac{1}{2\\sqrt{e^{4x+3}}} \\times e^{4x+3} \\times 4 = \\frac{2e^{4x+3}}{\\sqrt{e^{4x+3}}} = 2\\sqrt{e^{4x+3}}$.\nAlso, $y = e^{\\frac{4x+3}{2}}$.\n$\\Rightarrow \\frac{dy}{dx} = e^{\\frac{4x+3}{2}} \\times \\frac{d}{dx}\\left(\\frac{4x+3}{2}\\right) = e^{\\frac{4x+3}{2}} \\times 2 = 2e^{\\frac{4x+3}{2}} = 2\\sqrt{e^{4x+3}}$.\n$\\Rightarrow \\frac{d^2y}{dx^2} = \\frac{d}{dx}\\left(2e^{\\frac{4x+3}{2}}\\right) = 2e^{\\frac{4x+3}{2}} \\times \\frac{d}{dx}\\left(\\frac{4x+3}{2}\\right)$.\n$= 2e^{\\frac{4x+3}{2}} \\times 2 = 4e^{\\frac{4x+3}{2}} = 4\\sqrt{e^{4x+3}}$.\nf. $y = e^{-x^2+2x+1} \\Rightarrow \\frac{dy}{dx} = e^{-x^2+2x+1} \\frac{d}{dx}(-x^2+2x+1)$.\n$= e^{-x^2+2x+1}(-2x+2)$.\n$\\frac{d^2y}{dx^2} = \\left( e^{-x^2+2x+1}(-2x+2) \\right)' = \\left( e^{-x^2+2x+1} \\right)' (-2x+2) + e^{-x^2+2x+1} (-2x+2)'$.\n$= e^{-x^2+2x+1}(-2x+2)^2 + e^{-x^2+2x+1}(-2) = e^{-x^2+2x+1} (4x^2-8x+4-2)$.\n$= e^{-x^2+2x+1} (4x^2-8x+2)$.\ng. $y = \\ln x \\Rightarrow \\frac{dy}{dx} = \\frac{1}{x} \\Rightarrow \\frac{d^2y}{dx^2} = -\\frac{1}{x^2}$.\nh. $y = \\frac{x+1}{x^2+1} \\Rightarrow \\frac{dy}{dx} = \\frac{(x+1)'(x^2+1)-(x+1)(x^2+1)'}{(x^2+1)^2} = \\frac{1(x^2+1)-(x+1)(2x)}{(x^2+1)^2}$.\n$= \\frac{x^2+1-2x^2-2x}{(x^2+1)^2} = \\frac{1-x^2-2x}{(x^2+1)^2}$.\n$\\Rightarrow \\frac{d^2y}{dx^2} = \\frac{2x^3+6x^2-6x-2}{(x^2+1)^3}$.\ni. $y = \\frac{\\sin x}{\\sqrt{x}} \\Rightarrow \\frac{dy}{dx} = \\frac{(\\sin x)'\\sqrt{x}-\\sin x(\\sqrt{x})'}{(\\sqrt{x})^2} = \\frac{\\cos x \\sqrt{x}-\\sin x \\left(\\frac{1}{2\\sqrt{x}}\\right)}{x}$.\n$= \\frac{\\frac{2x\\cos x-\\sin x}{2\\sqrt{x}}}{x} = \\frac{2x\\cos x-\\sin x}{2x\\sqrt{x}}$.\n$\\frac{d^2y}{dx^2} = \\left(\\frac{2x\\cos x-\\sin x}{2x\\sqrt{x}}\\right)'$. This is written in the text as:\n$\\frac{d^2y}{dx^2} = \\left( \\frac{2x\\cos x-\\sin x}{2x^{3/2}} \\right)' = \\frac{1}{2} \\frac{(2x\\cos x-\\sin x)'x^{3/2} - (x^{3/2})'(2x\\cos x-\\sin x)}{(x^{3/2})^2}$.\n$= \\frac{1}{2} \\frac{(2\\cos x - 2x\\sin x - \\cos x)x^{3/2} - \\frac{3}{2}x^{1/2}(2x\\cos x-\\sin x)}{x^3}$.\n$= \\frac{(\\cos x-2x\\sin x)x^{3/2} - \\frac{3}{2}x^{1/2}(2x\\cos x-\\sin x)}{2x^3}$.\nj. $y = \\frac{x}{\\sqrt{x^2+1}} \\Rightarrow \\frac{dy}{dx} = \\frac{(x)'\\sqrt{x^2+1}-x(\\sqrt{x^2+1})'}{(\\sqrt{x^2+1})^2} = \\frac{1\\cdot\\sqrt{x^2+1}-x \\cdot \\frac{1}{2\\sqrt{x^2+1}} \\cdot 2x}{x^2+1}$.\n$= \\frac{\\sqrt{x^2+1}-\\frac{x^2}{\\sqrt{x^2+1}}}{x^2+1} = \\frac{\\frac{(x^2+1)-x^2}{\\sqrt{x^2+1}}}{x^2+1} = \\frac{1}{\\sqrt{x^2+1}(x^2+1)} = (x^2+1)^{-\\frac{3}{2}}$.\n$\\frac{d^2y}{dx^2} = \\frac{d}{dx}((x^2+1)^{-\\frac{3}{2}}) = -\\frac{3}{2}(x^2+1)^{-\\frac{5}{2}}(2x)$.\n$= -3x(x^2+1)^{-\\frac{5}{2}} = -\\frac{3x}{(x^2+1)^{5/2}} = -\\frac{3x}{(x^2+1)^2\\sqrt{x^2+1}}$.\nk. $y = \\frac{x^2}{x+\\ln x}$.\n$\\frac{dy}{dx} = \\frac{(x^2)'(x+\\ln x)-x^2(x+\\ln x)'}{(x+\\ln x)^2} = \\frac{2x(x+\\ln x)-x^2\\left(1+\\frac{1}{x}\\right)}{(x+\\ln x)^2}$.\n$= \\frac{2x^2+2x\\ln x-x^2-x}{(x+\\ln x)^2} = \\frac{x^2+2x\\ln x-x}{(x+\\ln x)^2}$.\n$\\frac{d^2y}{dx^2} = \\left(\\frac{x^2+2x\\ln x-x}{(x+\\ln x)^2}\\right)'$.\n$= \\frac{(x^2+2x\\ln x-x)'(x+\\ln x)^2-(x+\\ln x)^2'(x^2+2x\\ln x-x)}{(x+\\ln x)^4}$.\nNumerator:\n$(2x+2\\ln x+2x\\left(\\frac{1}{x}\\right)-1)(x+\\ln x)^2 - 2(x+\\ln x)\\left(1+\\frac{1}{x}\\right)(x^2+2x\\ln x-x)$.\nSo, after simplification (dividing by $(x+\\ln x)$):\n$= \\frac{(2x+2\\ln x+1)(x+\\ln x)-2\\left(1+\\frac{1}{x}\\right)(x^2+2x\\ln x-x)}{(x+\\ln x)^3}$.\nl. $y = \\ln \\left(\\frac{x}{\\cos x}\\right) = \\ln(x) - \\ln (\\cos x)$ because $0 < x < \\frac{\\pi}{2}$.\n$\\Rightarrow \\frac{dy}{dx} = \\frac{d}{dx}(\\ln x-\\ln(\\cos x)) = \\frac{1}{x} - \\frac{1}{\\cos x}(-\\sin x) = \\frac{1}{x} + \\tan x$.\n$\\frac{d^2y}{dx^2} = -\\frac{1}{x^2} + \\sec^2 x$.",
+        "topic": "Unit 3 Introduction to Differential Calculus",
+        "page_number": 150
+    },
+    {
+        "id": "rec_113",
+        "type": "Theorem",
+        "content": "Corollary 4.1\nIf $f'(x) = g'(x)$ for all $x$ on an interval $I$, then $f - g$ is a constant or $f(x) = g(x) + c$, ($c$ is arbitrary constant.)",
+        "topic": "Unit 4 Applications of Differential Calculus",
+        "page_number": 174
+    },
+    {
+        "id": "rec_114",
+        "type": "Definition",
+        "content": "Definition 4.4\nLet $f$ be a function on an interval $I$.\ni If for any $x_1, x_2$ in $I$, $x_1 < x_2$ implies $f(x_1) \\leq f(x_2)$,\n$f$ is said to be increasing on $I$.\nii If for any $x_1, x_2$ in $I$, $x_1 < x_2$ implies $f(x_1) \\geq f(x_2)$,\n$f$ is said to be decreasing on $I$.\niii If for any $x_1, x_2$ in $I$, $x_1 < x_2$ implies $f(x_1) < f(x_2)$,\n$f$ is said to be strictly increasing on $I$.\niv If for any $x_1, x_2$ in $I$, $x_1 < x_2$ implies $f(x_1) > f(x_2)$,\n$f$ is said to be strictly decreasing on $I$.",
+        "topic": "Increasing and decreasing functions",
+        "page_number": 175
+    },
+    {
+        "id": "rec_115",
+        "type": "Example",
+        "content": "Example 8 By looking at the graph of the above Activity 4.5, identify the intervals in which $f$ is increasing, decreasing, strictly increasing and strictly decreasing.\nSolution\ni On the intervals $[a, p]$ and $[r, b]$ $f$ is strictly increasing.\nii On the interval $[p, q]$ $f$ is strictly decreasing.\niii On the interval $[p, r]$ $f$ is decreasing (but not strictly)\niv On the interval $[q, b]$ $f$ is increasing. (but not strictly)",
+        "topic": "Increasing and decreasing functions",
+        "page_number": 175
+    },
+    {
+        "id": "rec_116",
+        "type": "Theorem",
+        "content": "Increasing and decreasing test\nSuppose that $f$ is continuous on an interval $I$ and differentiable in the interior of $I$.\ni If $f'(x) \\geq 0$ for all $x$ in the interior of $I$, then $f$ is increasing on $I$.\nii If $f'(x) \\leq 0$ for all $x$ in the interior of $I$, then $f$ is decreasing on $I$.\niii If $f'(x) > 0$ and $f'(x) = 0$ only for finite number of points on $I$, then $f$ is strictly increasing on $I$.\niv If $f'(x) < 0$ and $f'(x) = 0$ only for finite number of points on $I$, then $f$ is strictly decreasing on $I$.",
+        "topic": "Increasing and decreasing test",
+        "page_number": 177
+    },
+    {
+        "id": "rec_117",
+        "type": "Example",
+        "content": "Example 9 Find where the function $f(x) = 3x^4 - 4x^3 - 12x^2 + 5$ is increasing and where it is decreasing.\n**Solution**\n$f'(x) = 12x^3 - 12x^2 - 24x = 12x(x^2 - x - 2) = 12x(x - 2)(x + 1)$\nYou are going to find intervals in which $f'(x)$ is positive or negative. Use sign charts for this purpose, as follows:\n```\n        -1    0    2\n12x   - - - - - - 0 + + + + + + + + +\nx - 2 - - - - - - - - - - - - 0 + + +\nx + 1 - - - 0 + + + + + + + + + + + +\nf'(x) - - - 0 + + + 0 - - - - - - 0 + + +\n```\nFrom the sign chart one can see that\ni $f'(x) \\geq 0$ on $[-1, 0]$ and $[2, \\infty)$ and $f'(x) = 0$ only at $x = -1, 0$ and $x = 2$, thus $f$ is strictly increasing on $[-1, 0]$ and $[2, \\infty)$.\nii $f'(x) \\leq 0$ on $(-\\infty, -1]$ and $[0, 2]$ and $f'(x) = 0$ only at $x = -1, 0$ and $2$, thus $f$ is strictly decreasing on $(-\\infty, -1]$ and $[0, 2]$.",
+        "topic": "Increasing and decreasing test",
+        "page_number": 177
+    },
+    {
+        "id": "rec_118",
+        "type": "Theorem",
+        "content": "First derivative test for local extreme values of a function\nSuppose that $c$ is a critical number of a continuous function, then\na if $f'$ changes sign from positive to negative at $c$, then $f$ has a local maximum at $c$.\nb if $f'$ changes sign from negative to positive at $c$, then $f$ has a local minimum at $c$.\nc if $f'$ does not change sign at $c$ (that is, $f'$ is positive on both sides of $c$ or negative on both sides), then $f$ has neither local maximum nor minimum at $c$.",
+        "topic": "Local extreme values of a function on its entire domain",
+        "page_number": 178
+    },
+    {
+        "id": "rec_119",
+        "type": "Example",
+        "content": "Example 10 Find the local maximum and minimum values of the function:\n1 $f(x) = 3x^4 - 4x^3 - 12x^2 + 5$\n2 $g(x) = x + 2 \\sin x$ for $0 \\leq x \\leq 2\\pi$\n**Solution**\n1 $f'(x) = 12x^3 - 12x^2 - 24x = 12x(x^2 - x - 2) = 12x(x - 2)(x + 1)$\nFrom the sign chart in Example 9 one can see that $f'(x) \\leq 0$ on $(-\\infty, -1]$ and $[0, 2]$ and $f'(x) = 0$ only at $x = -1, 0$ and $2$.\nThus, $f$ is strictly decreasing on $(-\\infty, -1]$ and $[0, 2]$.\na $f'$ changes sign from negative to positive at $-1$ and $2$\nHence both $f(-1) = 0$ and $f(2) = -27$ are local minimum value.\nb $f'$ changes sign from positive to negative at $0$ and hence $f(0) = 5$ is the local maximum value.\n2 $g'(x) = 1 + 2 \\cos x$, $g'(x) = 0 \\Rightarrow \\cos x = -\\frac{1}{2} \\Rightarrow x = \\frac{2\\pi}{3}$ or $x = \\frac{4\\pi}{3}$ in $[0, 2\\pi]$",
+        "topic": "Local extreme values of a function on its entire domain",
+        "page_number": 178
+    },
+    {
+        "id": "rec_120",
+        "type": "Definition",
+        "content": "If the graph of a function lies above all of its tangents on an interval $I$, then it is called concave upward on $I$. If the graph of a function lies below all of its tangents on an interval $I$, then it is called concave downward on $I$.",
+        "topic": "Concavity and inflection points",
+        "page_number": 180
+    },
+    {
+        "id": "rec_121",
+        "type": "Example",
+        "content": "Consider the following graph.\n\nOn the intervals $(a, b)$, $(c, d)$, $(e, p)$ the graph is concave downward.\nOn the intervals $(b, c)$, $(d, e)$ and $(p, q)$ the graph is concave upward.",
+        "topic": "Concavity and inflection points",
+        "page_number": 180
+    },
+    {
+        "id": "rec_122",
+        "type": "Definition",
+        "content": "A point on a curve is called an inflection point, if the curve changes either from concave up to concave down or from concave down to concave up.",
+        "topic": "Concavity and inflection points",
+        "page_number": 180
+    },
+    {
+        "id": "rec_123",
+        "type": "Theorem",
+        "content": "Let $f$ be a function which is twice differentiable on an interval $I$, then\na If $f ''(x) > 0$ for all $x$ in $I$, the graph of $f$ is concave upward on $I$.\nb If $f ''(x) < 0$ for all $x$ in $I$, the graph of $f$ is concave downward on $I$.",
+        "topic": "Concavity and inflection points",
+        "page_number": 181
+    },
+    {
+        "id": "rec_124",
+        "type": "Theorem",
+        "content": "Suppose $f$ is twice differentiable and $f ''$ is continuous at $c$\na If $f '(c) = 0$ and $f ''(c) > 0$, then $f$ has a local minimum at $c$.\nb If $f '(c) = 0$ and $f ''(c) < 0$, then $f$ has a local maximum at $c$.",
+        "topic": "Concavity and inflection points",
+        "page_number": 181
+    },
+    {
+        "id": "rec_125",
+        "type": "Example",
+        "content": "Discus the behaviour of the curve $f (x) = x^4 - 4x^3$ with respect to concavity, points of inflection, local maximum and minimum.\n**Solution**\n$f'(x)=4x^3 -12x^2$\n$\\Rightarrow$\n$f'(x)=4x^2(x-3)$\nThus $f'(x)=0 \\Rightarrow 4x^2(x-3)=0 \\Rightarrow x=0$ or $x=3$\nNow\n$f''(x)=12x^2 -24x, f''(0)=0$ and $f''(3)=36>0$\nSince $f '(3) = 0$ and $f ''(3) = 36 > 0$, $f (3) = -27$ is a local minimum value by the second derivative test.\nSince $f ''(0) = 0$, the second derivative test gives no information about the critical number $0$. But since $f '(x) < 0$ for $x < 0$ and also for $0 < x < 3$, the first derivative test tells us that $f$ does not have a local extreme value at $0$.\nTo determine intervals of concavity and inflection points we use the following sign chart:\n$0 \\quad 2$\n$12x \\quad - - - - - - \\quad 0 \\quad + + + + + + + + +$\n$x - 2 \\quad - - - - - - - - - - - - \\quad 0 \\quad + + +$\n$f ''(x) \\quad + + + + + + \\quad 0 \\quad - - - - - - \\quad 0 \\quad + + +$",
+        "topic": "Concavity and inflection points",
+        "page_number": 181
+    },
+    {
+        "id": "rec_126",
+        "type": "Example",
+        "content": "Example 13 Discuss the behaviour of the curve $f(x)=x^{2/3}(6-x)^{1/3}$ with respect to a monotonicity b relative extreme values c inflection points and concavity.\nSolution $f'(x)=\\frac{4-x}{3x^{1/3}(6-x)^{2/3}}$\n$f'(x) = 0$ when $x = 4$ and $f'(x)$ does not exist when $x = 0$ or $x = 6$.\nHence, $0$, $4$ and $6$ are critical numbers.\nTo identify the extreme value and intervals of monotonicity you use the sign chart.\n(Sign chart for $f'(x)$ analysis):\nFrom the chart $f'(x) > 0$ on $(0, 4)$. Hence $f$ is strictly increasing on $[0, 4]$.\n$f'(x) < 0$ on $(-\\infty, 0)$, $(4, 6)$ and $(6, \\infty)$. Hence $f$ is strictly decreasing on $(-\\infty, 0]$ and $[4, \\infty)$.\n$f'$ changes sign from negative to positive at $0$ and hence $f(0) = 0$ is a local minimum value.\n$f'$ changes sign from positive to negative at $4$ and hence $f(4) = 2^{5/3}$ is a local maximum value.\nAt $x = 6$, $f'$ does not change sign and hence $f(6)$ is neither a local maximum value nor a local minimum value.\nNow to check concavity and inflection points we make use of the second derivative.\n$f''(x) = \\frac{-8}{x^{4/3}(6-x)^{5/3}}$\n$f''$ does not exist at $x = 0$ and $x = 6$\nTo determine concavity and inflection points consider the following chart.\n(Sign chart for $f''(x)$ analysis):\n$f''(x) > 0$ on $(6, \\infty)$. Hence the graph of $f$ is concave upward on $(6, \\infty)$.\n$f''(x) < 0$ on $(-\\infty, 0)$ and $(0, 6)$. Hence by the second derivative test the graph of $f$ is concave downward on $(-\\infty, 0)$ and $(0, 6)$.\n$f''$ changes sign at $x = 6$, and hence $(6, f(6)) = (6, 0)$ is an inflection point.",
+        "topic": "Unit 4 Applications of Differential Calculus",
+        "page_number": 183
+    },
+    {
+        "id": "rec_127",
+        "type": "Example",
+        "content": "Example 14 Sketch the graph of $f (x) = x^4 - 4x^3$.\nSolution\na $f(x) = x^4 - 4x^3$ is a polynomial function and hence it is defined for all real numbers.\nb y-intercept: it is the value of $f$ at $x = 0$.\nThus y-intercept = $f(0) = 0^4 - 4(0^3) = 0$.\nHence the graph crosses the y-axis at $(0, 0)$.\nc x-intercept: it is the zero of the function $f(x)$.\nWhich means $x^4 - 4x^3 = 0 \\Rightarrow x^3 (x - 4) = 0 \\Rightarrow x^3 = 0$ or $x - 4 = 0 \\Rightarrow x = 0$ or $x = 4$.\nTherefore, $x = 0$ and $x = 4$ are the x-intercepts.\nThat means the graph of $f$ crosses the x-axis at points $(0, 0)$ and $(4, 0)$.\nd Intervals of monotonicity and relative extreme values\nTo identify intervals in which $f$ is monotonic, you need to find the derivative of $f$ and find critical numbers.\n$f(x) = x^4 - 4x^3 \\Rightarrow f'(x) = 4x^3 - 12x^2$\n$f'(x) = 0 \\Rightarrow 4x^3 - 12x^2 = 0 \\Rightarrow 4x^2 (x - 3) = 0 \\Rightarrow 4x^2 = 0$ or $x - 3 = 0 \\Rightarrow x = 0$ or $x = 3$.\nHence $x = 0$ and $x = 3$ are critical numbers of $f$.\nTo identify intervals of monotonicity and extreme values you use the following sign chart.\n(Sign chart for $f'(x)$ analysis):\nIt can be seen from the chart that:\ni $f'(x) \\le 0$ for all $x$ in the interval $(-\\infty,3)$; thus $f$ is strictly decreasing on $(-\\infty, 3]$.\nii $f'(x) > 0$ for all $x$ in the interval $(3,\\infty)$; thus $f$ is strictly increasing on $[3, \\infty)$.\niii The sign of $f'$ changes only at a critical number $x = 3$, where it changes sign from negative to positive and hence by the first derivative test, $f(3) = -27$ is the relative minimum value of $f$.\ne Intervals of concavity and inflection points.\nTo identify intervals of concavity and inflection points, you make use of the second derivative;\n$f'(x) = 4x^3 - 12x^2 , f''(x) = 12x^2 - 24x , f''(x) = 0 \\Rightarrow 12x (x - 2) = 0 \\Rightarrow 12x = 0$ or $x - 2 = 0 \\Rightarrow x = 0$ or $x = 2$.",
+        "topic": "Curve sketching",
+        "page_number": 184
+    },
+    {
+        "id": "rec_128",
+        "type": "Definition",
+        "content": "The points at which concavity changes are called inflection points.",
+        "topic": "Unit 4 Applications of Differential Calculus",
+        "page_number": 186
+    },
+    {
+        "id": "rec_129",
+        "type": "Example",
+        "content": "Sketch the graph of $f(x)=\\frac{x}{x^2+1}$.\n**Solution**\na $f(x)=\\frac{x}{x^2+1}$ is defined for all real numbers.\nb y-intercept: it is the value of $f$ at $x = 0$.\nThus y-intercept $= f(0) = 0$.\nHence the graph crosses the y-axis at $(0, 0)$.\nc x-intercept: it is the zero of the function $f(x)$.\nWhich means $\\frac{x}{x^2+1} = 0 \\Rightarrow x = 0$.\nTherefore; $x = 0$ is the x-intercept.\nThat means the graph of $f$ crosses the x-axis only at $(0, 0)$.\nd Intervals of monotonicity and relative extreme values.\nTo identify intervals in which $f$ is monotonic you need to find the derivative of $f$ and find critical numbers.\n$$f'(x) = \\frac{1-x^2}{(x^2+1)^2}$$\n$$f'(x) = 0 \\Rightarrow \\frac{1-x^2}{(x^2+1)^2} = 0 \\Rightarrow \\frac{(1-x)(1+x)}{(x^2+1)^2} = 0$$\n$\\Rightarrow x = 1$ or $x = -1$.\nHence $x = 1$ and $x = -1$ are critical numbers of $f$.\nIt can be seen from the chart that:\ni $f'(x) < 0$ for all $x$ in the intervals $(-\\infty,-1)$ and $(1,\\infty)$; thus $f$ is strictly decreasing on $(-\\infty,-1]$ and $[1,\\infty)$.\nii $f'(x) > 0$ for all $x$ in the interval $(-1,1)$; thus $f$ is strictly increasing on $[-1, 1]$.\niii The sign of $f'$ changes at $x = -1$ and $x = 1$. It changes sign from negative to positive at $x = -1$ and hence by the first derivative test, $f(-1) = -\\frac{1}{2}$ is the relative minimum value of $f$. It also changes sign from positive to negative at $x = 1$ and hence by the first derivative test, $f(1) = \\frac{1}{2}$ is a relative maximum value of $f$.\ne Intervals of concavity and inflection points.\nTo identify intervals of concavity and inflection points, you make use of the second derivative;\n$$f''(x) = \\frac{2x(x^2-3)}{(x^2+1)^3}$$\n$$f''(x) = 0 \\Rightarrow \\frac{2x(x^2-3)}{(x^2+1)^3} = 0$$\n$\\Rightarrow x = 0$ or $x = \\sqrt{3}$ or $x = -\\sqrt{3}$.\nAs it can be seen from the sign chart\ni $f''(x) < 0$ for all $x$ in the intervals $(-\\infty, -\\sqrt{3})$ and $(0, \\sqrt{3})$; thus by the second derivative test the graph of $f$ is concave downward on $(-\\infty, -\\sqrt{3})$ and $(0, \\sqrt{3})$.\nii $f''(x) > 0$ on $(-\\sqrt{3},0)$ and $(\\sqrt{3},\\infty)$ and hence by the second derivative test, the graph of $f$ is concave upward on $(-\\sqrt{3},0)$ and $(\\sqrt{3},\\infty)$.\niii Inflection points of the graph of $f$ are: $(0, 0)$, $(-\\sqrt{3}, -\\frac{\\sqrt{3}}{4})$ and $(\\sqrt{3}, \\frac{\\sqrt{3}}{4})$.",
+        "topic": "Unit 4 Applications of Differential Calculus",
+        "page_number": 186
+    },
+    {
+        "id": "rec_130",
+        "type": "Definition",
+        "content": "The slope of the tangent line is the derivative of a function at the given point; this is regarded as the instantaneous rate of change:\n$$f'(c) = \\lim_{x\\rightarrow c} \\frac{f(x) - f(c)}{x - c} \\text{ instantaneous rate of change}$$",
+        "topic": "4.3 RATE OF CHANGE",
+        "page_number": 197
+    },
+    {
+        "id": "rec_131",
+        "type": "Definition",
+        "content": "But the slope of a secant line is determined by two points given on the line; this is regarded as the average rate of change:\n$$\\frac{f(b) - f(a)}{b - a} = \\text{ average rate of change}$$",
+        "topic": "4.3 RATE OF CHANGE",
+        "page_number": 197
+    },
+    {
+        "id": "rec_132",
+        "type": "Definition",
+        "content": "Integration is the reverse process of differentiation. It is the process of finding the function itself when its derivative is known.",
+        "topic": "INTRODUCTION",
+        "page_number": 208
+    },
+    {
+        "id": "rec_133",
+        "type": "Definition",
+        "content": "The indefinite integral or the anti derivative involves finding the function whose derivative is known.",
+        "topic": "INTRODUCTION",
+        "page_number": 208
+    },
+    {
+        "id": "rec_134",
+        "type": "Definition",
+        "content": "The definite integral, denoted by $\\int_a^b f(x)dx$ is informally defined to be the signed area of the region in the $xy$-plane bounded by the curve $y = f(x)$, the $x$-axis and the vertical lines $x = a$ and $x = b$.",
+        "topic": "INTRODUCTION",
+        "page_number": 208
+    },
+    {
+        "id": "rec_135",
+        "type": "Definition",
+        "content": "The process of finding $f(x)$ from its derivative $f'(x)$ is said to be anti differentiation or integration. $f(x)$ is said to be the anti derivative of $f'(x)$.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_136",
+        "type": "Definition",
+        "content": "The set of all anti derivatives of a function $f(x)$ is called the indefinite integral of $f(x)$. The indefinite integral of $f(x)$ is denoted by $\\int f(x)dx$ read as \u201cthe integral of $f(x)$ with respect to $x$\u201d.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_137",
+        "type": "Notation",
+        "content": "The symbol $\\int$ is said to be the integral sign.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_138",
+        "type": "Notation",
+        "content": "The function $f(x)$ is said to be the integrand of the integral.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_139",
+        "type": "Notation",
+        "content": "$dx$ denotes that the variable of integration is $x$.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_140",
+        "type": "Definition",
+        "content": "If a function has an integral, then it is said to be integrable.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_141",
+        "type": "Definition",
+        "content": "If $F'(x) = f(x)$, then $\\int f(x)dx=F(x)+c$",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_142",
+        "type": "Notation",
+        "content": "$\\int f(x)dx$ is read as, \u201cthe integral of $f(x)$ with respect to $x$\u201d.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_143",
+        "type": "Notation",
+        "content": "$c$ is said to be the constant of integration.",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_144",
+        "type": "Example",
+        "content": "$\\int x dx = \\frac{x^2}{2} + c$ Because $\\frac{d}{dx} \\left(\\frac{x^2}{2} +c\\right) = \\frac{2x}{2} +0= x$",
+        "topic": "5.1.1 The Concept of Indefinite Integral",
+        "page_number": 209
+    },
+    {
+        "id": "rec_145",
+        "type": "Theorem",
+        "content": "Thus, $\\int a^x dx = \\frac{a^x}{\\ln a} + c$; $a > 0$ and $a \\neq 1$.",
+        "topic": "Integration of exponential functions",
+        "page_number": 213
+    },
+    {
+        "id": "rec_146",
+        "type": "Theorem",
+        "content": "Note:\nIf $k$ is a constant, $\\int k a^x dx = k \\frac{a^x}{\\ln a} + c$ and $\\int a^{kx} dx = \\frac{a^{kx}}{k \\ln a} + c$",
+        "topic": "Integration of exponential functions",
+        "page_number": 213
+    },
+    {
+        "id": "rec_147",
+        "type": "Example",
+        "content": "Example 7 Integrate each of the following expressions with respect to x.\na $3e^x$\nb $e^{2x}$\nc $2^x$\nd $e^{-x}$\ne $5e^{1-2x}$\nf $3^{4+2x}$\ng $3e^{4+3x}$\nh $\\sqrt{e^x}$\n\n**Solution**\na $\\int 3e^x dx = 3e^x + c$\nb $\\int e^{2x} dx = \\frac{e^{2x}}{2} + c$\nc $\\int 2^x dx = \\frac{2^x}{\\ln 2} + c$\nd $\\int e^{-x} dx = \\int e^{(-1)x} dx = \\frac{e^{-x}}{-1} + c = -e^{-x} + c$\ne $\\int 5e^{1-2x} dx = \\int 5e \\times e^{-2x} dx = 5e\\left(\\frac{e^{-2x}}{-2}\\right) + c = \\frac{-5e^{1-2x}}{2} + c$\nf $\\int 3^{4+2x} dx = \\int 3^4 \\times 3^{2x} dx = \\int 81 \\times 9^x dx = \\frac{81 \\times 9^x}{\\ln 9} + c$\ng $\\int 3e^{4+3x} dx = \\int 3e^4 \\times e^{3x} dx = 3e^4 \\times \\frac{e^{3x}}{3} + c = e^{4+3x} + c$\nh $\\int \\sqrt{e^x} dx = \\int e^{\\frac{1}{2}x} dx = \\frac{e^{\\frac{1}{2}x}}{\\frac{1}{2}} + c = 2e^{\\frac{1}{2}x} + c = 2\\sqrt{e^x} + c",
+        "topic": "Integration of exponential functions",
+        "page_number": 213
+    },
+    {
+        "id": "rec_148",
+        "type": "Theorem",
+        "content": "Thus, $\\int \\frac{1}{x} dx = \\begin{cases} \\ln x + c, & \\text{if } x>0 \\\\ \\ln (-x) + c, & \\text{if } x<0 \\end{cases} \\Rightarrow \\int \\frac{1}{x} dx = \\ln |x| + c$",
+        "topic": "Integration of $1/x$",
+        "page_number": 214
+    },
+    {
+        "id": "rec_149",
+        "type": "Theorem",
+        "content": "Note:\nIf $k$ is a constant, then $\\int \\frac{k}{x} dx = k\\ln |x| + c$.",
+        "topic": "Integration of $1/x$",
+        "page_number": 214
+    },
+    {
+        "id": "rec_150",
+        "type": "Example",
+        "content": "Example 8 Evaluate\na $\\int \\frac{3}{x} dx$\nb $\\int \\frac{1}{2x} dx$\n\n**Solution**\na Using $\\int \\frac{k}{x} dx = k\\ln |x| + c$, you obtain $\\int \\frac{3}{x} dx = 3\\ln |x| + c$\nb $\\int \\frac{1}{2x} dx$, here $k = \\frac{1}{2}$\nHence, $\\int \\frac{1}{2x} dx = \\frac{1}{2} \\ln |x| + c = \\ln \\sqrt{|x|} + c$.",
+        "topic": "Integration of $1/x$",
+        "page_number": 214
+    },
+    {
+        "id": "rec_151",
+        "type": "Theorem",
+        "content": "$\\Rightarrow \\int \\frac{1}{ax+b} dx = \\frac{1}{a} \\ln |ax+b| + c$",
+        "topic": "Integration of $1/x$",
+        "page_number": 215
+    },
+    {
+        "id": "rec_152",
+        "type": "Example",
+        "content": "Example 9 Evaluate each of the following integrals.\na $\\int \\frac{1}{4x+1} dx$\nb $\\int \\frac{5}{2-3x} dx$\n\n**Solution**\na Using $\\int \\frac{1}{ax+b} dx = \\frac{\\ln |ax+b|}{a} + c$, you have\n$\\int \\frac{1}{4x+1} dx = \\frac{\\ln |4x+1|}{4} + c$\nb $\\int \\frac{5}{2-3x} dx = \\frac{5 \\ln |2-3x|}{-3} + c = -\\frac{5}{3} \\ln |2-3x| + c$.",
+        "topic": "Integration of $1/x$",
+        "page_number": 215
+    },
+    {
+        "id": "rec_153",
+        "type": "Notation",
+        "content": "Note that, $\\int \\frac{1}{x} dx = \\ln |x| + c = \\ln |x| + \\ln e^c = \\ln (|x| e^c) = \\ln (|x| A)$; $A = e^c$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 215
+    },
+    {
+        "id": "rec_154",
+        "type": "Example",
+        "content": "Example 12 $\\int\\cos(5x)dx = \\frac{1}{5}\\sin(5x)+c$\nbecause $\\frac{d}{dx} \\left(\\frac{1}{5} \\sin(5x)+c\\right) = \\frac{1}{5} \\frac{d}{dx} \\sin(5x) = \\frac{1}{5} \\times \\cos(5x) \\times 5 = \\cos(5x).$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 219
+    },
+    {
+        "id": "rec_155",
+        "type": "Example",
+        "content": "Example 13 $\\int\\sec^2(3x+7)dx = \\frac{1}{3}\\tan(3x+7)+c$\nbecause $\\frac{d}{dx} \\left(\\frac{1}{3} \\tan(3x+7)+c\\right) = \\frac{1}{3} \\frac{d}{dx} \\tan(3x+7) = \\frac{1}{3} \\sec^2(3x+7) \\times 3 = \\sec^2(3x+7).$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 219
+    },
+    {
+        "id": "rec_156",
+        "type": "Example",
+        "content": "Consider $\\int 2x (x^2 + 1)^5 dx$\nLet $u = x^2 + 1$, then $\\frac{du}{dx} = \\frac{d}{dx} (x^2 +1) = 2x \\Rightarrow du = 2xdx$\n$\\Rightarrow \\int 2x (x^2+1)^5 dx=\\int u^5du = \\frac{u^6}{6} +c$\nBut, $u = x^2 + 1$.\nThus, $\\int 2x (x^2 +1)^5 dx=\\frac{(x^2 +1)^6}{6} +c$\nIn this integration, you change the variable from x to u.",
+        "topic": "5.2.1 Integration by Substitution",
+        "page_number": 219
+    },
+    {
+        "id": "rec_157",
+        "type": "Example",
+        "content": "Example 1 Find $\\int x \\sqrt{x^2 +5} dx$\n**Solution**\nLet $u = x^2 + 5$, then $\\frac{du}{dx} = \\frac{d}{dx} (x^2 +5) = 2x\\Rightarrow \\frac{1}{2} du = x dx$\nHence, $\\int x \\sqrt{x^2+5} dx=\\int \\sqrt{x^2+5}x dx = \\int \\frac{1}{2} u^{1/2} du = \\frac{1}{2} \\frac{u^{3/2}}{3/2} +c= \\frac{1}{3} u^{3/2} +c = \\frac{1}{3} u\\sqrt{u} +c$\n$\\Rightarrow \\int x \\sqrt{x^2 +5} dx = \\frac{1}{3}(x^2 +5) \\sqrt{x^2 +5}+c$",
+        "topic": "5.2.1 Integration by Substitution",
+        "page_number": 220
+    },
+    {
+        "id": "rec_158",
+        "type": "Example",
+        "content": "Example 2 For each of the following expressions suggest the variable of substitution and integrate with respect to x.\na $x^2 (5x^3 \u2212 2)^9$\nb $\\cos x e^{\\sin x}$\nc $x e^{x^2}$\n**Solution**\na $\\int x^2 (5x^3\u22122)^9 dx$.\nHere, the factor of the integrand, $x^2$ is the derivative of $\\frac{1}{15}(5x^3\u22122)$.\nThus, $u = 5x^3 \u2212 2 \\Rightarrow \\frac{du}{dx} = \\frac{d}{dx} (5x^3 \u22122) = 15x^2$\n$\\Rightarrow \\frac{1}{15}du = x^2 dx\\Rightarrow\\int x^2 (5x^3 \u22122)^9 dx= \\frac{1}{15} \\int u^9du = \\frac{1}{15} \\left( \\frac{u^{10}}{10} \\right) +c$\n$\\Rightarrow \\int x^2 (5x^3 \u22122)^9 dx= \\frac{1}{150} (5x^3\u22122)^{10} +c$\n\nb $\\int\\cos x e^{\\sin x}dx$\nYou know that $\\frac{d}{dx} (\\sin x) = \\cos x$.\nHence, $u = \\sin x \\Rightarrow du=\\cos x dx$\n$\\Rightarrow\\int\\cos x e^{\\sin x}dx=\\int e^u du=e^u +c\\Rightarrow\\int\\cos x e^{\\sin x}dx=e^{\\sin x}+c$\n\nc $\\int x e^{x^2} dx$\n$u = x^2 \\Rightarrow \\frac{du}{dx} =2x\\Rightarrow \\frac{1}{2} du = x dx$\n$\\Rightarrow\\int x e^{x^2} dx= \\frac{1}{2} \\int e^u du= \\frac{1}{2} e^u +c\\Rightarrow\\int x e^{x^2}dx= \\frac{1}{2} e^{x^2} +c$\n\nAlso, observe that, $\\frac{d}{dx} (e^{x^2}) = 2x e^{x^2}$.\nHence, $u=e^{x^2} \\Rightarrow \\frac{du}{dx} =2x e^{x^2}$\n$\\Rightarrow \\frac{1}{2} du=x e^{x^2}dx\\Rightarrow\\int x e^{x^2}dx= \\frac{1}{2} \\int du= \\frac{1}{2} u+c$\n$\\Rightarrow\\int x e^{x^2}dx= \\frac{1}{2} e^{x^2} +c$",
+        "topic": "5.2.1 Integration by Substitution",
+        "page_number": 220
+    },
+    {
+        "id": "rec_159",
+        "type": "Example",
+        "content": "Example 3 Find $\\int (3x-2) \\sqrt{x+6} \\,dx$.\n**Solution**\nHere, $3x-2$ is not a constant times the derivative of $x+6$ or vice versa. But you can still use substitution as follows.\nLet $u = x+6 \\Rightarrow x = u-6 \\Rightarrow 3x-2 = 3(u-6) - 2 = 3u-18-2 = 3u-20$.\nAlso, $u = x+6 \\Rightarrow du = dx$.\nThus, $\\int (3x-2)\\sqrt{x+6} \\,dx = \\int (3u-20)\\sqrt{u} \\,du = \\int (3u^{3/2} - 20u^{1/2}) \\,du$.\n$$ = 3\\int u^{3/2} \\,du - 20\\int u^{1/2} \\,du $$\n$$ = 3\\left(\\frac{u^{5/2}}{5/2}\\right) - 20\\left(\\frac{u^{3/2}}{3/2}\\right) + C $$\n$$ = \\frac{6}{5}u^{5/2} - \\frac{40}{3}u^{3/2} + C $$\nSubstituting back $u = x+6$:\n$$ \\int (3x-2)\\sqrt{x+6} \\,dx = \\frac{6}{5}(x+6)^{5/2} - \\frac{40}{3}(x+6)^{3/2} + C $$",
+        "topic": "Integration by Substitution",
+        "page_number": 222
+    },
+    {
+        "id": "rec_160",
+        "type": "Example",
+        "content": "Example 4 Evaluate $\\int \\frac{3}{2x+1} \\,dx$.\n**Solution**\nLet $u = 2x+1 \\Rightarrow du = 2 \\,dx \\Rightarrow \\frac{1}{2}du = dx$.\nThus, $\\int \\frac{3}{2x+1} \\,dx = \\int 3 \\left(\\frac{1}{u}\\right) \\left(\\frac{1}{2}\\right) \\,du$.\n$$ = \\frac{3}{2} \\int \\frac{1}{u} \\,du $$\n$$ = \\frac{3}{2} \\ln|u| + C $$\nSubstituting back $u = 2x+1$:\n$$ \\int \\frac{3}{2x+1} \\,dx = \\frac{3}{2} \\ln|2x+1| + C $$",
+        "topic": "Integration by Substitution",
+        "page_number": 222
+    },
+    {
+        "id": "rec_161",
+        "type": "Example",
+        "content": "Evaluate $\\int_1^3 x^2\\log x\\,dx$\nSolution $\\int_1^{\\ln 3} x^2\\ln x\\,dx = \\left[\\frac{x^3}{3}\\ln x - \\frac{x^3}{9}\\right]_1^{\\ln 3} + c$. Why?",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 232
+    },
+    {
+        "id": "rec_162",
+        "type": "Example",
+        "content": "Find $\\int e^x\\sin x\\,dx$.\nSolution Choose $u = e^x$ and $dv = \\sin x$\nThen, $du = e^x dx$ and $v = \u2013 \\cos x$.\n$\\Rightarrow\\int e^x\\sin x\\,dx = -e^x\\cos x - \\int -\\cos x\\,e^x dx = -e^x\\cos x + \\int \\cos x\\,e^x dx$\n$\\int e^x\\cos x\\,dx$ has the same form as $\\int e^x\\sin x\\,dx$.\nHence you apply integration by parts for a second time.\n$u = e^x \\Rightarrow du = e^x dx$ and $dv = \\cos x \\Rightarrow v = \\sin x$\n$\\Rightarrow\\int \\cos x\\,e^x dx = e^x\\sin x - \\int \\sin x\\,e^x dx$\nBut\n$\\int e^x\\sin x\\,dx = -e^x\\cos x + \\int \\cos x\\,e^x dx = -e^x\\cos x + e^x\\sin x - \\int \\sin x\\,e^x dx$\nBy collecting like terms, you obtain\n$2\\int e^x\\sin x\\,dx = -e^x\\cos x + e^x\\sin x + c$\n$\\Rightarrow\\int e^x\\sin x\\,dx = \\frac{1}{2} e^x ( \\sin x - \\cos x ) + c$.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 232
+    },
+    {
+        "id": "rec_163",
+        "type": "Definition",
+        "content": "Let $x_0, x_1, x_2, \\ldots, x_n \\in [a, b]$ with $a = x_0 < x_1 < x_2 < \\ldots < x_n = b$. The finite set $P = \\{x_0, x_1, x_2, \\ldots, x_n\\}$ is said to be a partition of $[a, b]$.",
+        "topic": "5.3.1 The Area of a Region under a Curve",
+        "page_number": 234
+    },
+    {
+        "id": "rec_164",
+        "type": "Definition",
+        "content": "Definition 5.3\n1 The sum $\\sum_{k=1}^n f(z_k)\\Delta x$ is said to be the integral sum of the function $f$ in the interval $[a, b]$.\n2 If $\\lim_{n\\to\\infty} \\sum_{k=1}^n f(z_k)\\Delta x$ exists and is equal to $I$, then $I$ is said to be the definite integral of $f$ over the interval $[a, b]$ and is denoted by $I = \\int_a^b f(x)dx$. $a$ and $b$ are said to be the lower and upper limits of integration, respectively.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 236
+    },
+    {
+        "id": "rec_165",
+        "type": "Example",
+        "content": "Find the area of the region enclosed by the graph of $f(x) = x^2$ and the x-axis between the lines $x = 0$ and $x = 1$.\n**Solution**\nUsing the definition, calculate the area of the region as follows.\n$A=\\int_a^b f ( x ) dx\\Rightarrow\\int_a^b x^2dx=\\lim_{n\\to\\infty} \\sum_{k=1}^n f ( z_k )\\Delta x$\nWhere $\\Delta x=\\frac{1-0}{n}=\\frac{1}{n}$ and $z_k=\\frac{k-1}{n}\\Rightarrow f ( z_k )= \\left(\\frac{k-1}{n}\\right)^2$\n$\\Rightarrow \\sum_{k=1}^n f ( z_k )\\Delta x=\\sum_{k=1}^n \\left(\\frac{k-1}{n}\\right)^2\\left(\\frac{1}{n}\\right) = \\frac{1}{n^3} \\sum_{k=1}^n ( k-1 )^2$\n$= \\frac{1}{n^3} \\left[ 0+1^2+2^2 +3^2 + . . . + ( n-1 )^2\\right]$\n$= \\frac{1}{n^3} \\frac{(n-1)n(2n-1)}{6} = \\frac{1}{6n^3} \\left[2n^3 -3n^2 +n\\right]$\n$= \\frac{1}{3} - \\frac{1}{2n} + \\frac{1}{6n^2}$\n$\\Rightarrow A=\\int_a^b x^2dx=\\lim_{n\\to\\infty}\\left(\\frac{1}{3} - \\frac{1}{2n} + \\frac{1}{6n^2} \\right) = \\frac{1}{3}$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 236
+    },
+    {
+        "id": "rec_166",
+        "type": "Theorem",
+        "content": "Theorem 5.2 Estimate of the definite integral\nIf the function $f$ is continuous on $[a, b]$, then $\\lim_{i\\to\\infty} f(z_i)\\Delta x$ exists.\nThat is, the definite integral $\\int_a^b f(x) dx$ exists.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 237
+    },
+    {
+        "id": "rec_167",
+        "type": "Example",
+        "content": "Show that $\\int_0^{\\frac{\\pi}{2}}\\sin xdx$ exists.\n**Solution**\n$f (x) = \\sin x$ is continuous on $\\left[ 0, \\frac{\\pi}{2}\\right]$.\nThus, by the above theorem, the definite integral exists.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 237
+    },
+    {
+        "id": "rec_168",
+        "type": "Example",
+        "content": "Show that $\\int_{-1}^2 \\frac{1}{x} dx$ doesn\u2019t exist.\n**Solution**\n$f(x) = \\frac{1}{x}$ is discontinuous at $x = 0$. $\\Rightarrow f$ is not continuous on $[-1, 2]$ $\\Rightarrow \\int_{-1}^2 \\frac{1}{x} dx$ doesn\u2019t exist.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 238
+    },
+    {
+        "id": "rec_169",
+        "type": "Theorem",
+        "content": "If $f$ is continuous on the closed interval $[a, b]$ and $F$ is an anti derivative (or indefinite integral) of $f$. That is, $F'(x) = f(x)$ for all $x \\in [a, b]$, then $$\\int_a^b f(x)dx=F(b)\u2212F(a)$$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 238
+    },
+    {
+        "id": "rec_170",
+        "type": "Example",
+        "content": "Evaluate $\\int_1^4 xdx$\n**Solution**\nThis value is calculated using the definition of definite integrals.\nHere you use the fundamental theorem of calculus.\nThe indefinite integral, $F(x)=\\int xdx= \\frac{x^2}{2} +c\\Rightarrow \\int_1^4 xdx=F(4)\u2212F(1)= \\left( \\frac{4^2}{2} +c \\right) \u2212 \\left( \\frac{1^2}{2} +c \\right) = \\frac{15}{2}$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 239
+    },
+    {
+        "id": "rec_171",
+        "type": "Notation",
+        "content": "In evaluating $F(b) \u2212 F(a)$, the constant of integration cancels out. Therefore, you write $F(x) \\Big|_a^b$ to mean $F(b) \u2013 F(a)$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 239
+    },
+    {
+        "id": "rec_172",
+        "type": "Example",
+        "content": "Evaluate $\\int_1^3 (x^3+x+1) dx$\n**Solution**\n$\\int_1^3 (x^3+x+1) dx=\\left. \\left( \\frac{x^4}{4} + \\frac{x^2}{2} +x \\right) \\right|_1^3 = \\left( \\frac{3^4}{4} + \\frac{3^2}{2} +3 \\right) \u2212 \\left( \\frac{1}{4} + \\frac{1}{2} +1 \\right) = \\frac{81}{4} + \\frac{9}{2} +3\u2212 \\frac{1}{4} \u2212 \\frac{1}{2} \u22121= \\frac{80}{4} + \\frac{8}{2} +2=26$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 240
+    },
+    {
+        "id": "rec_173",
+        "type": "Example",
+        "content": "Evaluate $\\int_{\\pi/6}^{\\pi/3} \\sin xdx$\n**Solution**\n$\\int_{\\pi/6}^{\\pi/3} \\sin xdx=-\\cos x \\Big|_{\\pi/6}^{\\pi/3} =\u2212 \\left[ \\cos \\frac{\\pi}{3} \u2212 \\cos \\frac{\\pi}{6} \\right] =\u2212 \\left[ \\frac{1}{2} \u2212 \\frac{\\sqrt{3}}{2} \\right] = \\frac{\\sqrt{3}-1}{2}$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 240
+    },
+    {
+        "id": "rec_174",
+        "type": "Example",
+        "content": "Find the area of the region bounded by the arc of the sine function between $x = 0$ and $x = \\pi$.\n**Solution**\nThe area $A$ of this region identified to be the value of the definite integral $\\int_0^{\\pi} \\sin x dx$. $\\Rightarrow A=\\int_0^{\\pi} \\sin xdx=-\\cos x \\Big|_0^{\\pi}=\u2212 [ \\cos\\pi\u2212\\cos0 ] =\u2212 [ \u22121\u22121 ] =2$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 240
+    },
+    {
+        "id": "rec_175",
+        "type": "Example",
+        "content": "Evaluate $\\int_{-1}^0 e^x dx$\n**Solution**\n$\\int_{-1}^0 e^x dx= e^x \\Big|_{-1}^0 =e^0\u2212e^{-1} =1\u2212 \\frac{1}{e} = \\frac{e-1}{e}$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 240
+    },
+    {
+        "id": "rec_176",
+        "type": "Example",
+        "content": "Evaluate $\\int_1^e \\ln xdx$\n**Solution**\n$\\int_1^e \\ln xdx= \\left. x\\ln x\u2212x \\right|_1^e = e \\ln e \u2212e \u2212(1 \\times \\ln 1\u22121) = e \u2212e \u2212(0\u22121) = 1$",
+        "topic": "5.3.2 Fundamental Theorem of Calculus",
+        "page_number": 240
+    },
+    {
+        "id": "rec_177",
+        "type": "Example",
+        "content": "Example 12 Evaluate the integral $\\int_{-3}^1 x \\sqrt{2x^2+5} dx$.\nSolution Here, $u = g(x) = 2x^2 + 5$, $g(-3) = 2(-3)^2 + 5 = 23$, $g(1) = 2(1)^2 + 5 = 7$.\n$\\frac{du}{dx} = \\frac{d}{dx} (2x^2+5) = 4x \\Rightarrow du = 4x dx \\Rightarrow x dx = \\frac{1}{4} du$.\n$$\\int_{-3}^1 x \\sqrt{2x^2+5} dx = \\frac{1}{4} \\int_{23}^7 u^{1/2} du = \\frac{1}{4} \\left[ \\frac{u^{3/2}}{3/2} \\right]_{23}^7 = \\frac{1}{4} \\left[ \\frac{2}{3} u^{3/2} \\right]_{23}^7 = \\frac{1}{6} (7^{3/2} - 23^{3/2}).$$",
+        "topic": "Mathematics Grade 12",
+        "page_number": 244
+    },
+    {
+        "id": "rec_178",
+        "type": "Example",
+        "content": "Example 13 Evaluate $\\int_0^\\pi 3\\cos^3 x \\sin x dx$\nSolution The derivative of $\\cos x$ is $-\\sin x$ which is a factor of the integrand.\nHence, $u = g(x) = \\cos x$.\n$\\Rightarrow -du = \\sin x dx$.\n$$-\\int_{g(0)}^{g(\\frac{\\pi}{3})} u^3 du = -\\int_1^2 u^3 du = -\\left[ \\frac{u^4}{2} \\right]_1^2 = -\\left( \\frac{1}{64} - \\frac{1}{4} \\right) = \\frac{15}{64}.$$",
+        "topic": "Mathematics Grade 12",
+        "page_number": 244
+    },
+    {
+        "id": "rec_179",
+        "type": "Example",
+        "content": "Example 1 Find the area of the region bounded by the graph of the function $f(x) = x^2 - 3x + 2$ and the x-axis between $x = 0$ and $x = 3$.\nSolution Look at the graph of $f$ between $x = 0$ and $x = 3$.\nLet $A_1$, $A_2$ and $A_3$ be the areas of the parts of the region between $x = 0$ and $x = 1$, $x = 1$ and $x = 2$ and $x = 2$ and $x = 3$, respectively.\n$y = x^2 - 3x + 2$\nFigure 5.11\nThe part of the region between $x = 1$ and $x = 2$ is below the x-axis.\n$$\\Rightarrow A_2 = -\\int_1^2 (x^2 - 3x + 2) dx = -\\left[ \\frac{x^3}{3} - \\frac{3x^2}{2} + 2x \\right]_1^2 = \\frac{4-23}{6} = \\frac{1}{6}.$$Whereas, $$A_1 = \\int_0^1 (x^2-3x+2)dx = \\left[ \\frac{x^3}{3} - \\frac{3x^2}{2} + 2x \\right]_0^1 = \\frac{5}{6}$$ and\n$$A_3 = \\int_2^3 (x^2 - 3x + 2)dx = \\left[ \\frac{x^3}{3} - \\frac{3x^2}{2} + 2x \\right]_2^3 = \\frac{5}{6}.$$",
+        "topic": "5.4.1 The Area Between Two Curves",
+        "page_number": 245
+    },
+    {
+        "id": "rec_180",
+        "type": "Example",
+        "content": "Find the area of the region enclosed by the graph of $f (x) = \\sin x$ and the x-axis between $x = -\\frac{\\pi}{2}$ and $x = 2\\pi$.\n**Solution**\ny\n1\nx\n$-\\frac{\\pi}{2}$\n0\n$\\frac{\\pi}{2}$\n$\\pi$\n$\\frac{3\\pi}{2}$\n$2\\pi$\n-1\nFigure 5.12\nFrom the graph you have the area A of the region\n$A=-\\int_{-\\frac{\\pi}{2}}^0 \\sin x dx+\\int_0^\\pi \\sin x dx-\\int_\\pi^{2\\pi} \\sin x dx$\n$= -[-\\cos x]_{-\\frac{\\pi}{2}}^0 + [-\\cos x]_0^\\pi - [-\\cos x]_\\pi^{2\\pi}$\n$= [\\cos x]_{-\\frac{\\pi}{2}}^0 + [\\cos x]_0^\\pi + [\\cos x]_\\pi^{2\\pi}$\n$= \\cos 0 + (\\cos 0 - \\cos \\pi) + (\\cos (2\\pi) - \\cos (\\pi))$\n$= 1 + 1-(-1) + 1 - (-1) = 5$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 247
+    },
+    {
+        "id": "rec_181",
+        "type": "Example",
+        "content": "Find the area of the region bounded by the graph of $f(x) = x^5$ and the x-axis between $x = -1$ and $x = 1$.\n**Solution**\ny\n$y = x^5$\n1\nx\n$-1$\n1\n-1\nFigure 5.13\nFrom the symmetry of the region, you have the area\n$A = 2\\int_0^1 x^5 dx = 2 \\left( \\frac{x^6}{6} \\right)_0^1 = \\frac{1}{3}$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 247
+    },
+    {
+        "id": "rec_182",
+        "type": "Example",
+        "content": "Find the area of the region bounded by the graph of $f (x) = x^3-2x^2 + x$ and the x-axis between $x = -1$ and $x = 2$.\n**Solution**\ny\n2\n$y = x^3 \u2013 2x^2 + x$\n1\n$\\frac{4}{27}$\n-2\n-1\n0\n1\n2\n-1\n-2\n-3\n-4\nFigure 5.14\n$f (x) = x^3 - 2x^2 + x = x (x^2 - 2x + 1) = x (x - 1)^2$\nLet the area of the part of the region under the x-axis be $A_1$.\nThen, $A_1 = -\\int_{-1}^0 (x^3 - 2x^2 + x) dx = -\\left( \\frac{x^4}{4} - \\frac{2x^3}{3} + \\frac{x^2}{2} \\right)_{-1}^0$\n$= - \\left[0-\\left(\\frac{1}{4}+\\frac{2}{3}+\\frac{1}{2}\\right)\\right] = \\frac{17}{12}$ square units\nLet the area of the region above the x-axis be $A_2$, then\n$A_2 = \\int_0^2 (x^3 - 2x^2 + x) dx = \\left( \\frac{x^4}{4} - \\frac{2x^3}{3} + \\frac{x^2}{2} \\right)_0^2$\n$= \\left(\\frac{16}{4} - \\frac{2(8)}{3} + \\frac{4}{2}\\right) - 0 = \\left(4 - \\frac{16}{3} + 2\\right) = 6 - \\frac{16}{3} = \\frac{18-16}{3} = \\frac{2}{3}$\n$\\Rightarrow$ The area A of the region is\n$A = A_1 + A_2 = \\frac{17}{12} + \\frac{2}{3} = \\frac{17+8}{12} = \\frac{25}{12}$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 248
+    },
+    {
+        "id": "rec_183",
+        "type": "Example",
+        "content": "Let $f (x) =\\begin{cases} 2x, &\\text{if } x\\le1; \\\\ 1+\\frac{1}{x}, &\\text{if } x>1.\\end{cases}$\nFind the area of the region enclosed by the graph of f and the x-axis between $x = -1$ and $x = 2$.\n**Solution**\nYou first show that the function is continuous on $[-1, 2]$.\nLook at the graph of f on $[-1, 2]$. The function is continuous on $[-1, 2]$.\ny\n1\n2\n$y=1+\\frac{1}{x}$\n$y = 2x$\n1\nx\n-2\n-1\n0\n1\n2\nFigure 5.15\nThe upper part of the region is bounded by the graphs of two functions, $y = 2x$ and $y=1+\\frac{1}{x}$ intersecting at $x = 1$.\nLet $A_1$ be the area of the region between the lines $x = -1$ and $x = 1$ and $A_2$ be the area of the region between the lines $x = 1$ and $x = 2$.\nThen, $A_1 = \\int_{-1}^1 2xdx = \\left[\\frac{2^x}{\\ln 2}\\right]_{-1}^1 = \\frac{1}{\\ln 2}\\left(2-\\frac{1}{2}\\right) = \\frac{3}{2\\ln 2} = \\frac{3}{\\ln 4}$\n$A_2 = \\int_1^2\\left(1+\\frac{1}{x}\\right)dx = \\left[x+\\ln x\\right]_1^2 = (2+\\ln 2)-(1+\\ln 1) = 1+\\ln 2$\n$\\Rightarrow$ The area of the region $A = A_1 + A_2 = \\frac{3}{\\ln 4}+1+\\ln 2$.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 249
+    },
+    {
+        "id": "rec_184",
+        "type": "Example",
+        "content": "Example 18 Using the volume of a solid of revolution, show that the volume of a sphere of radius r is $\\frac{4}{3} \\pi r^3$.\n**Solution**\nIn Activity 5.11 you should have seen that a sphere of radius r is generated when the semicircular region $x^2 + y^2 \\le r^2$; $0 \\le y \\le r$ revolves around the $x$-axis.\nFigure 5.35\n$x^2 + y^2 = r^2$; $0 \\le y \\le r \\Rightarrow y = \\sqrt{r^2 - x^2}$\nThe volume\n$$V = \\pi \\int_{-r}^{r} (\\sqrt{r^2 - x^2})^2 dx = \\pi \\int_{-r}^{r} (r^2 - x^2) dx = \\pi \\left[ r^2x - \\frac{x^3}{3} \\right]_{-r}^{r}$$\n$$= \\pi \\left( \\left( r^2(r) - \\frac{r^3}{3} \\right) - \\left( r^2(-r) - \\frac{(-r)^3}{3} \\right) \\right) = \\pi \\left( r^3 - \\frac{r^3}{3} - \\left( -r^3 + \\frac{r^3}{3} \\right) \\right) = \\frac{4}{3} \\pi r^3$$",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 259
+    },
+    {
+        "id": "rec_185",
+        "type": "Example",
+        "content": "Example 19 Find the volume of water in a spherical bowl of radius 5 m, if its maximum depth is 2 m.\n**Solution**\nFrom Figure 5.36, you can determine the radius of the surface of the water which is 4 m.\nFigure 5.36\nThe hemisphere can be generated by the quarter of the circular region.\n$x^2 + y^2 = 25$; $0 \\le x \\le 5$ and $-5 \\le y \\le 0$ revolving about the $y$-axis.\nFigure 5.37\nThe volume of the water $$= \\pi \\int_{-5}^{-3} (\\sqrt{25 - y^2})^2 dy = \\pi \\int_{-5}^{-3} (25 - y^2) dy$$\n$$= \\pi \\left[ 25y - \\frac{y^3}{3} \\right]_{-5}^{-3} = \\pi \\left( \\left( 25(-3) - \\frac{(-3)^3}{3} \\right) - \\left( 25(-5) - \\frac{(-5)^3}{3} \\right) \\right)$$\n$= \\frac{52}{3} \\pi \\text{ cm}^3$.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 260
+    },
+    {
+        "id": "rec_186",
+        "type": "Example",
+        "content": "Example 20 Find the volume of the solid of revolution about the $y$-axis generated by revolving the region enclosed by the curve $x = y$ and the $y$-axis from $y = 0$ to $y = 4$.\n**Solution**\n$$V = \\pi \\int_{0}^{4} (y)^2 dy = \\pi \\int_{0}^{4} y dy = \\pi \\left[ \\frac{y^2}{2} \\right]_{0}^{4} = 8\\pi$$\nFigure 5.38",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 260
+    },
+    {
+        "id": "rec_187",
+        "type": "Example",
+        "content": "Example 21 If the region bounded by the curve $y = x^2$ and the line $y = 4$ rotates about the $x$-axis, find the volume of the solid of revolution.\n**Solution**\nThe first step is to determine the intersection points of the line and the curve and then sketch both graphs together.\n$x^2 = 4 \\Rightarrow x = \\pm 2$\nFigure 5.39\nThe solid of revolution is a cylinder that has a vacant space generated by the area bounded by $y = x^2$ and the $x$-axis from $x = -2$ to $x = 2$. Let V be the volume of vacant space.",
+        "topic": "Unit 5 Introduction to Integral Calculus",
+        "page_number": 261
+    }
+]

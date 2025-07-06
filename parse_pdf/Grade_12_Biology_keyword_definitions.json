@@ -1,0 +1,1094 @@
+[
+    {
+        "id": "rec_1",
+        "chunk text": "micro-organism is a very small organism, usually having just one cell.",
+        "topic": "1.1 Bacteria",
+        "page_number": 8
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "fungus (plural fungi) is a eukaryotic organism that obtains its nutrition using extracellular digestion. A fungus is neither a plant nor an animal.",
+        "topic": "1.1 Bacteria",
+        "page_number": 8
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "unicellular means a unicellular organism has just one cell.",
+        "topic": "1.1 Bacteria",
+        "page_number": 8
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "multicellular means a multicellular an organism has more than one cell.",
+        "topic": "1.1 Bacteria",
+        "page_number": 8
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "yeast is a type of fungi used for brewing and baking.",
+        "topic": "1.1 Bacteria",
+        "page_number": 8
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "mycelium is the collection of very fine strands that makes up a fungus. Each strand is called a hypha (plural hyphae). The hyphae are not \u2018compartmentalised\u2019 into cells; each is \u2018multinucleate\u2019 \u2013 the cytoplasm contains many nuclei.",
+        "topic": "1.1 Bacteria",
+        "page_number": 9
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "alga (plural algae) is a single-celled organism that obtains its nutrition using photosynthesis.",
+        "topic": "1.1 Bacteria",
+        "page_number": 9
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "motile means an organism that is able to move on its own.",
+        "topic": "1.1 Bacteria",
+        "page_number": 9
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "eukaryotic cell is a type of cell that has a nucleus. The word eukaryotic is derived from Greek eu (true) and karyos (nuclear).",
+        "topic": "What are bacterial cells like?",
+        "page_number": 10
+    },
+    {
+        "id": "rec_10",
+        "chunk text": "prokaryotic cell is a type of cell that does not have a nucleus. Only bacteria have prokaryotic cells. The word prokaryotic is derived from Greek pro (before) and karyos (nuclear).",
+        "topic": "What are bacterial cells like?",
+        "page_number": 10
+    },
+    {
+        "id": "rec_11",
+        "chunk text": "bacterium (plural bacteria) is a micro-organism consisting of just one prokaryotic cell.",
+        "topic": "What are bacterial cells like?",
+        "page_number": 10
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "Gram\u2019s staining is a test for classifying bacteria (named after Hans Christian Gram, who developed the technique in 1884).",
+        "topic": "Are there other ways of classifying bacteria?",
+        "page_number": 13
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "differential stain is a test that uses staining to classify organisms or organic material.",
+        "topic": "Are there other ways of classifying bacteria?",
+        "page_number": 13
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "peptidoglycan is a complex molecule made from sugars and amino acids. It has a mesh-like structure and is found in bacterial cell walls.",
+        "topic": "Are there other ways of classifying bacteria?",
+        "page_number": 13
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "endotoxins are toxins found in some bacteria.",
+        "topic": "Are there other ways of classifying bacteria?",
+        "page_number": 13
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "germ theory says that infectious diseases are caused by micro-organisms.",
+        "topic": "What is the role of bacteria and other microorganisms in infectious diseases?",
+        "page_number": 17
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "pathogen is the term that describes any organism that causes disease.",
+        "topic": "What is the role of bacteria and other microorganisms in infectious diseases?",
+        "page_number": 17
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "infectious disease is caused by a living organism entering or infecting another living organism. They are sometimes called communicable diseases because they can be transmitted or communicated from one person to another.",
+        "topic": "What is the role of bacteria and other microorganisms in infectious diseases?",
+        "page_number": 17
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "reservoir of infection is any person, animal, plant, soil or substance in which an infectious agent normally lives and multiplies. The reservoir typically harbours the infectious agent without showing symptoms of the disease and serves as a source from which other individuals can be infected. People acting as the reservoir of infection are sometimes called carriers of the disease.",
+        "topic": "How are disease-causing micro-organisms transmitted?",
+        "page_number": 19
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "Human induced diseases are diseases that arise as a result of a person\u2019s lifestyle.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "Degenerative diseases often result from the ageing process during which the affected tissues deteriorate over time due to simple \u2018wear and tear\u2019.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "Genetic diseases are diseases that result from the action of mutated genes.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "Deficiency diseases are diseases that result from a lack of a nutrient in our diet.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "Social diseases are conditions that result from social activities and may lead to socially unacceptable behaviour.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "Multifactorial describes a condition that is affected by the interaction of many factors.",
+        "topic": "Categorising diseases",
+        "page_number": 21
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "antibiotic is a drug that kills bacteria.",
+        "topic": "Producing antibiotics",
+        "page_number": 25
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "genetic engineering is the practice of transferring genes from one organism to another organism (either belonging to the same species or belonging to a different species). This is done by taking DNA from the first organism and transferring it to the second organism. Genetic engineering has only been practised since 1980.",
+        "topic": "How are bacteria genetically modified?",
+        "page_number": 28
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "vector is a means of transferring something. In genetic engineering, viruses are used as vectors to transfer genetic information between different organisms.",
+        "topic": "How are bacteria genetically modified?",
+        "page_number": 28
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "virus is some genetic material contained in a protein coat. It is not usually regarded as a living organism.",
+        "topic": "1.3 What are viruses?",
+        "page_number": 32
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "DNA virus is contains genetic information stored in the form of DNA.",
+        "topic": "Classifying viruses",
+        "page_number": 34
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "RNA virus is contains genetic information stored in the form of RNA.",
+        "topic": "Classifying viruses",
+        "page_number": 34
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "retrovirus is an RNA virus that converts its genetic information from RNA into DNA after it has infected a host.",
+        "topic": "Classifying viruses",
+        "page_number": 34
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "bacteriophage is a virus that uses a bacteria to replicate its genetic information.",
+        "topic": "Classifying viruses",
+        "page_number": 34
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "HIV is HIV (human immuno-deficiency virus) is the virus now known to cause AIDS.",
+        "topic": "HiV and AiDS",
+        "page_number": 38
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "AIDS is AIDS (acquired immune deficiency syndrome) is a disease that causes its victim\u2019s immune system to degenerate leaving them vulnerable to infectious diseases and some types of tumour.",
+        "topic": "HiV and AiDS",
+        "page_number": 38
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "macrophage is (also called a white blood cell) is a cell that surrounds and destroys pathogens.",
+        "topic": "HiV and AiDS",
+        "page_number": 38
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "photosynthesis is the process that fixes carbon atoms from an inorganic source (carbon dioxide) into organic compounds (for example, glucose).",
+        "topic": "What are the main stages in the carbon cycle?",
+        "page_number": 52
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "decomposer is an organism that breaks down dead organic matter and recycles it.",
+        "topic": "What are the main stages in the carbon cycle?",
+        "page_number": 52
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "saprobiotic nutrition is used by organisms such as fungi to obtain nutrients from non-living organic matter using extracellular digestion.",
+        "topic": "What are the main stages in the carbon cycle?",
+        "page_number": 52
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "extracellular digestion is when organisms excrete enzymes to release nutrients from food and then absorb these nutrients through their cell walls.",
+        "topic": "What are the main stages in the carbon cycle?",
+        "page_number": 52
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "redox reaction is a reaction where one chemical (called an oxidising agent) is reduced, and another chemical (called a reducing agent) is oxidised.",
+        "topic": "What are the main stages in the nitrogen cycle?",
+        "page_number": 53
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "legumes (also called pulses) are food plants such as beans, lentil and peas.",
+        "topic": "How is phosphorus recycled?",
+        "page_number": 55
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "ecology is the branch of science that describes and explains how organisms belonging to different species interact with each other and with the non-living environment.",
+        "topic": "2.2 Ecological succession",
+        "page_number": 59
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "ecosystem is a community of organisms along with their habitat.",
+        "topic": "2.2 Ecological succession",
+        "page_number": 59
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "succession is the process where one ecosystem replaces another ecosystem.",
+        "topic": "2.2 Ecological succession",
+        "page_number": 59
+    },
+    {
+        "id": "rec_10",
+        "chunk text": "abiotic describes the non-living part of an ecosystem.",
+        "topic": "What is a succession?",
+        "page_number": 60
+    },
+    {
+        "id": "rec_11",
+        "chunk text": "climax community is the most complex community that can exist under the prevailing environmental conditions.",
+        "topic": "What is a succession?",
+        "page_number": 60
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "biosphere is all those parts of the Earth, including the Earth\u2019s crust, the seas and the atmosphere, where living organisms can be found.",
+        "topic": "2.3 Biomes",
+        "page_number": 63
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "biome is a climatically and geographically limited ecological area that consists of organisms that are adapted in similar ways.",
+        "topic": "2.3 Biomes",
+        "page_number": 63
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "terrestrial biome is a biome consisting of an area of land.",
+        "topic": "What are the main types of terrestrial biomes?",
+        "page_number": 64
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "aquatic biome is a marine biome or a freshwater biome.",
+        "topic": "What types of aquatic biomes are there?",
+        "page_number": 66
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "freshwater biome is a biome consisting of a river, a lake or a pond.",
+        "topic": "What types of aquatic biomes are there?",
+        "page_number": 66
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "marine biome is a biome consisting of a part of the sea.",
+        "topic": "What types of aquatic biomes are there?",
+        "page_number": 66
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "biodiversity is the extent to which an ecosystem contains different species. Greater biodiversity makes an ecosystem less vulnerable.",
+        "topic": "What is biodiversity?",
+        "page_number": 69
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "index of diversity is a number indicating an ecosystem\u2019s biodiversity.",
+        "topic": "What is biodiversity?",
+        "page_number": 69
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "tropical rainforest is a biome at a low elevation above sea-level, high rainfall and warm temperatures all year round.",
+        "topic": "How has deforestation affected biodiversity?",
+        "page_number": 71
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "forage plant is a plant that is grown for animal feed.",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "species is a group of organisms that can interbreed to produce viable and fertile offspring.",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "genus is a group of closely related species (e.g. the genus Felis contains all species of small cats).",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "family is a group of related genera (e.g., the family Felidae contains all cat-like animals, large and small).",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "order is a group of genera that may differ but share some important attribute (e.g., the order Carnivora contains all carnivorous mammals, including the various cat-like mammals and dog-like mammals).",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "endemic is an organism that is endemic to an area is always present and numerous in that area.",
+        "topic": "What about \u2013 biodiversity in Ethiopia?",
+        "page_number": 75
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "conservation means the measures taken by people to preserve or restore an ecosystem.",
+        "topic": "UNIT 2: Ecology",
+        "page_number": 81
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "food web is an interconnected collection of food chains.",
+        "topic": "UNIT 2: Ecology",
+        "page_number": 82
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "habitat is the part of an ecosystem where members of a particular species live.",
+        "topic": "What factors influence the sizes of populations?",
+        "page_number": 86
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "geographical range is the part of the Earth\u2019s surface where members of a particular species live.",
+        "topic": "What factors influence the sizes of populations?",
+        "page_number": 86
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "demographic transition is a model that seeks to explain the transformation of countries from having high birth and death rates to low birth and death rates.",
+        "topic": "What about human populations?",
+        "page_number": 92
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "natality is the rate at which people or members of an animal species are born.",
+        "topic": "What can we do about it?",
+        "page_number": 95
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "mortality is the rate at which people or members of an animal species die.",
+        "topic": "What can we do about it?",
+        "page_number": 95
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "gene is a section of DNA (and therefore a section of a chromosome) that determines a particular feature, for example, earlobe attachment in humans.",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 108
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "histone is the core of a chromosome around which the chromosome\u2019s DNA is wrapped",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 108
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "chromosome is a long strand of DNA on which a large number of genes is stored",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 108
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "allele is a version of a gene that determines a particular trait",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 108
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "homologous pairs are the chromosomes in a eukaryotic cell usually come in pairs or called homologous pairs. Each of the chromosomes in a homologous pair have corresponding genes that together determine the same trait",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "locus (plural loci) is the position of a particular gene on a chromosome",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "homozygous means an organism is homozygous for a particular gene if it has the same allele for that gene on each of the chromosomes in the homologous pair",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "heterozygous means an organism is heterozygous for a particular gene if it has different alleles for that gene on each of the chromosomes in the relevant homologous pair",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "genotype describes the pair of alleles for a particular gene possessed by a organism",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_10",
+        "chunk text": "phenotype describes the trait or traits determined by a particular genotype",
+        "topic": "What is the relationship between chromosomes, genes, alleles and characteristics of an organism?",
+        "page_number": 109
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "F1/F2 (first/second filials) means when organisms with different traits are cross-bred, F1 refers to the offspring from the original organisms, and F2 refers to the offspring of the F1 organisms.",
+        "topic": "",
+        "page_number": 111
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "trait is a feature of an organism determined by its genes.",
+        "topic": "",
+        "page_number": 111
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "dominant allele is the allele expressed in a heterozygous organism.",
+        "topic": "",
+        "page_number": 111
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "recessive allele is only expressed in a homozygous organism.",
+        "topic": "",
+        "page_number": 111
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "back cross/test cross means an organism showing the dominant trait is bred with one showing the recessive trait. The results allow determination of whether the original organism showing this dominant trait was homozygous or heterozygous.",
+        "topic": "How can parents showing one version of a feature have children with the other version?",
+        "page_number": 113
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "codominant or incomplete dominant alleles means the pattern of inheritance where both alleles of a gene are equally expressed and determine which trait occurs in a heterozygous organism.",
+        "topic": "Are alleles always simply dominant or recessive?",
+        "page_number": 118
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "meiosis is the process by which a cell divides to form haploid gametes.",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "homologous chromosomes are chromosomes that carry genes for the same feature at the same loci (in the same places).",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "chromatid is when a eukaryotic cell divides during meiosis, each of its chromosomes divides into two chromatids.",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_10",
+        "chunk text": "haploid is a haploid cell, usually a gamete, has a single set of chromosomes instead of homologous pairs.",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_11",
+        "chunk text": "diploid is a diploid cell has homologous pairs of chromosomes.",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_12",
+        "chunk text": "bivalent is a pair of homologous chromosomes.",
+        "topic": "What is the physical basis for these patterns of inheritance?",
+        "page_number": 120
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "sister chromatid is chromatids from the same chromosome; they have the same alleles in the same sequence.",
+        "topic": "The main stages of meiosis",
+        "page_number": 122
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "non-sister chromatid is chromatids from different chromosomes of a homologous pair; although the genes are the same and at the same loci, the alleles may be different.",
+        "topic": "The main stages of meiosis",
+        "page_number": 122
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "cytokinesis is the process that leads up to the cell dividing into two during meiosis.",
+        "topic": "The main stages of meiosis",
+        "page_number": 122
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "gamete is a sex cell.",
+        "topic": "What about alleles that don\u2019t segregate at gamete formation \u2013 genetic linkage",
+        "page_number": 122
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "inbreeding involves breeding animals or plants with close relatives. This can cause problems such as infertility in the resulting offspring.",
+        "topic": "How is knowledge of genetics important in cross-breeding and inbreeding crops and stock?",
+        "page_number": 125
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "hybrid vigour is the increased vigour or productivity of organisms resulting from cross-breeding different varieties of the same species.",
+        "topic": "How is knowledge of genetics important in cross-breeding and inbreeding crops and stock?",
+        "page_number": 125
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "karyotype is a photograph of all the chromosomes in a cell arranged in homologous pairs.",
+        "topic": "The genes on the sex chromosomes",
+        "page_number": 129
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "SRY gene is the dominant gene on the Y chromosome that causes a mammal to develop as a male.",
+        "topic": "The genes on the sex chromosomes",
+        "page_number": 129
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "sex-linked is a gene found on one of the chromosomes that determine sex.",
+        "topic": "The genes on the sex chromosomes",
+        "page_number": 129
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "sex-influenced trait is more likely to occur in one sex but may sometimes occur in the other sex.",
+        "topic": "What are sex-influenced and sex-limited traits?",
+        "page_number": 131
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "sex-limited trait occurs only in one sex and never occurs in the other sex.",
+        "topic": "What are sex-influenced and sex-limited traits?",
+        "page_number": 131
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "DNA (deoxyribonucleic acid) is the molecule that stores genetic information.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "histone is the core of a chromosome around which the chromosome\u2019s DNA is wrapped.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "chromatin is the loose form taken by a chromosome when the cell is not dividing.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "RNA (ribonucleic acid) is another molecule that stores genetic information. Genetic information stored as DNA is transcribed into RNA as part of the process for making proteins.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "double helix describes the structure of a DNA molecule. It consists of two anti-parallel polynucleotide strands.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "nucleotide is a component of a nucleic acid molecule. It consists of a phosphate group, a sugar called a deoxyribose (or ribose) and a nitrogenous base.",
+        "topic": "3.2 Molecular genetics",
+        "page_number": 133
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "DNA helicase is the enzyme that initiates the separation of the polynucleotide strands during DNA replication.",
+        "topic": "How does the DNA molecule replicate itself?",
+        "page_number": 137
+    },
+    {
+        "id": "rec_10",
+        "chunk text": "DNA polymerase is the enzyme that initiates the building of a new complementary polynucleotide strand of DNA following separation of the original two strands.",
+        "topic": "How does the DNA molecule replicate itself?",
+        "page_number": 137
+    },
+    {
+        "id": "rec_11",
+        "chunk text": "clone is a group of organisms that are genetically identical to each other and to the organism from which they were derived.",
+        "topic": "How are organisms cloned?",
+        "page_number": 139
+    },
+    {
+        "id": "rec_12",
+        "chunk text": "genetically modified organism is an organism created using genetic engineering which contains a transferred gene or genes.",
+        "topic": "How are organisms cloned?",
+        "page_number": 139
+    },
+    {
+        "id": "rec_13",
+        "chunk text": "transgenic organism is a genetically modified organism that contains a gene or genes transferred from another organism belonging to a different species.",
+        "topic": "What is genetic engineering?",
+        "page_number": 140
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "genetic fingerprinting is a forensic technique that is used to try to solve crimes by matching DNA found at crime scenes with the DNA of suspects.",
+        "topic": "How can gene technology be used in forensic science?",
+        "page_number": 142
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "Electrophoresis is a technique that uses a thick block of gel (jelly-like material) to act as a \u2018molecular sieve\u2019. Fragments of DNA (or protein molecules) are separated by applying an electrical field across the gel. Because DNA fragments are negatively charged, they move to the positive electrode. The smaller fragments move more quickly than the larger ones and so move futher in the same time.",
+        "topic": "How can gene technology be used in forensic science?",
+        "page_number": 142
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "penicillin is the first antibiotic to be discovered.",
+        "topic": "What are the moral and ethical considerations of using gene technology?",
+        "page_number": 145
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "mRNA (messenger RNA) is a nucleic acid that transmits the genetic code from DNA to ribosome.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 147
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "transcription is the process that converts genetic information from a DNA code into an mRNA code.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 147
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "tRNA (transfer RNA) transfers individual amino acids during translation.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 147
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "ribosome is the part of a cell that makes proteins.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 147
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "translation is the process in which the mRNA code is converted into a sequence of amino acids.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 147
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "codon is a triplet of mRNA bases that has the code needed to make one protein.",
+        "topic": "3.3 Protein synthesis",
+        "page_number": 149
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "anticodon is a triplet on tRNA complementary to a codon in mRNA.",
+        "topic": "UNit 3: Genetics",
+        "page_number": 151
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "amino acid is the \u2018building block\u2019 of proteins; each amino acid has an \u2018amino\u2019 group and a \u2018carboxyl\u2019 (acid) group.",
+        "topic": "UNit 3: Genetics",
+        "page_number": 153
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "short interfering RNA is a short sequence of RNA which can be used to silence gene expression.",
+        "topic": "How are genes switched off?",
+        "page_number": 155
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "mutation is a random change in genetic information.",
+        "topic": "3.4 Mutations",
+        "page_number": 157
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "sickle-cell anaemia is a condition caused by a mutation that affects the structure of the haemoglobin molecules in red blood cells causing the red blood cells to sickle under low oxygen tension.",
+        "topic": "3.4 Mutations",
+        "page_number": 158
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "deletion mutation is a mutation caused by one DNA nucleotide being omitted from the sequence.",
+        "topic": "3.4 Mutations",
+        "page_number": 159
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "tumour is a mass of cells created when cell replication gets out of control. Tumours cause the disease cancer.",
+        "topic": "What are the consequences of gene mutations?",
+        "page_number": 160
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "antibiotic resistance is the evolution of strains of bacteria that are not affected by antibiotics. It is caused by the overuse of antibiotics.",
+        "topic": "Can mutations benefit an organism?",
+        "page_number": 161
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "Chromosome 16 is one of the 23 pairs of chromosomes in humans. It spans about 90 million base pairs and accounts for nearly 3% of DNA in cells.",
+        "topic": "Chromosome mutations",
+        "page_number": 162
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "Chromosome 21 is one of the 23 pairs of chromosomes in humans. It is the smallest of the chromosomes.",
+        "topic": "Chromosome mutations",
+        "page_number": 162
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "evolution is the theory of evolution describes how the various forms of life on Earth (including humans) emerged and developed.",
+        "topic": "4.1 The origin of life",
+        "page_number": 176
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "creationism (or special creationism) is a theory claiming that the different forms of life on Earth were created by a supreme being.",
+        "topic": "How does special creationism account for the origin of life?",
+        "page_number": 178
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "intelligent design is a theory claiming that life developed due to a combination of natural forces and the intervention of a supernatural being.",
+        "topic": "How does special creationism account for the origin of life?",
+        "page_number": 179
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "spontaneous generation is a theory that claimed that some types of organism could come into being almost instantly from non-living materials.",
+        "topic": "How does spontaneous generation seek to explain life on Earth?",
+        "page_number": 179
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "eternity of life theory is claims that the Universe has always existed and that there has always been life in the Universe.",
+        "topic": "How does the eternity of life theory seek to explain life on Earth?",
+        "page_number": 180
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "cosmozoan theory is claims that life on Earth originally came from elsewhere in the Universe (possibly from another planet).",
+        "topic": "How does the cosmozoan theory seek to explain life on Earth?",
+        "page_number": 180
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "biochemical theory suggests that life on Earth originated as a result of a number of biochemical reactions producing organic molecules which associated to form cells.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 181
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "prokaryote is an organism consisting of a prokaryotic cell. All bacteria are prokaryotes.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 183
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "eukaryote is an organism consisting of one or more eukaryotic cells. All organisms other than bacteria are eukaryotes.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 183
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "archaebacterium is the first bacteria (and thus the first living organisms) to develop on Earth. They are now only found in extreme conditions.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 183
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "eubacterium is any bacteria that is not an archaebacterium is a eubacterium.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 183
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "photosynthesis is the use of light energy to drive reactions that synthesise organic molecules; it occurs in plants, algae and some bacteria.",
+        "topic": "How does the biochemical theory seek to explain life on Earth?",
+        "page_number": 183
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "autotroph is an organism that produces organic molecules from inorganic material.",
+        "topic": "How did autotrophs evolve on Earth?",
+        "page_number": 185
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "aerobic respiration is a means by which cells release energy from organic molecules using oxygen.",
+        "topic": "How did autotrophs evolve on Earth?",
+        "page_number": 185
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "Lamarckism is the theory developed by the French biologist Jean-Baptiste Lamarck that claimed that organisms passed on to subsequent generations traits acquired during their lifetime.",
+        "topic": "4.2 Theories of evolution",
+        "page_number": 189
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "neo-Darwinism is a revised version of Darwin\u2019s theory of evolution by means of natural selection. This theory, which is now accepted by most biologists, combines Darwin\u2019s original theory, genetic theory and theories about animal behaviour.",
+        "topic": "What is neo-Darwinism?",
+        "page_number": 193
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "half-life is the time needed for half the atoms of a radioactive substance to decay. After two half-lives, three quarters of the atoms will have decayed, and so on.",
+        "topic": "How can we date fossils?",
+        "page_number": 199
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "homologous structures are structures with the same basic anatomy and a common evolutionary origin but having a different function.",
+        "topic": "How does comparative anatomy support the theory of evolution?",
+        "page_number": 202
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "pentadactyl limb is a limb with five digits.",
+        "topic": "How does comparative anatomy support the theory of evolution?",
+        "page_number": 203
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "analogous structures are structures having the same function but different anatomy and different evolutionary origin.",
+        "topic": "How does comparative anatomy support the theory of evolution?",
+        "page_number": 203
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "haemoglobin is the molecule found in red blood cells that carries oxygen to where it is needed.",
+        "topic": "How does comparative biochemistry support the theory of evolution?",
+        "page_number": 205
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "selective breeding is a technique used to produce organisms with a desired trait by allowing only those organisms with that trait to reproduce.",
+        "topic": "How does plant and animal breeding support the theory of evolution?",
+        "page_number": 206
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "natural selection is the theory that explains the origin of species in terms of survival of those best adapted to a specific environment.",
+        "topic": "What are the different types of natural selection?",
+        "page_number": 209
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "species is a group of related organisms that can reproduce with each other so that they produce fertile offspring.",
+        "topic": "What are the different types of natural selection?",
+        "page_number": 209
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "speciation is the process by which a new species evolves.",
+        "topic": "What are the different types of natural selection?",
+        "page_number": 209
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "allopatric speciation occurs when a population from an existing species becomes geographically isolated and the isolated population develops into a new species.",
+        "topic": "What is allopatric speciation?",
+        "page_number": 212
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "sympatric speciation occurs when a population from an existing species develops into a new species without becoming geographically isolated from other members of the original species.",
+        "topic": "What is allopatric speciation?",
+        "page_number": 212
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "polyploidy occurs when an organism has more than two sets of homologous chromosomes.",
+        "topic": "What is polyploidy and why is it important in plant evolution?",
+        "page_number": 213
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "tetraploid is an organism that has four sets of homologous chromosomes.",
+        "topic": "What is polyploidy and why is it important in plant evolution?",
+        "page_number": 213
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "convergent evolution is the process by which unrelated organisms evolve similar structures, adapted for the same function.",
+        "topic": "What is convergent evolution?",
+        "page_number": 215
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "Homo sapiens is the species that all humans alive today belong to.",
+        "topic": "Who are we and where have we come from?",
+        "page_number": 218
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "genus (plural genera) is a group of closely related species.",
+        "topic": "Who are we and where have we come from?",
+        "page_number": 219
+    },
+    {
+        "id": "rec_8",
+        "chunk text": "hominin is any member of the genus Homo. This includes modern humans (Homo sapiens), neanderthals and Homo erectus.",
+        "topic": "Who are we and where have we come from?",
+        "page_number": 219
+    },
+    {
+        "id": "rec_9",
+        "chunk text": "hominid is a group of species that includes all the species belonging to the genus Homo along with other species such as Ardipethecus ramidus and Australopithecus afarensis (Lucy).",
+        "topic": "Who are we and where have we come from?",
+        "page_number": 219
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "receptor is a cell or group of cells that receives and processes stimuli.",
+        "topic": "What is behaviour?",
+        "page_number": 237
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "effector is any part of an organism that produces a response.",
+        "topic": "What is behaviour?",
+        "page_number": 237
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "phototropism is the tendency for parts of plants to grow towards light (positive phototropism) or away from light (negative phototropism).",
+        "topic": "What is behaviour?",
+        "page_number": 237
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "auxin is a hormone that helps to produce the phototropic response.",
+        "topic": "What is behaviour?",
+        "page_number": 237
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "neuroscience is the branch of science concerned with the brain and the nervous system.",
+        "topic": "Why is it important to study behaviour?",
+        "page_number": 240
+    },
+    {
+        "id": "rec_6",
+        "chunk text": "neuroethology is the study of how behaviour is linked to neural pathways.",
+        "topic": "Why is it important to study behaviour?",
+        "page_number": 240
+    },
+    {
+        "id": "rec_7",
+        "chunk text": "neural pathway is a sequence of nerve cells involved in bringing about a specific behaviour.",
+        "topic": "Why is it important to study behaviour?",
+        "page_number": 240
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "innate behaviour is any type of behaviour that does not need to be learned.",
+        "topic": "5.2 Innate behaviour",
+        "page_number": 244
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "fixed action pattern is the predetermined behaviour (or behaviours) produced as a response to the key stimulus.",
+        "topic": "5.2 Innate behaviour",
+        "page_number": 244
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "key stimulus is the stimulus (out of several stimuli) that triggers the fixed action pattern response.",
+        "topic": "5.2 Innate behaviour",
+        "page_number": 244
+    },
+    {
+        "id": "rec_4",
+        "chunk text": "imprinting is the process by which animals acquire their first forms of behaviour, particularly their attachment to their mother.",
+        "topic": "What is instinctive behaviour?",
+        "page_number": 247
+    },
+    {
+        "id": "rec_5",
+        "chunk text": "learned behaviour is behaviour that is acquired through experience (such as trial and error) or by insight.",
+        "topic": "What is learned behaviour?",
+        "page_number": 250
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "conditioning is a technique used to get an animal to learn a particular behaviour by associating that behaviour with an event or stimulus (classical conditioning) or with a consequence, such as reward or punishment (operant conditioning).",
+        "topic": "What is classical conditioning?",
+        "page_number": 253
+    },
+    {
+        "id": "rec_1",
+        "chunk text": "territory is an area that an animal or a group of animals reserves for itself so as to exclude other members of the same species.",
+        "topic": "What is territorial behaviour?",
+        "page_number": 263
+    },
+    {
+        "id": "rec_2",
+        "chunk text": "ritual fighting is behaviour in which the acts of fighting are displayed, without any physical contact.",
+        "topic": "What is social behaviour?",
+        "page_number": 264
+    },
+    {
+        "id": "rec_3",
+        "chunk text": "caste is a group within a social structure.",
+        "topic": "Social behaviour in bees",
+        "page_number": 266
+    }
+]

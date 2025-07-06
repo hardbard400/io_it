@@ -1,0 +1,32 @@
+[
+    {
+        "table_name": "Table 1.1 The components of biogas",
+        "chunk_text": "This table outlines the components of biogas and their respective percentages by volume within the mixture. Biogas predominantly consists of Methane, ranging from 50\u201380%, and Carbon dioxide, making up 15\u201345%. Water is present at 5%, while Hydrogen sulphide accounts for 0\u20133% of the mixture. Other gases, including hydrogen, are found in smaller amounts, ranging from 0\u20131%.",
+        "page_number": 12,
+        "_id": "rec_1"
+    },
+    {
+        "table_name": "Table 2.1 Comparing mitosis and meiosis",
+        "chunk_text": "This table compares mitosis and meiosis across several features. Mitosis occurs in somatic (normal body) cells, while meiosis takes place in germ cells found in reproductive (sex) organs. Regarding chromosome number in daughter cells, mitosis results in daughter cells having the same number of chromosomes as the original cell, whereas meiosis leads to daughter cells with half the original chromosome number. Mitosis produces two daughter cells, while meiosis yields four. In terms of variety, daughter cells from mitosis are identical to the parent cells, but those from meiosis are always different from the parent cells, introducing variety. DNA replication always occurs in mitosis; in meiosis, it always occurs at the first meiotic division but never at the second. The frequency of these processes varies: mitosis can occur from every few hours to every few years depending on cell type and age. For meiosis, in girls, the first division happens before birth, with the second division occurring monthly and completed upon fertilization, stopping at menopause; in boys, it begins at puberty and continues steadily throughout life.",
+        "page_number": 28,
+        "_id": "rec_2"
+    },
+    {
+        "table_name": "Table 3.1: Table to show the main sense organs of the body and the type of stimulus they respond to",
+        "chunk_text": "This table outlines the main sense organs of the body and the specific types of energy or stimuli they respond to. The eye, specifically its retina, provides vision and responds to light. The ear has two parts: the cochlea, which functions as the organ of hearing and responds to sound, and the semi-circular canals, which act as the organ of balance and respond to kinetic movement. The tongue's taste buds enable taste and respond to chemical stimuli. Similarly, the nose's olfactory organ, responsible for smell, also responds to chemical stimuli. The skin contains various receptors; those for touch, pressure, and pain respond to kinetic movement, while temperature receptors respond to heat. Additionally, muscles contain stretch receptors that respond to kinetic movement. Lastly, chemoreceptors found in the arteries and brain respond to chemical stimuli, specifically pH and carbon dioxide levels.",
+        "page_number": 76,
+        "_id": "rec_3"
+    },
+    {
+        "table_name": "Table 3.2 Goitre rate of women by regional states (1997)",
+        "chunk_text": "This table, 'Table 3.2 Goitre rate of women by regional states (1997)', presents the percentage of women affected by goitres in various regional states as of 1997. Among the listed regions, SNNPR recorded the highest percentage at 59.9%, followed by Benshangul Gumuz at 37.3%, Tigray at 35.6%, Oromia at 31.3%, and Amhara at 28.8%. Addis Ababa had a rate of 22.3%, Afar 15.6%, Dire Dawa 12.4%, and Harari 6.7%. Gambella showed the lowest rate at 1.4%, though it was noted as under-represented due to insufficient data. The weighted total goitre rate across these regional states was 35.8%.",
+        "page_number": 95,
+        "_id": "rec_4"
+    },
+    {
+        "table_name": "Table 3.3 Table to show the main hormones produced in the body, the endocrine organ that produces them and the function in the body",
+        "chunk_text": "This table, titled \"Table 3.3 Table to show the main hormones produced in the body, the endocrine organ that produces them and the function in the body,\" details various hormones, their producing endocrine organs, and their specific functions. The pituitary gland produces Growth hormone, which controls children's growth rate; Thyroid stimulating hormone (TSH), which stimulates the thyroid gland to secrete thyroxine; Anti-diuretic hormone (ADH), which controls the water content of the blood through its effect on kidneys; Follicle stimulating hormone (FSH), which stimulates egg development and oestrogen production in women and sperm production in men; and Luteinising hormone (LH), which stimulates egg release in women and testosterone production in men. The thyroid gland produces Thyroxine, controlling the body's metabolic rate. The pancreas produces Insulin, which lowers blood sugar levels, and Glucagon, which raises them. Adrenal glands produce Adrenaline, which prepares the body for stressful 'fight or flight' situations. The ovaries produce Oestrogen, which controls the development of female secondary sexual characteristics and is involved in the menstrual cycle, and Progesterone, also involved in the menstrual cycle. Lastly, the testes produce Testosterone, which controls the development of male secondary sexual characteristics and is involved in sperm production.",
+        "page_number": 107,
+        "_id": "rec_5"
+    }
+]
